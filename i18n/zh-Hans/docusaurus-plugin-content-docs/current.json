@@ -1,0 +1,270 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Network": {
+    "message": "网络",
+    "description": "The label for category Network in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Smart Contract": {
+    "message": "智能合约",
+    "description": "The label for category Smart Contract in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Node": {
+    "message": "节点",
+    "description": "The label for category Node in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Bridge": {
+    "message": "桥",
+    "description": "The label for category Bridge in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.doc.Quick Start": {
+    "message": "入门",
+    "description": "The label for the doc item Quick Start in sidebar tutorialSidebar, linking to the doc quickstart"
+  },
+  "sidebar.tutorialSidebar.doc.Build a Web3 App On BTTC": {
+    "message": "在BTTC上部署一个Web3应用",
+    "description": "The label for the doc item Build a Web3 App On BTTC in sidebar tutorialSidebar, linking to the doc build-web3-app"
+  },
+  "sidebar.tutorialSidebar.doc.Wallet": {
+    "message": "钱包",
+    "description": "The label for the doc item Wallet in sidebar tutorialSidebar, linking to the doc wallet"
+  },
+  "sidebar.tutorialSidebar.doc.Network Details": {
+    "message": "网络详情",
+    "description": "The label for the doc item Network Details in sidebar tutorialSidebar, linking to the doc networks/network"
+  },
+  "sidebar.tutorialSidebar.doc.Deploy Contract": {
+    "message": "部署合约",
+    "description": "The label for the doc item Deploy Contract in sidebar tutorialSidebar, linking to the doc smartcontract/deploy-contracts"
+  },
+  "sidebar.tutorialSidebar.doc.Genesis Contracts": {
+    "message": "创世合约",
+    "description": "The label for the doc item Genesis Contracts in sidebar tutorialSidebar, linking to the doc smartcontract/genesis-contracts"
+  },
+  "sidebar.tutorialSidebar.doc.Validator Node Deployment": {
+    "message": "验证人节点部署",
+    "description": "The label for the doc item Validator Node Deployment in sidebar tutorialSidebar, linking to the doc node/build-validator-node"
+  },
+  "sidebar.tutorialSidebar.doc.Fullnode Deployment": {
+    "message": "全节点部署",
+    "description": "The label for the doc item Fullnode Deployment in sidebar tutorialSidebar, linking to the doc node/build-fullnode"
+  },
+  "sidebar.tutorialSidebar.doc.Snapshot": {
+    "message": "快照",
+    "description": "The label for the doc item Snapshot in sidebar tutorialSidebar, linking to the doc node/snapshot"
+  },
+  "sidebar.tutorialSidebar.doc.Overview": {
+    "message": "概述",
+    "description": "The label for the doc item Overview in sidebar tutorialSidebar, linking to the doc bridge/overview"
+  },
+  "sidebar.tutorialSidebar.doc.Asset Map": {
+    "message": "资产映射",
+    "description": "The label for the doc item Asset Map in sidebar tutorialSidebar, linking to the doc bridge/asset-map"
+  },
+  "sidebar.tutorialSidebar.doc.Deposit and Withdraw": {
+    "message": "存款和提取",
+    "description": "The label for the doc item Deposit and Withdraw in sidebar tutorialSidebar, linking to the doc bridge/deposit-and-withdraw"
+  },
+  "sidebar.tutorialSidebar.doc.Deposit Checkpoint Event Tracking": {
+    "message": "存款与检查点事件跟踪",
+    "description": "The label for the doc item Deposit Checkpoint Event Tracking in sidebar tutorialSidebar, linking to the doc bridge/deposit-checkpoint-event-tracking"
+  },
+  "sidebar.tutorialSidebar.doc.State Transfer": {
+    "message": "状态转移",
+    "description": "The label for the doc item State Transfer in sidebar tutorialSidebar, linking to the doc bridge/state-transfer"
+  },
+  "sidebar.tutorialSidebar.doc.FAQ": {
+    "message": "常见问题",
+    "description": "The label for the doc item FAQ in sidebar tutorialSidebar, linking to the doc faq"
+  },
+  "sidebar.validatorSidebar.doc.Overview": {
+    "message": "概述",
+    "description": "The label for the doc item Overview in sidebar validatorSidebar, linking to the doc validator/overview"
+  },
+  "sidebar.validatorSidebar.doc.Validate": {
+    "message": "验证",
+    "description": "The label for the doc item Validate in sidebar validatorSidebar, linking to the doc validator/validator"
+  },
+  "sidebar.delegator.doc.Delegate": {
+    "message": "代理",
+    "description": "The label for the doc item Delegate in sidebar delegator, linking to the doc delegator/delegate"
+  },
+  "sidebar.basics.category.BlockChain Basics": {
+    "message": "区块链基础知识",
+    "description": "The label for category BlockChain Basics in sidebar basics"
+  },
+  "sidebar.basics.category.BTTC Basics": {
+    "message": "BTTC基础知识",
+    "description": "The label for category BTTC Basics in sidebar basics"
+  },
+  "sidebar.basics.doc.BlockChain": {
+    "message": "区块链",
+    "description": "The label for the doc item BlockChain in sidebar basics, linking to the doc basics/blockchain-basics/basics-blockchain"
+  },
+  "sidebar.basics.doc.Types of Blockchain": {
+    "message": "区块链类型",
+    "description": "The label for the doc item Types of Blockchain in sidebar basics, linking to the doc basics/blockchain-basics/basics-blockchain-types"
+  },
+  "sidebar.basics.doc.Consensus": {
+    "message": "共识机制",
+    "description": "The label for the doc item Consensus in sidebar basics, linking to the doc basics/blockchain-basics/basics-consensus-mechanism"
+  },
+  "sidebar.basics.doc.Ethereum": {
+    "message": "以太坊",
+    "description": "The label for the doc item Ethereum in sidebar basics, linking to the doc basics/blockchain-basics/basics-ethereum"
+  },
+  "sidebar.basics.doc.Accounts": {
+    "message": "账户",
+    "description": "The label for the doc item Accounts in sidebar basics, linking to the doc basics/blockchain-basics/basics-accounts"
+  },
+  "sidebar.basics.doc.Solidity": {
+    "message": "Solidity",
+    "description": "The label for the doc item Solidity in sidebar basics, linking to the doc basics/blockchain-basics/basics-solidity"
+  },
+  "sidebar.basics.doc.Gas": {
+    "message": "Gas",
+    "description": "The label for the doc item Gas in sidebar basics, linking to the doc basics/blockchain-basics/basics-gas"
+  },
+  "sidebar.basics.doc.What is BTTC?": {
+    "message": "什么是BTTC？",
+    "description": "The label for the doc item What is BTTC? in sidebar basics, linking to the doc basics/bttc-basics/what-is-bttc"
+  },
+  "sidebar.basics.doc.New to BTTC?": {
+    "message": "New to BTTC?",
+    "description": "The label for the doc item New to BTTC? in sidebar basics, linking to the doc basics/new-to-bttc"
+  },
+  "sidebar.delegator.doc.How to Delegate": {
+    "message": "如何委托投票",
+    "description": "The label for the doc item How to Delegate in sidebar delegator, linking to the doc delegator/how-to-delegate"
+  },
+  "sidebar.delegator.doc.Contract": {
+    "message": "合约",
+    "description": "The label for the doc item Contract in sidebar delegator, linking to the doc delegator/contract"
+  },
+  "sidebar.delegator.doc.Delegator FAQ": {
+    "message": "委托人常见问题",
+    "description": "The label for the doc item Delegator FAQ in sidebar delegator, linking to the doc delegator/delegate-faq"
+  },
+  "sidebar.governanceSidebar.doc.Governance": {
+    "message": "治理",
+    "description": "The label for the doc item Governance in sidebar governanceSidebar, linking to the doc governance/govern"
+  },
+  "sidebar.architecture.doc.Architecture": {
+    "message": "架构",
+    "description": "The label for the doc item Architecture in sidebar architecture, linking to the doc architecture/arch"
+  },
+  "sidebar.contribute.doc.Contributor Guidelines": {
+    "message": "贡献指南",
+    "description": "The label for the doc item Contributor Guidelines in sidebar contribute, linking to the doc contribute/guidelines"
+  },
+  "sidebar.tutorialSidebar.link.Faucet": {
+    "message": "水龙头",
+    "description": "The label for link Faucet in sidebar tutorialSidebar, linking to https://testfaucet.bt.io"
+  },
+  "sidebar.tutorialSidebar.link.JSON-RPC": {
+    "message": "JSON-RPC",
+    "description": "The label for link JSON-RPC in sidebar tutorialSidebar, linking to https://documenter.getpostman.com/view/4117254/ethereum-json-rpc/RVu7CT5J?version=latest"
+  },
+  "sidebar.basics.doc.What is Proof of Stake?": {
+    "message": "什么是Proof of Stake?",
+    "description": "The label for the doc item What is Proof of Stake? in sidebar basics, linking to the doc basics/bttc-basics/what-is-proof-of-stake"
+  },
+  "sidebar.basics.doc.Who is Delegator?": {
+    "message": "什么是委托人?",
+    "description": "The label for the doc item Who is Delegator? in sidebar basics, linking to the doc basics/bttc-basics/who-is-a-delegator"
+  },
+  "sidebar.basics.doc.Who is Validator?": {
+    "message": "什么是验证人?",
+    "description": "The label for the doc item Who is Validator? in sidebar basics, linking to the doc basics/bttc-basics/who-is-a-validator"
+  },
+  "sidebar.basics.doc.BTTC PoS Architecture": {
+    "message": "BTTC PoS 架构",
+    "description": "The label for the doc item BTTC PoS Architecture in sidebar basics, linking to the doc basics/bttc-basics/bttc-pos-architecture"
+  },
+  "sidebar.validatorSidebar.category.Core Components": {
+    "message": "核心组件",
+    "description": "The label for category Core Components in sidebar validatorSidebar"
+  },
+  "sidebar.validatorSidebar.category.Node Management": {
+    "message": "节点管理",
+    "description": "The label for category Node Management in sidebar validatorSidebar"
+  },
+  "sidebar.validatorSidebar.category.Staking Operations": {
+    "message": "质押相关操作",
+    "description": "The label for category Staking Operations in sidebar validatorSidebar"
+  },
+  "sidebar.validatorSidebar.doc.Validator Overview": {
+    "message": "验证人概述",
+    "description": "The label for the doc item Validator Overview in sidebar validatorSidebar, linking to the doc validator/getting-started"
+  },
+  "sidebar.validatorSidebar.doc.Responsibilities": {
+    "message": "职责",
+    "description": "The label for the doc item Responsibilities in sidebar validatorSidebar, linking to the doc validator/responsibilities"
+  },
+  "sidebar.validatorSidebar.doc.Staking": {
+    "message": "质押",
+    "description": "The label for the doc item Staking in sidebar validatorSidebar, linking to the doc validator/staking"
+  },
+  "sidebar.validatorSidebar.doc.Rewards": {
+    "message": "奖励",
+    "description": "The label for the doc item Rewards in sidebar validatorSidebar, linking to the doc validator/rewards"
+  },
+  "sidebar.validatorSidebar.doc.Delivery Layer": {
+    "message": "Delivery 层",
+    "description": "The label for the doc item Delivery Layer in sidebar validatorSidebar, linking to the doc validator/core-components/delivery-layer"
+  },
+  "sidebar.validatorSidebar.doc.Bttc Layer": {
+    "message": "Bttc 层",
+    "description": "The label for the doc item Bttc Layer in sidebar validatorSidebar, linking to the doc validator/core-components/bttc-layer"
+  },
+  "sidebar.validatorSidebar.doc.Checkpoints": {
+    "message": "检查点",
+    "description": "The label for the doc item Checkpoints in sidebar validatorSidebar, linking to the doc validator/core-components/checkpoint"
+  },
+  "sidebar.validatorSidebar.doc.Key Management": {
+    "message": "密钥管理",
+    "description": "The label for the doc item Key Management in sidebar validatorSidebar, linking to the doc validator/core-components/key-management"
+  },
+  "sidebar.validatorSidebar.doc.Derivatives": {
+    "message": "Derivatives",
+    "description": "The label for the doc item Derivatives in sidebar validatorSidebar, linking to the doc validator/core-components/derivatives"
+  },
+  "sidebar.validatorSidebar.doc.Proposers & Producers": {
+    "message": "提议者和区块生产者",
+    "description": "The label for the doc item Proposers & Producers in sidebar validatorSidebar, linking to the doc validator/core-components/proposer-producer-selection"
+  },
+  "sidebar.validatorSidebar.doc.Proposer Bonus": {
+    "message": "提议者奖励",
+    "description": "The label for the doc item Proposer Bonus in sidebar validatorSidebar, linking to the doc validator/core-components/proposer-bonus"
+  },
+  "sidebar.validatorSidebar.doc.Transaction Fees": {
+    "message": "交易费用",
+    "description": "The label for the doc item Transaction Fees in sidebar validatorSidebar, linking to the doc validator/core-components/transaction-fees"
+  },
+  "sidebar.validatorSidebar.doc.State Sync Mechanism": {
+    "message": "状态同步机制",
+    "description": "The label for the doc item State Sync Mechanism in sidebar validatorSidebar, linking to the doc validator/core-components/state-sync-mechanism"
+  },
+  "sidebar.validatorSidebar.doc.Validator Node Deployment": {
+    "message": "验证人节点部署",
+    "description": "The label for the doc item Validator Node Deployment in sidebar validatorSidebar, linking to the doc validator/build-validator-node"
+  },
+  "sidebar.validatorSidebar.doc.Snapshot": {
+    "message": "快照",
+    "description": "The label for the doc item Snapshot in sidebar validatorSidebar, linking to the doc node/snapshot"
+  },
+  "sidebar.validatorSidebar.doc.Port Management": {
+    "message": "端口管理",
+    "description": "The label for the doc item Port Management in sidebar validatorSidebar, linking to the doc validator/port_management"
+  },
+  "sidebar.validatorSidebar.doc.Commission Operations": {
+    "message": "佣金比例",
+    "description": "The label for the doc item Commission Operations in sidebar validatorSidebar, linking to the doc validator/validator-commission-operations"
+  },
+  "sidebar.validatorSidebar.doc.Glossary": {
+    "message": "词汇表",
+    "description": "The label for the doc item Glossary in sidebar validatorSidebar, linking to the doc validator/glossary"
+  }
+}

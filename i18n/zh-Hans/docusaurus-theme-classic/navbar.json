@@ -1,0 +1,74 @@
+{
+  "title": {
+    "message": "Bittorrent-Chain 开发者文档",
+    "description": "The title in the navbar"
+  },
+  "item.label.Apps": {
+    "message": "Apps",
+    "description": "Navbar item with label Apps"
+  },
+  "item.label.Community": {
+    "message": "社区",
+    "description": "Navbar item with label Community"
+  },
+  "item.label.Security Audit": {
+    "message": "安全审计",
+    "description": "Navbar item with label Security Audit"
+  },
+  "item.label.Contribute to the Docs": {
+    "message": "文档贡献",
+    "description": "Navbar item with label Contribute to the Docs"
+  },
+  "item.label.Wallet": {
+    "message": "钱包",
+    "description": "Navbar item with label Wallet"
+  },
+  "item.label.Bridge": {
+    "message": "桥",
+    "description": "Navbar item with label Bridge"
+  },
+  "item.label.Staking": {
+    "message": "质押",
+    "description": "Navbar item with label Staking"
+  },
+  "item.label.Swap": {
+    "message": "代币转换",
+    "description": "Navbar item with label Swap"
+  },
+  "item.label.Explorer": {
+    "message": "浏览器",
+    "description": "Navbar item with label Explorer"
+  },
+  "item.label.BTTCSCAN": {
+    "message": "BTTCSCAN",
+    "description": "Navbar item with label BTTCSCAN"
+  },
+  "item.label.BTT Redenomination": {
+    "message": "拆分计划",
+    "description": "Navbar item with label BTT Redenomination"
+  },
+  "item.label.Discord": {
+    "message": "Discord",
+    "description": "Navbar item with label Discord"
+  },
+  "item.label.Twitter": {
+    "message": "Twitter",
+    "description": "Navbar item with label Twitter"
+  },
+  "item.label.Telegram": {
+    "message": "Telegram",
+    "description": "Navbar item with label Telegram"
+  },
+  "item.label.Medium": {
+    "message": "Medium",
+    "description": "Navbar item with label Medium"
+  },
+  "item.label.Bittorrent TRON": {
+    "message": "Bittorrent TRON",
+    "description": "Navbar item with label Bittorrent TRON"
+  },
+  "item.label.Bittorrent Ethereum": {
+    "message": "Bittorrent Ethereum",
+    "description": "Navbar item with label Bittorrent Ethereum"
+  }
+}

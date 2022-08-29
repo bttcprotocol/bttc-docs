@@ -1,0 +1,4 @@
+# Bttc层 
+
+Bttc层中的区块生产层负责侧链的区块生产，并且Bttc层的虚拟机与EVM完全兼容。Delivery层节点会周期性的验证Bttc层产生的区块，包含若干个区块的Merkle根的检查点也会被周期性的提交至TRON/BSC/Ethereu网络。
+
