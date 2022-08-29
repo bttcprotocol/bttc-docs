@@ -38,7 +38,7 @@
     2. 转移投票会自动触发领取奖励操作
 
 ## ValidatorShare:sellVoucher_new
-取消投票，取消投票后，质押的BTT需要经过80个检查点（约24小时）的锁定期，才可提取。
+取消投票，取消投票后，质押的BTT需要经过80个检查点（约40小时）的锁定期，才可提取。
 * 合约方法：`ValidatorShare:sellVoucher_new:(uint256 claimAmount, uint256 maximumSharesToBurn)`
 * 参数：
     * `claimAmount`：取消投票的BTT数量；委托人为验证人投票的总BTT数量，可通过ValidatorShare:getTotalStake方法获取。

@@ -37,7 +37,7 @@ Vote the BTT voting rewards that have been earned but yet withdrawn for the vali
     2. Transfer Votes will trigger reward claiming action automatically
     
 ## ValidatorShare:sellVoucher_new
-Cancel the vote. After canceling the vote, the staked BTT needs to go through a lock-up period of 80 checkpoints (about 24 hours) before it can be withdrawn.
+Cancel the vote. After canceling the vote, the staked BTT needs to go through a lock-up period of 80 checkpoints (about 40 hours) before it can be withdrawn.
 * Method：`ValidatorShare:sellVoucher_new:(uint256 claimAmount, uint256 maximumSharesToBurn)`
 * Parameters：
     * `claimAmount`：The amount of BTT that has been canceled for voting; the total amount of BTT voted by the delegator for the validator can be obtained through the ValidatorShare:getTotalStake method.
