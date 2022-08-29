@@ -94,7 +94,7 @@ To Check your vote, click [My Account](https://wallet.bt.io/staking/myAccount)ã€
 ![](../../static/img/delegrate-19.png)
 
 
-2. To withdraw the staked BTT, you need to release the staking first. After unstaking, the staked BTT will take 80 checkpoints (approximately 24 hours) to be withdrawn. Staking rewards will be automatically issued to your wallet address when the staking is released.
+2. To withdraw the staked BTT, you need to release the staking first. After unstaking, the staked BTT will take 80 checkpoints (approximately 40 hours) to be withdrawn. Staking rewards will be automatically issued to your wallet address when the staking is released.
 ![](../../static/img/delegrate-20.png)
 
 
@@ -104,7 +104,7 @@ To Check your vote, click [My Account](https://wallet.bt.io/staking/myAccount)ã€
 4. After that, wait for the chain to finish unstaking.
 ![](../../static/img/delegrate-22.png)
 
-5. After unstaking, it takes 80 checkpoints ï¼ŒClick the "Confirm" button to enter the confirmation process.(approximately 24 hours) to withdraw.
+5. After unstaking, it takes 80 checkpoints ï¼ŒClick the "Confirm" button to enter the confirmation process.(approximately 40 hours) to withdraw.
 ![](../../static/img/delegrate-23.png)
 
 
