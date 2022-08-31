@@ -152,13 +152,13 @@ const config = {
 		  position: "right",
 		  items: [
 			  {
-			    href: 'https://bttc.bittorrent.com/doc/SlowMist%20Audit%20Report%20-%20BitTorrent%20-%20TRON.pdf',
+			    href: 'https://official.bt.io/doc/SlowMist%20Audit%20Report%20-%20BitTorrent%20-%20TRON.pdf',
 			    label: 'Bittorrent TRON',
 			    target: '_blank',
 			    rel: null,
 			  },
 			  {
-			    href: 'https://bttc.bittorrent.com/doc/SlowMist%20Audit%20Report%20-%20BitTorrent%20-%20Ethereum.pdf',
+			    href: 'https://official.bt.io/doc/SlowMist%20Audit%20Report%20-%20BitTorrent%20-%20Ethereum.pdf',
 			    label: 'Bittorrent Ethereum',
 			    target: '_blank',
 			    rel: null,
