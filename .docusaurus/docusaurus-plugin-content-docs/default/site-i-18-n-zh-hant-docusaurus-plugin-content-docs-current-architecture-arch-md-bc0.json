@@ -1,0 +1,18 @@
+{
+  "unversionedId": "architecture/arch",
+  "id": "architecture/arch",
+  "title": "BTTC架構",
+  "description": "",
+  "source": "@site/i18n/zh-Hant/docusaurus-plugin-content-docs/current/architecture/arch.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/arch",
+  "permalink": "/zh-Hant/docs/architecture/arch",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/architecture/arch.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "architecture"
+}

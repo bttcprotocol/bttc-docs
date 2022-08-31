@@ -1,0 +1,22 @@
+{
+  "unversionedId": "basics/blockchain-basics/basics-blockchain",
+  "id": "basics/blockchain-basics/basics-blockchain",
+  "title": "什么是区块链？",
+  "description": "区块链是一个共享的、透明的、不可篡改的账本，用于记录交易、跟踪资产。它是一种分布式账本技术，在点对点的网络中安全地记录信息。虽然它是为金融服务而创建的，但区块链的潜力远远超出了加密货币。这些账本可以记录来自卫生部门、土地登记、电子竞技、企业记录、物流清单、身份的数据--几乎任何有价值的东西。",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/basics/blockchain-basics/basics-blockchain.md",
+  "sourceDirName": "basics/blockchain-basics",
+  "slug": "/basics/blockchain-basics/basics-blockchain",
+  "permalink": "/zh-Hans/docs/basics/blockchain-basics/basics-blockchain",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/basics/blockchain-basics/basics-blockchain.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "basics",
+  "next": {
+    "title": "区块链的类型",
+    "permalink": "/zh-Hans/docs/basics/blockchain-basics/basics-blockchain-types"
+  }
+}

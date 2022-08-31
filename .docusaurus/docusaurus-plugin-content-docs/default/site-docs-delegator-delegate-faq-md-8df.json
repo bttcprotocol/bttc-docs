@@ -1,0 +1,22 @@
+{
+  "unversionedId": "delegator/delegate-faq",
+  "id": "delegator/delegate-faq",
+  "title": "Delegator FAQ",
+  "description": "What is the url of the Staking dashboard？",
+  "source": "@site/docs/delegator/delegate-faq.md",
+  "sourceDirName": "delegator",
+  "slug": "/delegator/delegate-faq",
+  "permalink": "/docs/delegator/delegate-faq",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/delegator/delegate-faq.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {},
+  "sidebar": "delegator",
+  "previous": {
+    "title": "Contract",
+    "permalink": "/docs/delegator/contract"
+  }
+}

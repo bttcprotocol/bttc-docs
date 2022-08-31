@@ -1,0 +1,22 @@
+{
+  "unversionedId": "basics/blockchain-basics/basics-blockchain",
+  "id": "basics/blockchain-basics/basics-blockchain",
+  "title": "What is Blockchain？",
+  "description": "A blockchain is a shared, transparent, immutable ledger used to record transactions and track assets. It is a distributed ledger technology that securely records information in a peer-to-peer network. Although it was created for financial services, the potential of blockchain extends far beyond cryptocurrencies. These ledgers can record data from health departments, land registries, eSports, business records, logistics lists, identities — pretty much anything of value.",
+  "source": "@site/docs/basics/blockchain-basics/basics-blockchain.md",
+  "sourceDirName": "basics/blockchain-basics",
+  "slug": "/basics/blockchain-basics/basics-blockchain",
+  "permalink": "/docs/basics/blockchain-basics/basics-blockchain",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/basics/blockchain-basics/basics-blockchain.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {},
+  "sidebar": "basics",
+  "next": {
+    "title": "Types of Blockchain",
+    "permalink": "/docs/basics/blockchain-basics/basics-blockchain-types"
+  }
+}

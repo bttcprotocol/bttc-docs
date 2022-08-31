@@ -1,0 +1,26 @@
+{
+  "unversionedId": "node/snapshot",
+  "id": "node/snapshot",
+  "title": "Delivery和Bttc快照",
+  "description": "当设置一个新的哨兵、验证器或全节点服务器时，建议你使用快照，以加快同步速度，而不必通过网络同步。使用快照将为你的Delivery和BTTC节省几天时间。",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/node/snapshot.md",
+  "sourceDirName": "node",
+  "slug": "/node/snapshot",
+  "permalink": "/zh-Hans/docs/node/snapshot",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/node/snapshot.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "validatorSidebar",
+  "previous": {
+    "title": "验证人节点部署",
+    "permalink": "/zh-Hans/docs/validator/build-validator-node"
+  },
+  "next": {
+    "title": "端口管理",
+    "permalink": "/zh-Hans/docs/validator/port_management"
+  }
+}

@@ -1,0 +1,1811 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs",
+          "editUrlLocalized": "https://github.com/bttcprotocol/bttc-docs/tree/master/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/tron/Desktop/newbttcdoc/bttc-docs/sidebars.js",
+          "contentPath": "/Users/tron/Desktop/newbttcdoc/bttc-docs/docs",
+          "contentPathLocalized": "/Users/tron/Desktop/newbttcdoc/bttc-docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "architecture/arch",
+              "id": "architecture/arch",
+              "title": "Architecture",
+              "description": "",
+              "source": "@site/docs/architecture/arch.md",
+              "sourceDirName": "architecture",
+              "slug": "/architecture/arch",
+              "permalink": "/docs/architecture/arch",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/architecture/arch.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "architecture"
+            },
+            {
+              "unversionedId": "basics/blockchain-basics/basics-accounts",
+              "id": "basics/blockchain-basics/basics-accounts",
+              "title": "What is an account？",
+              "description": "The global state of Ethereum is made up of accounts that interact through a messaging framework. The most basic interaction is sending some value - like Magic tokens, Ethereum - the native cryptocurrency of the ethereum blockchain. Each account is identified by a 20-byte hexadecimal identifier, which is called an address - this is generated from the account's public key. There are two types of accounts:",
+              "source": "@site/docs/basics/blockchain-basics/basics-accounts.md",
+              "sourceDirName": "basics/blockchain-basics",
+              "slug": "/basics/blockchain-basics/basics-accounts",
+              "permalink": "/docs/basics/blockchain-basics/basics-accounts",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/basics/blockchain-basics/basics-accounts.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "basics",
+              "previous": {
+                "title": "What is Solidity?",
+                "permalink": "/docs/basics/blockchain-basics/basics-solidity"
+              },
+              "next": {
+                "title": "What is Gas？",
+                "permalink": "/docs/basics/blockchain-basics/basics-gas"
+              }
+            },
+            {
+              "unversionedId": "basics/blockchain-basics/basics-blockchain",
+              "id": "basics/blockchain-basics/basics-blockchain",
+              "title": "What is Blockchain？",
+              "description": "A blockchain is a shared, transparent, immutable ledger used to record transactions and track assets. It is a distributed ledger technology that securely records information in a peer-to-peer network. Although it was created for financial services, the potential of blockchain extends far beyond cryptocurrencies. These ledgers can record data from health departments, land registries, eSports, business records, logistics lists, identities — pretty much anything of value.",
+              "source": "@site/docs/basics/blockchain-basics/basics-blockchain.md",
+              "sourceDirName": "basics/blockchain-basics",
+              "slug": "/basics/blockchain-basics/basics-blockchain",
+              "permalink": "/docs/basics/blockchain-basics/basics-blockchain",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/basics/blockchain-basics/basics-blockchain.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "basics",
+              "next": {
+                "title": "Types of Blockchain",
+                "permalink": "/docs/basics/blockchain-basics/basics-blockchain-types"
+              }
+            },
+            {
+              "unversionedId": "basics/blockchain-basics/basics-blockchain-types",
+              "id": "basics/blockchain-basics/basics-blockchain-types",
+              "title": "Types of Blockchain",
+              "description": "Below are several types of blockchains that have emerged so far.",
+              "source": "@site/docs/basics/blockchain-basics/basics-blockchain-types.md",
+              "sourceDirName": "basics/blockchain-basics",
+              "slug": "/basics/blockchain-basics/basics-blockchain-types",
+              "permalink": "/docs/basics/blockchain-basics/basics-blockchain-types",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/basics/blockchain-basics/basics-blockchain-types.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "basics",
+              "previous": {
+                "title": "What is Blockchain？",
+                "permalink": "/docs/basics/blockchain-basics/basics-blockchain"
+              },
+              "next": {
+                "title": "Consensus Mechanism",
+                "permalink": "/docs/basics/blockchain-basics/basics-consensus-mechanism"
+              }
+            },
+            {
+              "unversionedId": "basics/blockchain-basics/basics-consensus-mechanism",
+              "id": "basics/blockchain-basics/basics-consensus-mechanism",
+              "title": "Consensus Mechanism",
+              "description": "On the blockchain, the consensus mechanism is like the law of a country, maintaining the normal operation of the blockchain world. In the blockchain system, everyone will have a ledger that records all transactions on the chain. When a new transaction is generated on the chain, since the time for each person to receive the transaction is different, some malicious ones could use this and publish wrong transactions. The goal of the consensus mechanism is to make all honest nodes save only correct transaction data.",
+              "source": "@site/docs/basics/blockchain-basics/basics-consensus-mechanism.md",
+              "sourceDirName": "basics/blockchain-basics",
+              "slug": "/basics/blockchain-basics/basics-consensus-mechanism",
+              "permalink": "/docs/basics/blockchain-basics/basics-consensus-mechanism",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/basics/blockchain-basics/basics-consensus-mechanism.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "basics",
+              "previous": {
+                "title": "Types of Blockchain",
+                "permalink": "/docs/basics/blockchain-basics/basics-blockchain-types"
+              },
+              "next": {
+                "title": "What is Ethereum？",
+                "permalink": "/docs/basics/blockchain-basics/basics-ethereum"
+              }
+            },
+            {
+              "unversionedId": "basics/blockchain-basics/basics-ethereum",
+              "id": "basics/blockchain-basics/basics-ethereum",
+              "title": "What is Ethereum？",
+              "description": "Ethereum is the infrastructure of WEB3.0：",
+              "source": "@site/docs/basics/blockchain-basics/basics-ethereum.md",
+              "sourceDirName": "basics/blockchain-basics",
+              "slug": "/basics/blockchain-basics/basics-ethereum",
+              "permalink": "/docs/basics/blockchain-basics/basics-ethereum",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/basics/blockchain-basics/basics-ethereum.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "basics",
+              "previous": {
+                "title": "Consensus Mechanism",
+                "permalink": "/docs/basics/blockchain-basics/basics-consensus-mechanism"
+              },
+              "next": {
+                "title": "What is Solidity?",
+                "permalink": "/docs/basics/blockchain-basics/basics-solidity"
+              }
+            },
+            {
+              "unversionedId": "basics/blockchain-basics/basics-gas",
+              "id": "basics/blockchain-basics/basics-gas",
+              "title": "What is Gas？",
+              "description": "Gas refers to the amount of computational work required to perform a specific operation on the Ethereum network. Since each Ethereum transaction requires computational resources to execute, each transaction requires a fee. For example, to compute a Keccak256 cryptographic hash, it takes 30 Gas each time the hash is computed.",
+              "source": "@site/docs/basics/blockchain-basics/basics-gas.md",
+              "sourceDirName": "basics/blockchain-basics",
+              "slug": "/basics/blockchain-basics/basics-gas",
+              "permalink": "/docs/basics/blockchain-basics/basics-gas",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/basics/blockchain-basics/basics-gas.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "basics",
+              "previous": {
+                "title": "What is an account？",
+                "permalink": "/docs/basics/blockchain-basics/basics-accounts"
+              },
+              "next": {
+                "title": "What is BitTorrent-Chain?",
+                "permalink": "/docs/basics/bttc-basics/what-is-bttc"
+              }
+            },
+            {
+              "unversionedId": "basics/blockchain-basics/basics-solidity",
+              "id": "basics/blockchain-basics/basics-solidity",
+              "title": "What is Solidity?",
+              "description": "Solidity is an object-oriented high-level programming language used to implement smart contracts, which allow programs to be written to manage the behavior of accounts in a blockchain network. The Solidity language supports contract inheritance and has many built-in contract libraries. Solidity is similar to programming languages like C++, Python, and JavaScript.",
+              "source": "@site/docs/basics/blockchain-basics/basics-solidity.md",
+              "sourceDirName": "basics/blockchain-basics",
+              "slug": "/basics/blockchain-basics/basics-solidity",
+              "permalink": "/docs/basics/blockchain-basics/basics-solidity",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/basics/blockchain-basics/basics-solidity.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "basics",
+              "previous": {
+                "title": "What is Ethereum？",
+                "permalink": "/docs/basics/blockchain-basics/basics-ethereum"
+              },
+              "next": {
+                "title": "What is an account？",
+                "permalink": "/docs/basics/blockchain-basics/basics-accounts"
+              }
+            },
+            {
+              "unversionedId": "basics/blockchain-basics/basics-transactions",
+              "id": "basics/blockchain-basics/basics-transactions",
+              "title": "What is a transaction?",
+              "description": "A \"transaction\" refers to a signed packet that contains a message sent from one account to another account on the blockchain. Messages can be divided into two main categories:",
+              "source": "@site/docs/basics/blockchain-basics/basics-transactions.md",
+              "sourceDirName": "basics/blockchain-basics",
+              "slug": "/basics/blockchain-basics/basics-transactions",
+              "permalink": "/docs/basics/blockchain-basics/basics-transactions",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/basics/blockchain-basics/basics-transactions.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "basics/bttc-basics/bttc-pos-architecture",
+              "id": "basics/bttc-basics/bttc-pos-architecture",
+              "title": "BTTC PoS Architecture",
+              "description": "BTTC Network is a blockchain application platform that provides Proof-of-Stake sidechains.",
+              "source": "@site/docs/basics/bttc-basics/bttc-pos-architecture.md",
+              "sourceDirName": "basics/bttc-basics",
+              "slug": "/basics/bttc-basics/bttc-pos-architecture",
+              "permalink": "/docs/basics/bttc-basics/bttc-pos-architecture",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/basics/bttc-basics/bttc-pos-architecture.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "basics",
+              "previous": {
+                "title": "Who is Validator?",
+                "permalink": "/docs/basics/bttc-basics/who-is-a-validator"
+              }
+            },
+            {
+              "unversionedId": "basics/bttc-basics/what-is-bttc",
+              "id": "basics/bttc-basics/what-is-bttc",
+              "title": "What is BitTorrent-Chain?",
+              "description": "Bittorrent-Chain (BTTC) is a layer 2 scaling solution, BTTC strives to solve scalability and usability issues without compromising decentralization, and can make full use of the existing Ethereum developer community and ecosystem. BTTC is fully compatible with Ethereum, and existing applications on Ethereum can be easily migrated to this BTTC. In addition to the same experience as Ethereum, users can also enjoy ultra-high throughput and extremely low fees.",
+              "source": "@site/docs/basics/bttc-basics/what-is-bttc.md",
+              "sourceDirName": "basics/bttc-basics",
+              "slug": "/basics/bttc-basics/what-is-bttc",
+              "permalink": "/docs/basics/bttc-basics/what-is-bttc",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/basics/bttc-basics/what-is-bttc.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "basics",
+              "previous": {
+                "title": "What is Gas？",
+                "permalink": "/docs/basics/blockchain-basics/basics-gas"
+              },
+              "next": {
+                "title": "What is Proof of Stake?",
+                "permalink": "/docs/basics/bttc-basics/what-is-proof-of-stake"
+              }
+            },
+            {
+              "unversionedId": "basics/bttc-basics/what-is-proof-of-stake",
+              "id": "basics/bttc-basics/what-is-proof-of-stake",
+              "title": "What is Proof of Stake?",
+              "description": "Proof of Stake (PoS) is a category of consensus algorithms for public blockchains that depend on a validator's economic stake] in the network.",
+              "source": "@site/docs/basics/bttc-basics/what-is-proof-of-stake.md",
+              "sourceDirName": "basics/bttc-basics",
+              "slug": "/basics/bttc-basics/what-is-proof-of-stake",
+              "permalink": "/docs/basics/bttc-basics/what-is-proof-of-stake",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/basics/bttc-basics/what-is-proof-of-stake.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "basics",
+              "previous": {
+                "title": "What is BitTorrent-Chain?",
+                "permalink": "/docs/basics/bttc-basics/what-is-bttc"
+              },
+              "next": {
+                "title": "Who is Delegator?",
+                "permalink": "/docs/basics/bttc-basics/who-is-a-delegator"
+              }
+            },
+            {
+              "unversionedId": "basics/bttc-basics/who-is-a-delegator",
+              "id": "basics/bttc-basics/who-is-a-delegator",
+              "title": "Who is Delegator?",
+              "description": "Delegators are token holders who cannot, or do not want to run a validator node themselves. Instead, they secure the network by delegating their stake to validator nodes and play a critical role in the system, as they are responsible for choosing validators. They run their delegation transaction on the staking contract on the Ethereum mainnet.",
+              "source": "@site/docs/basics/bttc-basics/who-is-a-delegator.md",
+              "sourceDirName": "basics/bttc-basics",
+              "slug": "/basics/bttc-basics/who-is-a-delegator",
+              "permalink": "/docs/basics/bttc-basics/who-is-a-delegator",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/basics/bttc-basics/who-is-a-delegator.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "basics",
+              "previous": {
+                "title": "What is Proof of Stake?",
+                "permalink": "/docs/basics/bttc-basics/what-is-proof-of-stake"
+              },
+              "next": {
+                "title": "Who is Validator?",
+                "permalink": "/docs/basics/bttc-basics/who-is-a-validator"
+              }
+            },
+            {
+              "unversionedId": "basics/bttc-basics/who-is-a-validator",
+              "id": "basics/bttc-basics/who-is-a-validator",
+              "title": "Who is Validator?",
+              "description": "A validator is a participant in the network who locks up BTT tokens in the system and runs Delivery validator and Bttc block producer nodes in order to help run the network. Validators stake their BTT tokens as collateral to work for the security of the network and in exchange for their service, earn rewards.",
+              "source": "@site/docs/basics/bttc-basics/who-is-a-validator.md",
+              "sourceDirName": "basics/bttc-basics",
+              "slug": "/basics/bttc-basics/who-is-a-validator",
+              "permalink": "/docs/basics/bttc-basics/who-is-a-validator",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/basics/bttc-basics/who-is-a-validator.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "basics",
+              "previous": {
+                "title": "Who is Delegator?",
+                "permalink": "/docs/basics/bttc-basics/who-is-a-delegator"
+              },
+              "next": {
+                "title": "BTTC PoS Architecture",
+                "permalink": "/docs/basics/bttc-basics/bttc-pos-architecture"
+              }
+            },
+            {
+              "unversionedId": "bridge/asset-map",
+              "id": "bridge/asset-map",
+              "title": "Asset Mapping",
+              "description": "Mapping is an important step in the cross-chain transfer of assets. Mapping is the use of smart contracts on two networks (e.g. TRON and BTTC) to match assets one to the other, facilitating operations such as locking, destroying and transferring.",
+              "source": "@site/docs/bridge/asset-map.md",
+              "sourceDirName": "bridge",
+              "slug": "/bridge/asset-map",
+              "permalink": "/docs/bridge/asset-map",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/bridge/asset-map.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Overview",
+                "permalink": "/docs/bridge/overview"
+              },
+              "next": {
+                "title": "Token Deposit & Withdraw",
+                "permalink": "/docs/bridge/deposit-and-withdraw"
+              }
+            },
+            {
+              "unversionedId": "bridge/deposit-and-withdraw",
+              "id": "bridge/deposit-and-withdraw",
+              "title": "Token Deposit & Withdraw",
+              "description": "Using ERC-20 as an example, the process for topping up is:",
+              "source": "@site/docs/bridge/deposit-and-withdraw.md",
+              "sourceDirName": "bridge",
+              "slug": "/bridge/deposit-and-withdraw",
+              "permalink": "/docs/bridge/deposit-and-withdraw",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/bridge/deposit-and-withdraw.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Asset Mapping",
+                "permalink": "/docs/bridge/asset-map"
+              },
+              "next": {
+                "title": "Deposit and Checkpoint Time Tracking",
+                "permalink": "/docs/bridge/deposit-checkpoint-event-tracking"
+              }
+            },
+            {
+              "unversionedId": "bridge/deposit-checkpoint-event-tracking",
+              "id": "bridge/deposit-checkpoint-event-tracking",
+              "title": "Deposit and Checkpoint Time Tracking",
+              "description": "Deposit Event",
+              "source": "@site/docs/bridge/deposit-checkpoint-event-tracking.md",
+              "sourceDirName": "bridge",
+              "slug": "/bridge/deposit-checkpoint-event-tracking",
+              "permalink": "/docs/bridge/deposit-checkpoint-event-tracking",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/bridge/deposit-checkpoint-event-tracking.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Token Deposit & Withdraw",
+                "permalink": "/docs/bridge/deposit-and-withdraw"
+              },
+              "next": {
+                "title": "State Transition",
+                "permalink": "/docs/bridge/state-transfer"
+              }
+            },
+            {
+              "unversionedId": "bridge/overview",
+              "id": "bridge/overview",
+              "title": "Overview",
+              "description": "BTTC introduces a reliable cross-chain bridge between the TRON and BTTC networks. Through the bridge, users can transfer their tokens to TRON via BTTC at will, without the risks and liquidity restrictions associated with third party institutions. BTTC offers an extremely efficient, cost effective and flexible scalability solution.",
+              "source": "@site/docs/bridge/overview.md",
+              "sourceDirName": "bridge",
+              "slug": "/bridge/overview",
+              "permalink": "/docs/bridge/overview",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/bridge/overview.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Delivery and Bttc Snapshots",
+                "permalink": "/docs/node/snapshot"
+              },
+              "next": {
+                "title": "Asset Mapping",
+                "permalink": "/docs/bridge/asset-map"
+              }
+            },
+            {
+              "unversionedId": "bridge/state-transfer",
+              "id": "bridge/state-transfer",
+              "title": "State Transition",
+              "description": "BTTC validators are continuing to monitor the public blockchain's StateSender contract. When a contract registered on the public blockchain makes a call to StateSender, an event is generated. Validators on the BTTC network use this event to relay data to another contract on the BTTC network. This mechanism is known as state synchronization, and it is used to transfer data from the public blockchain to the BTTC blockchain.",
+              "source": "@site/docs/bridge/state-transfer.md",
+              "sourceDirName": "bridge",
+              "slug": "/bridge/state-transfer",
+              "permalink": "/docs/bridge/state-transfer",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/bridge/state-transfer.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Deposit and Checkpoint Time Tracking",
+                "permalink": "/docs/bridge/deposit-checkpoint-event-tracking"
+              },
+              "next": {
+                "title": "FAQ",
+                "permalink": "/docs/faq"
+              }
+            },
+            {
+              "unversionedId": "build-web3-app",
+              "id": "build-web3-app",
+              "title": "Build a Web3 App On BTTC",
+              "description": "This article is a zero-to-one DApp development tutorial, beginning with the deployment of the simplest Hello World contract, progressing through writing the contract and UI interaction to the complete deployment and online process, and culminating with learning to build a decentralized library to learn how to deploy their own DApp on the BTTC blockchain.",
+              "source": "@site/docs/build-web3-app.md",
+              "sourceDirName": ".",
+              "slug": "/build-web3-app",
+              "permalink": "/docs/build-web3-app",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/build-web3-app.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction to BTTC",
+                "permalink": "/docs/quickstart"
+              },
+              "next": {
+                "title": "Wallet",
+                "permalink": "/docs/wallet"
+              }
+            },
+            {
+              "unversionedId": "contribute/guidelines",
+              "id": "contribute/guidelines",
+              "title": "How to Contribute",
+              "description": "The Bittorrent-Chain Docs is an open-source project, if you need to add or change anything in Bittorrent-Chain Docs, please raise a PR against the master branch,the documentation team will review the PR or reach out accordingly.",
+              "source": "@site/docs/contribute/guidelines.md",
+              "sourceDirName": "contribute",
+              "slug": "/contribute/guidelines",
+              "permalink": "/docs/contribute/guidelines",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/contribute/guidelines.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "contribute"
+            },
+            {
+              "unversionedId": "delegator/contract",
+              "id": "delegator/contract",
+              "title": "Contract",
+              "description": "The operations related to the delegator’s stake voting can also be performed by calling the \"ValidatorShare\" and \"StakeManagerProxy\" contracts. Most operations call the \"ValidatorShare\" contract. Only the transfer vote calls the \"StakeManagerProxy\" contract.",
+              "source": "@site/docs/delegator/contract.md",
+              "sourceDirName": "delegator",
+              "slug": "/delegator/contract",
+              "permalink": "/docs/delegator/contract",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/delegator/contract.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "delegator",
+              "previous": {
+                "title": "How To Delegate",
+                "permalink": "/docs/delegator/how-to-delegate"
+              },
+              "next": {
+                "title": "Delegator FAQ",
+                "permalink": "/docs/delegator/delegate-faq"
+              }
+            },
+            {
+              "unversionedId": "delegator/delegate-faq",
+              "id": "delegator/delegate-faq",
+              "title": "Delegator FAQ",
+              "description": "What is the url of the Staking dashboard？",
+              "source": "@site/docs/delegator/delegate-faq.md",
+              "sourceDirName": "delegator",
+              "slug": "/delegator/delegate-faq",
+              "permalink": "/docs/delegator/delegate-faq",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/delegator/delegate-faq.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "delegator",
+              "previous": {
+                "title": "Contract",
+                "permalink": "/docs/delegator/contract"
+              }
+            },
+            {
+              "unversionedId": "delegator/how-to-delegate",
+              "id": "delegator/how-to-delegate",
+              "title": "How To Delegate",
+              "description": "Delegators do not need to participate in verification without a full node. They can vote BTT tokens for validators and receive proportional rewards. Delegators play a vital role in the system and they can choose validators according to their wishes.",
+              "source": "@site/docs/delegator/how-to-delegate.md",
+              "sourceDirName": "delegator",
+              "slug": "/delegator/how-to-delegate",
+              "permalink": "/docs/delegator/how-to-delegate",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/delegator/how-to-delegate.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "delegator",
+              "next": {
+                "title": "Contract",
+                "permalink": "/docs/delegator/contract"
+              }
+            },
+            {
+              "unversionedId": "faq",
+              "id": "faq",
+              "title": "FAQ",
+              "description": "What is the BitTorrent-Chain network?",
+              "source": "@site/docs/faq.md",
+              "sourceDirName": ".",
+              "slug": "/faq",
+              "permalink": "/docs/faq",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/faq.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "State Transition",
+                "permalink": "/docs/bridge/state-transfer"
+              }
+            },
+            {
+              "unversionedId": "governance/govern",
+              "id": "governance/govern",
+              "title": "Governance",
+              "description": "",
+              "source": "@site/docs/governance/govern.md",
+              "sourceDirName": "governance",
+              "slug": "/governance/govern",
+              "permalink": "/docs/governance/govern",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/governance/govern.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "governanceSidebar"
+            },
+            {
+              "unversionedId": "greeting",
+              "id": "greeting",
+              "title": "greeting",
+              "description": "----",
+              "source": "@site/docs/greeting.md",
+              "sourceDirName": ".",
+              "slug": "/greeting",
+              "permalink": "/docs/greeting",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/greeting.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Tutorial Intro",
+              "description": "Let's discover Docusaurus in less than 5 minutes.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "networks/network",
+              "id": "networks/network",
+              "title": "Network Details",
+              "description": "<Tabs",
+              "source": "@site/docs/networks/network.md",
+              "sourceDirName": "networks",
+              "slug": "/networks/network",
+              "permalink": "/docs/networks/network",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/networks/network.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Wallet",
+                "permalink": "/docs/wallet"
+              },
+              "next": {
+                "title": "Deploy Contract with Remix",
+                "permalink": "/docs/smartcontract/deploy-contracts"
+              }
+            },
+            {
+              "unversionedId": "node/build-fullnode",
+              "id": "node/build-fullnode",
+              "title": "Fullnode Deployment",
+              "description": "System requirements",
+              "source": "@site/docs/node/build-fullnode.md",
+              "sourceDirName": "node",
+              "slug": "/node/build-fullnode",
+              "permalink": "/docs/node/build-fullnode",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/node/build-fullnode.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Genesis Contracts",
+                "permalink": "/docs/smartcontract/genesis-contracts"
+              },
+              "next": {
+                "title": "Delivery and Bttc Snapshots",
+                "permalink": "/docs/node/snapshot"
+              }
+            },
+            {
+              "unversionedId": "node/build-validator-node",
+              "id": "node/build-validator-node",
+              "title": "Validator Node Deployment",
+              "description": "System requirements",
+              "source": "@site/docs/node/build-validator-node.md",
+              "sourceDirName": "node",
+              "slug": "/node/build-validator-node",
+              "permalink": "/docs/node/build-validator-node",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/node/build-validator-node.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "node/snapshot",
+              "id": "node/snapshot",
+              "title": "Delivery and Bttc Snapshots",
+              "description": "When setting up a new Sentry, Validator, or Full Node server, it is recommended you use a snapshot for faster syncing without having to sync over the network. Using snapshots will save you several days for both Delivery and BTTC.",
+              "source": "@site/docs/node/snapshot.md",
+              "sourceDirName": "node",
+              "slug": "/node/snapshot",
+              "permalink": "/docs/node/snapshot",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/node/snapshot.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "validatorSidebar",
+              "previous": {
+                "title": "Validator Node Deployment",
+                "permalink": "/docs/validator/build-validator-node"
+              },
+              "next": {
+                "title": "Port Management",
+                "permalink": "/docs/validator/port_management"
+              }
+            },
+            {
+              "unversionedId": "quickstart",
+              "id": "quickstart",
+              "title": "Introduction to BTTC",
+              "description": "BitTorrent Chain (referred to as “BTTC” below) is the first scalable heterogeneous cross-chain interoperability protocol on TRON, featuring PoS (Proof of Stake) consensus mechanism and multi-node validation. It supports smart contract extension through sidechains and is compatible with Ethereum-based smart contracts. Together with many other functions it boasts, it enables developers to migrate and develop DApps on the chain without a hitch.",
+              "source": "@site/docs/quickstart.md",
+              "sourceDirName": ".",
+              "slug": "/quickstart",
+              "permalink": "/docs/quickstart",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/quickstart.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Build a Web3 App On BTTC",
+                "permalink": "/docs/build-web3-app"
+              }
+            },
+            {
+              "unversionedId": "smartcontract/deploy-contracts",
+              "id": "smartcontract/deploy-contracts",
+              "title": "Deploy Contract with Remix",
+              "description": "This article is a beginning with the deployment of the simplest Hello World contract.",
+              "source": "@site/docs/smartcontract/deploy-contracts.md",
+              "sourceDirName": "smartcontract",
+              "slug": "/smartcontract/deploy-contracts",
+              "permalink": "/docs/smartcontract/deploy-contracts",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/smartcontract/deploy-contracts.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Network Details",
+                "permalink": "/docs/networks/network"
+              },
+              "next": {
+                "title": "Genesis Contracts",
+                "permalink": "/docs/smartcontract/genesis-contracts"
+              }
+            },
+            {
+              "unversionedId": "smartcontract/genesis-contracts",
+              "id": "smartcontract/genesis-contracts",
+              "title": "Genesis Contracts",
+              "description": "TRON Mainnet",
+              "source": "@site/docs/smartcontract/genesis-contracts.md",
+              "sourceDirName": "smartcontract",
+              "slug": "/smartcontract/genesis-contracts",
+              "permalink": "/docs/smartcontract/genesis-contracts",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/smartcontract/genesis-contracts.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Deploy Contract with Remix",
+                "permalink": "/docs/smartcontract/deploy-contracts"
+              },
+              "next": {
+                "title": "Fullnode Deployment",
+                "permalink": "/docs/node/build-fullnode"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/manage-docs-versions",
+              "id": "tutorial-extras/manage-docs-versions",
+              "title": "Manage Docs Versions",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/manage-docs-versions",
+              "permalink": "/docs/tutorial-extras/manage-docs-versions",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/tutorial-extras/manage-docs-versions.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/translate-your-site",
+              "id": "tutorial-extras/translate-your-site",
+              "title": "Translate your site",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/tutorial-extras/translate-your-site.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/translate-your-site",
+              "permalink": "/docs/tutorial-extras/translate-your-site",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/tutorial-extras/translate-your-site.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              }
+            },
+            {
+              "unversionedId": "validator/build-validator-node",
+              "id": "validator/build-validator-node",
+              "title": "Validator Node Deployment",
+              "description": "System requirements",
+              "source": "@site/docs/validator/build-validator-node.md",
+              "sourceDirName": "validator",
+              "slug": "/validator/build-validator-node",
+              "permalink": "/docs/validator/build-validator-node",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/build-validator-node.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "validatorSidebar",
+              "previous": {
+                "title": "State Sync Mechanism",
+                "permalink": "/docs/validator/core-components/state-sync-mechanism"
+              },
+              "next": {
+                "title": "Delivery and Bttc Snapshots",
+                "permalink": "/docs/node/snapshot"
+              }
+            },
+            {
+              "unversionedId": "validator/change-signer-address",
+              "id": "validator/change-signer-address",
+              "title": "Change Your Signer Address",
+              "description": "For information on what a signer address is, see",
+              "source": "@site/docs/validator/change-signer-address.md",
+              "sourceDirName": "validator",
+              "slug": "/validator/change-signer-address",
+              "permalink": "/docs/validator/change-signer-address",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/change-signer-address.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "validator/core-components/bttc-layer",
+              "id": "validator/core-components/bttc-layer",
+              "title": "Bttc Layer",
+              "description": "The Bttc node or the block producer implementation is the sidechain operator.",
+              "source": "@site/docs/validator/core-components/bttc-layer.md",
+              "sourceDirName": "validator/core-components",
+              "slug": "/validator/core-components/bttc-layer",
+              "permalink": "/docs/validator/core-components/bttc-layer",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/core-components/bttc-layer.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "validatorSidebar",
+              "previous": {
+                "title": "Delivery Layer",
+                "permalink": "/docs/validator/core-components/delivery-layer"
+              },
+              "next": {
+                "title": "Checkpoint Mechanism",
+                "permalink": "/docs/validator/core-components/checkpoint"
+              }
+            },
+            {
+              "unversionedId": "validator/core-components/checkpoint",
+              "id": "validator/core-components/checkpoint",
+              "title": "Checkpoint Mechanism",
+              "description": "BTTC depends on the TRON Mainnet as its Layer 1 Settlement Layer.",
+              "source": "@site/docs/validator/core-components/checkpoint.md",
+              "sourceDirName": "validator/core-components",
+              "slug": "/validator/core-components/checkpoint",
+              "permalink": "/docs/validator/core-components/checkpoint",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/core-components/checkpoint.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "validatorSidebar",
+              "previous": {
+                "title": "Bttc Layer",
+                "permalink": "/docs/validator/core-components/bttc-layer"
+              },
+              "next": {
+                "title": "Key Management",
+                "permalink": "/docs/validator/core-components/key-management"
+              }
+            },
+            {
+              "unversionedId": "validator/core-components/delivery-layer",
+              "id": "validator/core-components/delivery-layer",
+              "title": "Delivery Layer",
+              "description": "Delivery is is the proof-of-stake verifier layer, which is responsible for checkpointing the representation of the Bttc layer blocks to the TRON/BSC/Ethereum mainnet. Delivery is based on Tendermint.",
+              "source": "@site/docs/validator/core-components/delivery-layer.md",
+              "sourceDirName": "validator/core-components",
+              "slug": "/validator/core-components/delivery-layer",
+              "permalink": "/docs/validator/core-components/delivery-layer",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/core-components/delivery-layer.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "validatorSidebar",
+              "previous": {
+                "title": "Reward",
+                "permalink": "/docs/validator/rewards"
+              },
+              "next": {
+                "title": "Bttc Layer",
+                "permalink": "/docs/validator/core-components/bttc-layer"
+              }
+            },
+            {
+              "unversionedId": "validator/core-components/derivatives",
+              "id": "validator/core-components/derivatives",
+              "title": "Derivatives",
+              "description": "BTTC supports delegation via validator shares. By using this design, it is easier to distribute rewards and slash with scale on the TRON  mainnet contracts without much computation.",
+              "source": "@site/docs/validator/core-components/derivatives.md",
+              "sourceDirName": "validator/core-components",
+              "slug": "/validator/core-components/derivatives",
+              "permalink": "/docs/validator/core-components/derivatives",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/core-components/derivatives.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "validator/core-components/key-management",
+              "id": "validator/core-components/key-management",
+              "title": "Key Management",
+              "description": "Each validator uses two keys to manage validator related activities on BTTC:",
+              "source": "@site/docs/validator/core-components/key-management.md",
+              "sourceDirName": "validator/core-components",
+              "slug": "/validator/core-components/key-management",
+              "permalink": "/docs/validator/core-components/key-management",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/core-components/key-management.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "validatorSidebar",
+              "previous": {
+                "title": "Checkpoint Mechanism",
+                "permalink": "/docs/validator/core-components/checkpoint"
+              },
+              "next": {
+                "title": "Proposers & Producers Selection",
+                "permalink": "/docs/validator/core-components/proposer-producer-selection"
+              }
+            },
+            {
+              "unversionedId": "validator/core-components/proposer-bonus",
+              "id": "validator/core-components/proposer-bonus",
+              "title": "Proposer Bonus",
+              "description": "In BTTC, there is an additional element of committing periodic checkpoints to the TRON/BSC/Ethereum mainnet. This is a major part of the validator responsibilities and they are incentivized to perform this activity. This constitutes a cost to the validator which is unique to a Layer 2 solution such as BTTC. We strive to accommodate this cost in the validator staking reward payout mechanism as a bonus to be paid to the proposer, who is responsible for committing the checkpoint. Rewards minus the bonus is to be shared among all stakers; proposer and signers, proportionally.",
+              "source": "@site/docs/validator/core-components/proposer-bonus.md",
+              "sourceDirName": "validator/core-components",
+              "slug": "/validator/core-components/proposer-bonus",
+              "permalink": "/docs/validator/core-components/proposer-bonus",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/core-components/proposer-bonus.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "validatorSidebar",
+              "previous": {
+                "title": "Proposers & Producers Selection",
+                "permalink": "/docs/validator/core-components/proposer-producer-selection"
+              },
+              "next": {
+                "title": "Transaction Fees",
+                "permalink": "/docs/validator/core-components/transaction-fees"
+              }
+            },
+            {
+              "unversionedId": "validator/core-components/proposer-producer-selection",
+              "id": "validator/core-components/proposer-producer-selection",
+              "title": "Proposers & Producers Selection",
+              "description": "Block Producers for the Bttc layer, are a committee selected from the Validators pool on the basis of their stake which happens at regular intervals. These intervals are decided by the Validator's governance with regards to dynasty and network.",
+              "source": "@site/docs/validator/core-components/proposer-producer-selection.md",
+              "sourceDirName": "validator/core-components",
+              "slug": "/validator/core-components/proposer-producer-selection",
+              "permalink": "/docs/validator/core-components/proposer-producer-selection",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/core-components/proposer-producer-selection.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "validatorSidebar",
+              "previous": {
+                "title": "Key Management",
+                "permalink": "/docs/validator/core-components/key-management"
+              },
+              "next": {
+                "title": "Proposer Bonus",
+                "permalink": "/docs/validator/core-components/proposer-bonus"
+              }
+            },
+            {
+              "unversionedId": "validator/core-components/staking",
+              "id": "validator/core-components/staking",
+              "title": "Staking",
+              "description": "For BTTC Network, any participant can be qualified to become a BTTC's validator by running a full node to earn rewards and collect transaction fees. To ensure the good participation by validators, they lock up some of their MATIC tokens as a stake in the ecosystem.",
+              "source": "@site/docs/validator/core-components/staking.md",
+              "sourceDirName": "validator/core-components",
+              "slug": "/validator/core-components/staking",
+              "permalink": "/docs/validator/core-components/staking",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/core-components/staking.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "validator/core-components/state-sync-mechanism",
+              "id": "validator/core-components/state-sync-mechanism",
+              "title": "State Sync Mechanism",
+              "description": "Validators on the Delivery layer pick up the StateSynced event and pass the event on to the Bttc layer.",
+              "source": "@site/docs/validator/core-components/state-sync-mechanism.md",
+              "sourceDirName": "validator/core-components",
+              "slug": "/validator/core-components/state-sync-mechanism",
+              "permalink": "/docs/validator/core-components/state-sync-mechanism",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/core-components/state-sync-mechanism.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "validatorSidebar",
+              "previous": {
+                "title": "Transaction Fees",
+                "permalink": "/docs/validator/core-components/transaction-fees"
+              },
+              "next": {
+                "title": "Validator Node Deployment",
+                "permalink": "/docs/validator/build-validator-node"
+              }
+            },
+            {
+              "unversionedId": "validator/core-components/transaction-fees",
+              "id": "validator/core-components/transaction-fees",
+              "title": "Transaction Fees",
+              "description": "Each block producer on the Bttc layer is given a certain percentage of the transaction fees collected in each block.",
+              "source": "@site/docs/validator/core-components/transaction-fees.md",
+              "sourceDirName": "validator/core-components",
+              "slug": "/validator/core-components/transaction-fees",
+              "permalink": "/docs/validator/core-components/transaction-fees",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/core-components/transaction-fees.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "validatorSidebar",
+              "previous": {
+                "title": "Proposer Bonus",
+                "permalink": "/docs/validator/core-components/proposer-bonus"
+              },
+              "next": {
+                "title": "State Sync Mechanism",
+                "permalink": "/docs/validator/core-components/state-sync-mechanism"
+              }
+            },
+            {
+              "unversionedId": "validator/getting-started",
+              "id": "validator/getting-started",
+              "title": "Validator Overview",
+              "description": "Validators are the key actor in maintaining the BTTC network. Validators run a full node and secure",
+              "source": "@site/docs/validator/getting-started.md",
+              "sourceDirName": "validator",
+              "slug": "/validator/getting-started",
+              "permalink": "/docs/validator/getting-started",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/getting-started.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "validatorSidebar",
+              "next": {
+                "title": "Validator Responsibilities",
+                "permalink": "/docs/validator/responsibilities"
+              }
+            },
+            {
+              "unversionedId": "validator/glossary",
+              "id": "validator/glossary",
+              "title": "Glossary",
+              "description": "Block producer",
+              "source": "@site/docs/validator/glossary.md",
+              "sourceDirName": "validator",
+              "slug": "/validator/glossary",
+              "permalink": "/docs/validator/glossary",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/glossary.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "validatorSidebar",
+              "previous": {
+                "title": "Commission Operations",
+                "permalink": "/docs/validator/validator-commission-operations"
+              }
+            },
+            {
+              "unversionedId": "validator/overview",
+              "id": "validator/overview",
+              "title": "Overview",
+              "description": "BitTorrent-Chain is a blockchain application platform. If you wish to become a validator by setting up a node for BitTorrent-Chain, or wish to become a delegate to entrust tokens to a validator and receive rewards, you can use this document to get a quick overview.",
+              "source": "@site/docs/validator/overview.md",
+              "sourceDirName": "validator",
+              "slug": "/validator/overview",
+              "permalink": "/docs/validator/overview",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/overview.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "validator/port_management",
+              "id": "validator/port_management",
+              "title": "Port Management",
+              "description": "Here is a list of default ports used across BTTC nodes:",
+              "source": "@site/docs/validator/port_management.md",
+              "sourceDirName": "validator",
+              "slug": "/validator/port_management",
+              "permalink": "/docs/validator/port_management",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/port_management.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "validatorSidebar",
+              "previous": {
+                "title": "Delivery and Bttc Snapshots",
+                "permalink": "/docs/node/snapshot"
+              },
+              "next": {
+                "title": "Commission Operations",
+                "permalink": "/docs/validator/validator-commission-operations"
+              }
+            },
+            {
+              "unversionedId": "validator/responsibilities",
+              "id": "validator/responsibilities",
+              "title": "Validator Responsibilities",
+              "description": "A blockchain validator is someone who is responsible for validating transactions within a blockchain. On the BTTC Network, any participant can be qualified to become a BTTC's validator by running a full node to earn rewards and collect transaction fees. To ensure the good participation by validators, they lock up at least 1 BTT token as a stake in the ecosystem.",
+              "source": "@site/docs/validator/responsibilities.md",
+              "sourceDirName": "validator",
+              "slug": "/validator/responsibilities",
+              "permalink": "/docs/validator/responsibilities",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/responsibilities.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "validatorSidebar",
+              "previous": {
+                "title": "Validator Overview",
+                "permalink": "/docs/validator/getting-started"
+              },
+              "next": {
+                "title": "Staking",
+                "permalink": "/docs/validator/staking"
+              }
+            },
+            {
+              "unversionedId": "validator/rewards",
+              "id": "validator/rewards",
+              "title": "Reward",
+              "description": "In BTTC, validators stake their BTT tokens as collateral to work for the security of the network, and in exchange for their service, earn rewards.",
+              "source": "@site/docs/validator/rewards.md",
+              "sourceDirName": "validator",
+              "slug": "/validator/rewards",
+              "permalink": "/docs/validator/rewards",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/rewards.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "validatorSidebar",
+              "previous": {
+                "title": "Staking",
+                "permalink": "/docs/validator/staking"
+              },
+              "next": {
+                "title": "Delivery Layer",
+                "permalink": "/docs/validator/core-components/delivery-layer"
+              }
+            },
+            {
+              "unversionedId": "validator/staking",
+              "id": "validator/staking",
+              "title": "Staking",
+              "description": "For BTTC Network, any participant can be qualified to become a BTTC's validator by running a full node to earn rewards and collect transaction fees. To ensure the good participation by validators, they lock up some of their BTTC tokens as a stake in the ecosystem.",
+              "source": "@site/docs/validator/staking.md",
+              "sourceDirName": "validator",
+              "slug": "/validator/staking",
+              "permalink": "/docs/validator/staking",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/staking.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "validatorSidebar",
+              "previous": {
+                "title": "Validator Responsibilities",
+                "permalink": "/docs/validator/responsibilities"
+              },
+              "next": {
+                "title": "Reward",
+                "permalink": "/docs/validator/rewards"
+              }
+            },
+            {
+              "unversionedId": "validator/validator-commission-operations",
+              "id": "validator/validator-commission-operations",
+              "title": "Commission Operations",
+              "description": "You can set up and change your commission as a validator.",
+              "source": "@site/docs/validator/validator-commission-operations.md",
+              "sourceDirName": "validator",
+              "slug": "/validator/validator-commission-operations",
+              "permalink": "/docs/validator/validator-commission-operations",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/validator-commission-operations.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "validatorSidebar",
+              "previous": {
+                "title": "Port Management",
+                "permalink": "/docs/validator/port_management"
+              },
+              "next": {
+                "title": "Glossary",
+                "permalink": "/docs/validator/glossary"
+              }
+            },
+            {
+              "unversionedId": "wallet",
+              "id": "wallet",
+              "title": "Wallet",
+              "description": "Wallets are used by the client to manage your dApp integration on BTTC. There are two main types of wallets used in the BTTC ecosystem:",
+              "source": "@site/docs/wallet.md",
+              "sourceDirName": ".",
+              "slug": "/wallet",
+              "permalink": "/docs/wallet",
+              "draft": false,
+              "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/wallet.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Build a Web3 App On BTTC",
+                "permalink": "/docs/build-web3-app"
+              },
+              "next": {
+                "title": "Network Details",
+                "permalink": "/docs/networks/network"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "quickstart",
+                "label": "Quick Start",
+                "translatable": true
+              },
+              {
+                "type": "doc",
+                "id": "build-web3-app",
+                "label": "Build a Web3 App On BTTC",
+                "translatable": true
+              },
+              {
+                "type": "doc",
+                "id": "wallet",
+                "label": "Wallet",
+                "translatable": true
+              },
+              {
+                "type": "category",
+                "label": "Network",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "networks/network",
+                    "label": "Network Details",
+                    "translatable": true
+                  },
+                  {
+                    "type": "link",
+                    "label": "Faucet",
+                    "href": "https://testfaucet.bt.io"
+                  },
+                  {
+                    "type": "link",
+                    "label": "JSON-RPC",
+                    "href": "https://documenter.getpostman.com/view/4117254/ethereum-json-rpc/RVu7CT5J?version=latest"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Smart Contract",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "smartcontract/deploy-contracts",
+                    "label": "Deploy Contract",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "smartcontract/genesis-contracts",
+                    "label": "Genesis Contracts",
+                    "translatable": true
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Node",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "node/build-fullnode",
+                    "label": "Fullnode Deployment",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "node/snapshot",
+                    "label": "Snapshot",
+                    "translatable": true
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Bridge",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "bridge/overview",
+                    "label": "Overview",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "bridge/asset-map",
+                    "label": "Asset Map",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "bridge/deposit-and-withdraw",
+                    "label": "Deposit and Withdraw",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "bridge/deposit-checkpoint-event-tracking",
+                    "label": "Deposit Checkpoint Event Tracking",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "bridge/state-transfer",
+                    "label": "State Transfer",
+                    "translatable": true
+                  }
+                ]
+              },
+              {
+                "type": "doc",
+                "id": "faq",
+                "label": "FAQ",
+                "translatable": true
+              }
+            ],
+            "validatorSidebar": [
+              {
+                "type": "doc",
+                "id": "validator/getting-started",
+                "label": "Validator Overview",
+                "translatable": true
+              },
+              {
+                "type": "doc",
+                "id": "validator/responsibilities",
+                "label": "Responsibilities",
+                "translatable": true
+              },
+              {
+                "type": "doc",
+                "id": "validator/staking",
+                "label": "Staking",
+                "translatable": true
+              },
+              {
+                "type": "doc",
+                "id": "validator/rewards",
+                "label": "Rewards",
+                "translatable": true
+              },
+              {
+                "type": "category",
+                "label": "Core Components",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "validator/core-components/delivery-layer",
+                    "label": "Delivery Layer",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "validator/core-components/bttc-layer",
+                    "label": "Bttc Layer",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "validator/core-components/checkpoint",
+                    "label": "Checkpoints",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "validator/core-components/key-management",
+                    "label": "Key Management",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "validator/core-components/proposer-producer-selection",
+                    "label": "Proposers & Producers",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "validator/core-components/proposer-bonus",
+                    "label": "Proposer Bonus",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "validator/core-components/transaction-fees",
+                    "label": "Transaction Fees",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "validator/core-components/state-sync-mechanism",
+                    "label": "State Sync Mechanism",
+                    "translatable": true
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Node Management",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "validator/build-validator-node",
+                    "label": "Validator Node Deployment",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "node/snapshot",
+                    "label": "Snapshot",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "validator/port_management",
+                    "label": "Port Management",
+                    "translatable": true
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Staking Operations",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "validator/validator-commission-operations",
+                    "label": "Commission Operations",
+                    "translatable": true
+                  }
+                ]
+              },
+              {
+                "type": "doc",
+                "id": "validator/glossary",
+                "label": "Glossary",
+                "translatable": true
+              }
+            ],
+            "delegator": [
+              {
+                "type": "doc",
+                "id": "delegator/how-to-delegate",
+                "label": "How to Delegate",
+                "translatable": true
+              },
+              {
+                "type": "doc",
+                "id": "delegator/contract",
+                "label": "Contract",
+                "translatable": true
+              },
+              {
+                "type": "doc",
+                "id": "delegator/delegate-faq",
+                "label": "Delegator FAQ",
+                "translatable": true
+              }
+            ],
+            "governanceSidebar": [
+              {
+                "type": "doc",
+                "id": "governance/govern",
+                "label": "Governance",
+                "translatable": true
+              }
+            ],
+            "contribute": [
+              {
+                "type": "doc",
+                "id": "contribute/guidelines",
+                "label": "Contributor Guidelines",
+                "translatable": true
+              }
+            ],
+            "architecture": [
+              {
+                "type": "doc",
+                "id": "architecture/arch",
+                "label": "Architecture",
+                "translatable": true
+              }
+            ],
+            "basics": [
+              {
+                "type": "category",
+                "label": "BlockChain Basics",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "basics/blockchain-basics/basics-blockchain",
+                    "label": "BlockChain",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "basics/blockchain-basics/basics-blockchain-types",
+                    "label": "Types of Blockchain",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "basics/blockchain-basics/basics-consensus-mechanism",
+                    "label": "Consensus",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "basics/blockchain-basics/basics-ethereum",
+                    "label": "Ethereum",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "basics/blockchain-basics/basics-solidity",
+                    "label": "Solidity",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "basics/blockchain-basics/basics-accounts",
+                    "label": "Accounts",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "basics/blockchain-basics/basics-gas",
+                    "label": "Gas",
+                    "translatable": true
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "BTTC Basics",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "basics/bttc-basics/what-is-bttc",
+                    "label": "What is BTTC?",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "basics/bttc-basics/what-is-proof-of-stake",
+                    "label": "What is Proof of Stake?",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "basics/bttc-basics/who-is-a-delegator",
+                    "label": "Who is Delegator?",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "basics/bttc-basics/who-is-a-validator",
+                    "label": "Who is Validator?",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "basics/bttc-basics/bttc-pos-architecture",
+                    "label": "BTTC PoS Architecture",
+                    "translatable": true
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-theme-search-algolia": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

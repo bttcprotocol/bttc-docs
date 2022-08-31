@@ -1,0 +1,26 @@
+{
+  "unversionedId": "validator/core-components/transaction-fees",
+  "id": "validator/core-components/transaction-fees",
+  "title": "交易费用",
+  "description": "在BTTC层的每个区块生产者都会得到这个区块交易费一部分作为奖励，剩余部分区块奖励和其他奖励一起由Delivery层的其他区块生产者按照股权占比分配。",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/validator/core-components/transaction-fees.md",
+  "sourceDirName": "validator/core-components",
+  "slug": "/validator/core-components/transaction-fees",
+  "permalink": "/zh-Hans/docs/validator/core-components/transaction-fees",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/core-components/transaction-fees.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "validatorSidebar",
+  "previous": {
+    "title": "提议者奖励",
+    "permalink": "/zh-Hans/docs/validator/core-components/proposer-bonus"
+  },
+  "next": {
+    "title": "状态同步机制",
+    "permalink": "/zh-Hans/docs/validator/core-components/state-sync-mechanism"
+  }
+}

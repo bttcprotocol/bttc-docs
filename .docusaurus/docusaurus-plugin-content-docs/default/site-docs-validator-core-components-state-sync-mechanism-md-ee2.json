@@ -1,0 +1,26 @@
+{
+  "unversionedId": "validator/core-components/state-sync-mechanism",
+  "id": "validator/core-components/state-sync-mechanism",
+  "title": "State Sync Mechanism",
+  "description": "Validators on the Delivery layer pick up the StateSynced event and pass the event on to the Bttc layer.",
+  "source": "@site/docs/validator/core-components/state-sync-mechanism.md",
+  "sourceDirName": "validator/core-components",
+  "slug": "/validator/core-components/state-sync-mechanism",
+  "permalink": "/docs/validator/core-components/state-sync-mechanism",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/core-components/state-sync-mechanism.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {},
+  "sidebar": "validatorSidebar",
+  "previous": {
+    "title": "Transaction Fees",
+    "permalink": "/docs/validator/core-components/transaction-fees"
+  },
+  "next": {
+    "title": "Validator Node Deployment",
+    "permalink": "/docs/validator/build-validator-node"
+  }
+}

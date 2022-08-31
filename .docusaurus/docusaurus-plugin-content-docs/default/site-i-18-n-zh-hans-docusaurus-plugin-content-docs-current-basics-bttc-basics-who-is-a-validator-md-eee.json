@@ -1,0 +1,26 @@
+{
+  "unversionedId": "basics/bttc-basics/who-is-a-validator",
+  "id": "basics/bttc-basics/who-is-a-validator",
+  "title": "什么是验证人？",
+  "description": "验证人是网络的参与者，他在系统中锁定BTT代币，并运行验证人节点，验证者对于网络健康运行起着至关重要的作用。验证人有以下职责：",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/basics/bttc-basics/who-is-a-validator.md",
+  "sourceDirName": "basics/bttc-basics",
+  "slug": "/basics/bttc-basics/who-is-a-validator",
+  "permalink": "/zh-Hans/docs/basics/bttc-basics/who-is-a-validator",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/basics/bttc-basics/who-is-a-validator.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "basics",
+  "previous": {
+    "title": "什么是委托人？",
+    "permalink": "/zh-Hans/docs/basics/bttc-basics/who-is-a-delegator"
+  },
+  "next": {
+    "title": "Bittorrent-Chain架构",
+    "permalink": "/zh-Hans/docs/basics/bttc-basics/bttc-pos-architecture"
+  }
+}

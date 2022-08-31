@@ -1,0 +1,26 @@
+{
+  "unversionedId": "basics/bttc-basics/what-is-proof-of-stake",
+  "id": "basics/bttc-basics/what-is-proof-of-stake",
+  "title": "What is Proof of Stake?",
+  "description": "Proof of Stake (PoS) is a category of consensus algorithms for public blockchains that depend on a validator's economic stake] in the network.",
+  "source": "@site/docs/basics/bttc-basics/what-is-proof-of-stake.md",
+  "sourceDirName": "basics/bttc-basics",
+  "slug": "/basics/bttc-basics/what-is-proof-of-stake",
+  "permalink": "/docs/basics/bttc-basics/what-is-proof-of-stake",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/basics/bttc-basics/what-is-proof-of-stake.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {},
+  "sidebar": "basics",
+  "previous": {
+    "title": "What is BitTorrent-Chain?",
+    "permalink": "/docs/basics/bttc-basics/what-is-bttc"
+  },
+  "next": {
+    "title": "Who is Delegator?",
+    "permalink": "/docs/basics/bttc-basics/who-is-a-delegator"
+  }
+}

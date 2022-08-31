@@ -1,0 +1,26 @@
+{
+  "unversionedId": "bridge/overview",
+  "id": "bridge/overview",
+  "title": "Overview",
+  "description": "BTTC introduces a reliable cross-chain bridge between the TRON and BTTC networks. Through the bridge, users can transfer their tokens to TRON via BTTC at will, without the risks and liquidity restrictions associated with third party institutions. BTTC offers an extremely efficient, cost effective and flexible scalability solution.",
+  "source": "@site/docs/bridge/overview.md",
+  "sourceDirName": "bridge",
+  "slug": "/bridge/overview",
+  "permalink": "/docs/bridge/overview",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/bridge/overview.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Delivery and Bttc Snapshots",
+    "permalink": "/docs/node/snapshot"
+  },
+  "next": {
+    "title": "Asset Mapping",
+    "permalink": "/docs/bridge/asset-map"
+  }
+}

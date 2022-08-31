@@ -1,0 +1,26 @@
+{
+  "unversionedId": "validator/validator-commission-operations",
+  "id": "validator/validator-commission-operations",
+  "title": "Commission Operations",
+  "description": "You can set up and change your commission as a validator.",
+  "source": "@site/docs/validator/validator-commission-operations.md",
+  "sourceDirName": "validator",
+  "slug": "/validator/validator-commission-operations",
+  "permalink": "/docs/validator/validator-commission-operations",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/validator-commission-operations.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {},
+  "sidebar": "validatorSidebar",
+  "previous": {
+    "title": "Port Management",
+    "permalink": "/docs/validator/port_management"
+  },
+  "next": {
+    "title": "Glossary",
+    "permalink": "/docs/validator/glossary"
+  }
+}

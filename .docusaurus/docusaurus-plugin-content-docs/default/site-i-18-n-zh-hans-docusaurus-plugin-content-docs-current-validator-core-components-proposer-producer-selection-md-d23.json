@@ -1,0 +1,26 @@
+{
+  "unversionedId": "validator/core-components/proposer-producer-selection",
+  "id": "validator/core-components/proposer-producer-selection",
+  "title": "提议者和区块生产者竞选",
+  "description": "Bttc层中区块生产者是根据他们的质押占比从验证者集合中每隔一段时间选举",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/validator/core-components/proposer-producer-selection.md",
+  "sourceDirName": "validator/core-components",
+  "slug": "/validator/core-components/proposer-producer-selection",
+  "permalink": "/zh-Hans/docs/validator/core-components/proposer-producer-selection",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/core-components/proposer-producer-selection.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "validatorSidebar",
+  "previous": {
+    "title": "私钥管理",
+    "permalink": "/zh-Hans/docs/validator/core-components/key-management"
+  },
+  "next": {
+    "title": "提议者奖励",
+    "permalink": "/zh-Hans/docs/validator/core-components/proposer-bonus"
+  }
+}

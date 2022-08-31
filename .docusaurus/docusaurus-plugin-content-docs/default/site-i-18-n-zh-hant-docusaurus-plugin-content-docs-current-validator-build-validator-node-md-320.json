@@ -1,0 +1,26 @@
+{
+  "unversionedId": "validator/build-validator-node",
+  "id": "validator/build-validator-node",
+  "title": "驗證人節點部署",
+  "description": "系統要求",
+  "source": "@site/i18n/zh-Hant/docusaurus-plugin-content-docs/current/validator/build-validator-node.md",
+  "sourceDirName": "validator",
+  "slug": "/validator/build-validator-node",
+  "permalink": "/zh-Hant/docs/validator/build-validator-node",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/build-validator-node.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "validatorSidebar",
+  "previous": {
+    "title": "狀態同步機制",
+    "permalink": "/zh-Hant/docs/validator/core-components/state-sync-mechanism"
+  },
+  "next": {
+    "title": "Delivery和Bttc快照",
+    "permalink": "/zh-Hant/docs/node/snapshot"
+  }
+}

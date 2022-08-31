@@ -1,0 +1,26 @@
+{
+  "unversionedId": "smartcontract/deploy-contracts",
+  "id": "smartcontract/deploy-contracts",
+  "title": "Deploy Contract with Remix",
+  "description": "This article is a beginning with the deployment of the simplest Hello World contract.",
+  "source": "@site/docs/smartcontract/deploy-contracts.md",
+  "sourceDirName": "smartcontract",
+  "slug": "/smartcontract/deploy-contracts",
+  "permalink": "/docs/smartcontract/deploy-contracts",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/smartcontract/deploy-contracts.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Network Details",
+    "permalink": "/docs/networks/network"
+  },
+  "next": {
+    "title": "Genesis Contracts",
+    "permalink": "/docs/smartcontract/genesis-contracts"
+  }
+}

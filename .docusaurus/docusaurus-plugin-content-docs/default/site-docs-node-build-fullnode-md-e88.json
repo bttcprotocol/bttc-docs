@@ -1,0 +1,26 @@
+{
+  "unversionedId": "node/build-fullnode",
+  "id": "node/build-fullnode",
+  "title": "Fullnode Deployment",
+  "description": "System requirements",
+  "source": "@site/docs/node/build-fullnode.md",
+  "sourceDirName": "node",
+  "slug": "/node/build-fullnode",
+  "permalink": "/docs/node/build-fullnode",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/node/build-fullnode.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Genesis Contracts",
+    "permalink": "/docs/smartcontract/genesis-contracts"
+  },
+  "next": {
+    "title": "Delivery and Bttc Snapshots",
+    "permalink": "/docs/node/snapshot"
+  }
+}

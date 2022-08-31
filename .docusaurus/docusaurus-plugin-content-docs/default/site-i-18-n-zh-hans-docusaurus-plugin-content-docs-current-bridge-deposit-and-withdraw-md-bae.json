@@ -1,0 +1,26 @@
+{
+  "unversionedId": "bridge/deposit-and-withdraw",
+  "id": "bridge/deposit-and-withdraw",
+  "title": "代币充提",
+  "description": "此处以ERC-20为例，充值的流程是：",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/bridge/deposit-and-withdraw.md",
+  "sourceDirName": "bridge",
+  "slug": "/bridge/deposit-and-withdraw",
+  "permalink": "/zh-Hans/docs/bridge/deposit-and-withdraw",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/bridge/deposit-and-withdraw.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "资产映射",
+    "permalink": "/zh-Hans/docs/bridge/asset-map"
+  },
+  "next": {
+    "title": "存款与检查点事件跟踪",
+    "permalink": "/zh-Hans/docs/bridge/deposit-checkpoint-event-tracking"
+  }
+}

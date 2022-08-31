@@ -1,0 +1,26 @@
+{
+  "unversionedId": "validator/rewards",
+  "id": "validator/rewards",
+  "title": "奖励",
+  "description": "验证人通过质押一定数量的BTT代币来确保BTTC网络的安全运行，作为激励，验证人也能获得一定的奖励。同时为了BTTC网络的生态发展，任何委托人都可以投票给验证人并获取委托奖励。",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/validator/rewards.md",
+  "sourceDirName": "validator",
+  "slug": "/validator/rewards",
+  "permalink": "/zh-Hans/docs/validator/rewards",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/rewards.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "validatorSidebar",
+  "previous": {
+    "title": "质押",
+    "permalink": "/zh-Hans/docs/validator/staking"
+  },
+  "next": {
+    "title": "Delivery层",
+    "permalink": "/zh-Hans/docs/validator/core-components/delivery-layer"
+  }
+}

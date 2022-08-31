@@ -1,0 +1,26 @@
+{
+  "unversionedId": "bridge/state-transfer",
+  "id": "bridge/state-transfer",
+  "title": "狀態轉移",
+  "description": "BTTC的驗證人持續對公共區塊鏈上的StateSender合約進行監控。每當公共區塊鏈上注冊的合約調用StateSender時，它都會發出一個事件。BTTC的驗證人用這個事件將數據中繼到BTTC上的另一個合約。這個機制就是狀態同步，用於將數據從公共區塊鏈發送至BTTC。",
+  "source": "@site/i18n/zh-Hant/docusaurus-plugin-content-docs/current/bridge/state-transfer.md",
+  "sourceDirName": "bridge",
+  "slug": "/bridge/state-transfer",
+  "permalink": "/zh-Hant/docs/bridge/state-transfer",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/bridge/state-transfer.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "存款與檢查點事件跟蹤",
+    "permalink": "/zh-Hant/docs/bridge/deposit-checkpoint-event-tracking"
+  },
+  "next": {
+    "title": "常見問題",
+    "permalink": "/zh-Hant/docs/faq"
+  }
+}

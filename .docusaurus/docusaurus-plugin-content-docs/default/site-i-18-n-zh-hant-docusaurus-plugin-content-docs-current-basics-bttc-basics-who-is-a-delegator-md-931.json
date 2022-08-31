@@ -1,0 +1,26 @@
+{
+  "unversionedId": "basics/bttc-basics/who-is-a-delegator",
+  "id": "basics/bttc-basics/who-is-a-delegator",
+  "title": "什麽是委托人？",
+  "description": "委托人是那些不能或不想自己運行驗證人節點的代幣持有者。他們通過將他們的股權委托給驗證人節點來參與網絡維護，確保網絡安全，委托人在Bittorrent生態中發揮重要作用，因為他們的投票決定哪些驗證人被當選。委托人在TRON主網上的智能合約中執行運行他們的委托操作。",
+  "source": "@site/i18n/zh-Hant/docusaurus-plugin-content-docs/current/basics/bttc-basics/who-is-a-delegator.md",
+  "sourceDirName": "basics/bttc-basics",
+  "slug": "/basics/bttc-basics/who-is-a-delegator",
+  "permalink": "/zh-Hant/docs/basics/bttc-basics/who-is-a-delegator",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/basics/bttc-basics/who-is-a-delegator.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "basics",
+  "previous": {
+    "title": "什麽是Proof of Stake?",
+    "permalink": "/zh-Hant/docs/basics/bttc-basics/what-is-proof-of-stake"
+  },
+  "next": {
+    "title": "什麽是驗證人？",
+    "permalink": "/zh-Hant/docs/basics/bttc-basics/who-is-a-validator"
+  }
+}

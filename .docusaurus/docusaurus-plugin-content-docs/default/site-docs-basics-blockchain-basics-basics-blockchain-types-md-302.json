@@ -1,0 +1,26 @@
+{
+  "unversionedId": "basics/blockchain-basics/basics-blockchain-types",
+  "id": "basics/blockchain-basics/basics-blockchain-types",
+  "title": "Types of Blockchain",
+  "description": "Below are several types of blockchains that have emerged so far.",
+  "source": "@site/docs/basics/blockchain-basics/basics-blockchain-types.md",
+  "sourceDirName": "basics/blockchain-basics",
+  "slug": "/basics/blockchain-basics/basics-blockchain-types",
+  "permalink": "/docs/basics/blockchain-basics/basics-blockchain-types",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/basics/blockchain-basics/basics-blockchain-types.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {},
+  "sidebar": "basics",
+  "previous": {
+    "title": "What is Blockchain？",
+    "permalink": "/docs/basics/blockchain-basics/basics-blockchain"
+  },
+  "next": {
+    "title": "Consensus Mechanism",
+    "permalink": "/docs/basics/blockchain-basics/basics-consensus-mechanism"
+  }
+}

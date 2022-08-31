@@ -1,0 +1,26 @@
+{
+  "unversionedId": "validator/core-components/delivery-layer",
+  "id": "validator/core-components/delivery-layer",
+  "title": "Delivery層",
+  "description": "Delivery是POS共識的驗證者層，負責將 Bttc 層塊的檢查點提交到 TRON/BSC/Ethereum主網, Delivery基於Tendermint實現。",
+  "source": "@site/i18n/zh-Hant/docusaurus-plugin-content-docs/current/validator/core-components/delivery-layer.md",
+  "sourceDirName": "validator/core-components",
+  "slug": "/validator/core-components/delivery-layer",
+  "permalink": "/zh-Hant/docs/validator/core-components/delivery-layer",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/core-components/delivery-layer.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "validatorSidebar",
+  "previous": {
+    "title": "獎勵",
+    "permalink": "/zh-Hant/docs/validator/rewards"
+  },
+  "next": {
+    "title": "Bttc層",
+    "permalink": "/zh-Hant/docs/validator/core-components/bttc-layer"
+  }
+}

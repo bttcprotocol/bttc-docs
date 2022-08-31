@@ -1,0 +1,26 @@
+{
+  "unversionedId": "bridge/asset-map",
+  "id": "bridge/asset-map",
+  "title": "资产映射",
+  "description": "映射是资产跨链转移的重要步骤。所谓映射，就是利用两个网络（比如TRON和BTTC）上的智能合约进行资产的一一对应，便于诸如锁定、销毁以及转移等操作。",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/bridge/asset-map.md",
+  "sourceDirName": "bridge",
+  "slug": "/bridge/asset-map",
+  "permalink": "/zh-Hans/docs/bridge/asset-map",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/bridge/asset-map.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "概述",
+    "permalink": "/zh-Hans/docs/bridge/overview"
+  },
+  "next": {
+    "title": "代币充提",
+    "permalink": "/zh-Hans/docs/bridge/deposit-and-withdraw"
+  }
+}

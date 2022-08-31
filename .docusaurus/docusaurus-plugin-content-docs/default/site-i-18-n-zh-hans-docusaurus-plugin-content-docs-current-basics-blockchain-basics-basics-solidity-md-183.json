@@ -1,0 +1,26 @@
+{
+  "unversionedId": "basics/blockchain-basics/basics-solidity",
+  "id": "basics/blockchain-basics/basics-solidity",
+  "title": "什么是Solidity?",
+  "description": "Solidity是一种面向对象的高级编程语言，用于实现智能合约，它允许编写程序，管理区块链网络中账户的行为。Solidity语言支持合约继承，有许多内置的合约库。Solidity与C++、Python和JavaScript等编程语言相似。",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/basics/blockchain-basics/basics-solidity.md",
+  "sourceDirName": "basics/blockchain-basics",
+  "slug": "/basics/blockchain-basics/basics-solidity",
+  "permalink": "/zh-Hans/docs/basics/blockchain-basics/basics-solidity",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/basics/blockchain-basics/basics-solidity.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "basics",
+  "previous": {
+    "title": "什么是以太坊？",
+    "permalink": "/zh-Hans/docs/basics/blockchain-basics/basics-ethereum"
+  },
+  "next": {
+    "title": "什么是账户？",
+    "permalink": "/zh-Hans/docs/basics/blockchain-basics/basics-accounts"
+  }
+}

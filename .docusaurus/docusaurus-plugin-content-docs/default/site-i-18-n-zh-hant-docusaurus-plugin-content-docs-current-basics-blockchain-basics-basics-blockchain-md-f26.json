@@ -1,0 +1,22 @@
+{
+  "unversionedId": "basics/blockchain-basics/basics-blockchain",
+  "id": "basics/blockchain-basics/basics-blockchain",
+  "title": "什麽是區塊鏈？",
+  "description": "區塊鏈是一個共享的、透明的、不可篡改的賬本，用於記錄交易、跟蹤資產。它是一種分布式賬本技術，在點對點的網絡中安全地記錄信息。雖然它是為金融服務而創建的，但區塊鏈的潛力遠遠超出了加密貨幣。這些賬本可以記錄來自衛生部門、土地登記、電子競技、企業記錄、物流清單、身份的數據--幾乎任何有價值的東西。",
+  "source": "@site/i18n/zh-Hant/docusaurus-plugin-content-docs/current/basics/blockchain-basics/basics-blockchain.md",
+  "sourceDirName": "basics/blockchain-basics",
+  "slug": "/basics/blockchain-basics/basics-blockchain",
+  "permalink": "/zh-Hant/docs/basics/blockchain-basics/basics-blockchain",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/basics/blockchain-basics/basics-blockchain.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "basics",
+  "next": {
+    "title": "區塊鏈的類型",
+    "permalink": "/zh-Hant/docs/basics/blockchain-basics/basics-blockchain-types"
+  }
+}

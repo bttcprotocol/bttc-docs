@@ -1,0 +1,26 @@
+{
+  "unversionedId": "validator/core-components/proposer-bonus",
+  "id": "validator/core-components/proposer-bonus",
+  "title": "提议者奖励",
+  "description": "在 BTTC 中，验证人中选出的提议者向 TRON/BSC/Ethereum主网提交检查点。 这是验证者职责的主要部分，但这需要一些成本， 所以需要激励提议者才能确保他们长期执行这个操作。 BTTC在验证者质押奖励中会分一部分给提议者，奖励给提交检查点的提议者。",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/validator/core-components/proposer-bonus.md",
+  "sourceDirName": "validator/core-components",
+  "slug": "/validator/core-components/proposer-bonus",
+  "permalink": "/zh-Hans/docs/validator/core-components/proposer-bonus",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/core-components/proposer-bonus.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "validatorSidebar",
+  "previous": {
+    "title": "提议者和区块生产者竞选",
+    "permalink": "/zh-Hans/docs/validator/core-components/proposer-producer-selection"
+  },
+  "next": {
+    "title": "交易费用",
+    "permalink": "/zh-Hans/docs/validator/core-components/transaction-fees"
+  }
+}

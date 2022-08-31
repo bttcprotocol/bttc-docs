@@ -1,0 +1,22 @@
+{
+  "unversionedId": "faq",
+  "id": "faq",
+  "title": "常见问题",
+  "description": "什么是BitTorrent-Chain网络？",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/faq.md",
+  "sourceDirName": ".",
+  "slug": "/faq",
+  "permalink": "/zh-Hans/docs/faq",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/faq.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "状态转移",
+    "permalink": "/zh-Hans/docs/bridge/state-transfer"
+  }
+}

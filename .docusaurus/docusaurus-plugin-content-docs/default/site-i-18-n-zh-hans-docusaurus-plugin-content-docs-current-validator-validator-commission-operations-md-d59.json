@@ -1,0 +1,26 @@
+{
+  "unversionedId": "validator/validator-commission-operations",
+  "id": "validator/validator-commission-operations",
+  "title": "佣金比例",
+  "description": "佣金比例是验证人能从委托收益中分成的比例, 作为验证人可以设置或者更新自己的佣金比例。",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/validator/validator-commission-operations.md",
+  "sourceDirName": "validator",
+  "slug": "/validator/validator-commission-operations",
+  "permalink": "/zh-Hans/docs/validator/validator-commission-operations",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/validator-commission-operations.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "validatorSidebar",
+  "previous": {
+    "title": "端口管理",
+    "permalink": "/zh-Hans/docs/validator/port_management"
+  },
+  "next": {
+    "title": "词汇表",
+    "permalink": "/zh-Hans/docs/validator/glossary"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "delegator/how-to-delegate",
+  "id": "delegator/how-to-delegate",
+  "title": "如何委托投票",
+  "description": "委托人無需無需完整節點即可參與驗證。他們可以將BTT代幣投票給驗證人，並根據比例獲得獎勵。委托人在系統中起著至關重要的作用，他們可以根據自己的意願選擇驗證人。",
+  "source": "@site/i18n/zh-Hant/docusaurus-plugin-content-docs/current/delegator/how-to-delegate.md",
+  "sourceDirName": "delegator",
+  "slug": "/delegator/how-to-delegate",
+  "permalink": "/zh-Hant/docs/delegator/how-to-delegate",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/delegator/how-to-delegate.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "delegator",
+  "next": {
+    "title": "合約",
+    "permalink": "/zh-Hant/docs/delegator/contract"
+  }
+}

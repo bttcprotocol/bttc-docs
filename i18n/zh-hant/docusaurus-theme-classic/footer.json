@@ -1,0 +1,75 @@
+{
+    "link.title.Apps": {
+      "message": "Apps",
+      "description": "The title of the footer links column with title=Apps in the footer"
+    },
+    "link.title.DevCenter": {
+      "message": "開發者中心",
+      "description": "The title of the footer links column with title=DevCenter in the footer"
+    },
+    "link.title.Community": {
+      "message": "社區",
+      "description": "The title of the footer links column with title=Community in the footer"
+    },
+    "link.item.label.Wallet": {
+      "message": "錢包",
+      "description": "The label of footer link with label=Wallet linking to https://bt.io/wallet/?language=EN"
+    },
+    "link.item.label.Bridge": {
+      "message": "橋",
+      "description": "The label of footer link with label=Bridge linking to https://bt.io/bridge?language=EN"
+    },
+    "link.item.label.Staking": {
+      "message": "質押",
+      "description": "The label of footer link with label=Staking linking to https://bt.io/staking?language=EN"
+    },
+    "link.item.label.Swap": {
+      "message": "代幣轉換",
+      "description": "The label of footer link with label=Swap linking to https://bt.io/bttcswap?language=EN"
+    },
+    "link.item.label.Explorer": {
+      "message": "瀏覽器",
+      "description": "The label of footer link with label=Explorer linking to https://bttcscan.com/"
+    },
+    "link.item.label.BTTCSCAN": {
+      "message": "BTTCSCAN",
+      "description": "The label of footer link with label=BTTCSCAN linking to https://scan.bt.io"
+    },
+    "link.item.label.BTT Redenomination": {
+      "message": "拆分計劃",
+      "description": "The label of footer link with label=BTT Redenomination linking to https://bt.io/swap/?language=EN"
+    },
+    "link.item.label.Github": {
+      "message": "Github",
+      "description": "The label of footer link with label=Github linking to https://github.com/bttcprotocol"
+    },
+    "link.item.label.Faucet": {
+      "message": "水龍頭",
+      "description": "The label of footer link with label=Faucet linking to https://testfaucet.bt.io/"
+    },
+    "link.item.label.Testnet": {
+      "message": "測試網",
+      "description": "The label of footer link with label=Testnet linking to https://test.bt.io"
+    },
+    "link.item.label.Discord": {
+      "message": "Discord",
+      "description": "The label of footer link with label=Discord linking to https://discord.com/invite/qrxfbgQYGa"
+    },
+    "link.item.label.Twitter": {
+      "message": "Twitter",
+      "description": "The label of footer link with label=Twitter linking to https://twitter.com/BitTorrent"
+    },
+    "link.item.label.Telegram": {
+      "message": "Telegram",
+      "description": "The label of footer link with label=Telegram linking to https://t.me/BitTorrentChain"
+    },
+    "link.item.label.Meidum": {
+      "message": "Meidum",
+      "description": "The label of footer link with label=Meidum linking to https://github.com/facebook/docusaurus"
+    },
+    "copyright": {
+      "message": "Copyright © 2022 Bittorrent-Chain | All rights reserved",
+      "description": "The footer copyright"
+    }
+  }
+  

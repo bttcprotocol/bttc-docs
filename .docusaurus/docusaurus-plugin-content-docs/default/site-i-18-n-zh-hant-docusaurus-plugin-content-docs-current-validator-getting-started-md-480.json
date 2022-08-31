@@ -1,0 +1,22 @@
+{
+  "unversionedId": "validator/getting-started",
+  "id": "validator/getting-started",
+  "title": "驗證人",
+  "description": "驗證者是維護BTTC網絡的關鍵角色，驗證者運行一個完整的節點並通過質押 BTT來生產區塊、驗證和參與PoS共識來保證網絡安全運行。",
+  "source": "@site/i18n/zh-Hant/docusaurus-plugin-content-docs/current/validator/getting-started.md",
+  "sourceDirName": "validator",
+  "slug": "/validator/getting-started",
+  "permalink": "/zh-Hant/docs/validator/getting-started",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/getting-started.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "validatorSidebar",
+  "next": {
+    "title": "驗證人職責",
+    "permalink": "/zh-Hant/docs/validator/responsibilities"
+  }
+}

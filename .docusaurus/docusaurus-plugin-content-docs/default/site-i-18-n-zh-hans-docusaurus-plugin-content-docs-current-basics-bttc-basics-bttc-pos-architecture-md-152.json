@@ -1,0 +1,22 @@
+{
+  "unversionedId": "basics/bttc-basics/bttc-pos-architecture",
+  "id": "basics/bttc-basics/bttc-pos-architecture",
+  "title": "Bittorrent-Chain架构",
+  "description": "Bittorrent-Chain(BTTC)网络是一个区块链应用平台，从架构上看，BTTC的魅力在于其优雅的设计，它有一个通用的共识层，与执行层分离开来。",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/basics/bttc-basics/bttc-pos-architecture.md",
+  "sourceDirName": "basics/bttc-basics",
+  "slug": "/basics/bttc-basics/bttc-pos-architecture",
+  "permalink": "/zh-Hans/docs/basics/bttc-basics/bttc-pos-architecture",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/basics/bttc-basics/bttc-pos-architecture.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "basics",
+  "previous": {
+    "title": "什么是验证人？",
+    "permalink": "/zh-Hans/docs/basics/bttc-basics/who-is-a-validator"
+  }
+}

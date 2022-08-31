@@ -1,0 +1,22 @@
+{
+  "unversionedId": "quickstart",
+  "id": "quickstart",
+  "title": "Introduction to BTTC",
+  "description": "BitTorrent Chain (referred to as “BTTC” below) is the first scalable heterogeneous cross-chain interoperability protocol on TRON, featuring PoS (Proof of Stake) consensus mechanism and multi-node validation. It supports smart contract extension through sidechains and is compatible with Ethereum-based smart contracts. Together with many other functions it boasts, it enables developers to migrate and develop DApps on the chain without a hitch.",
+  "source": "@site/docs/quickstart.md",
+  "sourceDirName": ".",
+  "slug": "/quickstart",
+  "permalink": "/docs/quickstart",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/quickstart.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Build a Web3 App On BTTC",
+    "permalink": "/docs/build-web3-app"
+  }
+}

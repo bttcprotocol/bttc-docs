@@ -1,0 +1,26 @@
+{
+  "unversionedId": "validator/core-components/delivery-layer",
+  "id": "validator/core-components/delivery-layer",
+  "title": "Delivery Layer",
+  "description": "Delivery is is the proof-of-stake verifier layer, which is responsible for checkpointing the representation of the Bttc layer blocks to the TRON/BSC/Ethereum mainnet. Delivery is based on Tendermint.",
+  "source": "@site/docs/validator/core-components/delivery-layer.md",
+  "sourceDirName": "validator/core-components",
+  "slug": "/validator/core-components/delivery-layer",
+  "permalink": "/docs/validator/core-components/delivery-layer",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/core-components/delivery-layer.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {},
+  "sidebar": "validatorSidebar",
+  "previous": {
+    "title": "Reward",
+    "permalink": "/docs/validator/rewards"
+  },
+  "next": {
+    "title": "Bttc Layer",
+    "permalink": "/docs/validator/core-components/bttc-layer"
+  }
+}

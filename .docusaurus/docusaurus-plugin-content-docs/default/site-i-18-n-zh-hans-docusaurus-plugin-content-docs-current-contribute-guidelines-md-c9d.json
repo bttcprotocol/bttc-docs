@@ -1,0 +1,18 @@
+{
+  "unversionedId": "contribute/guidelines",
+  "id": "contribute/guidelines",
+  "title": "如何贡献文档",
+  "description": "Bittorrent-Chain文档是一个开源项目，如果您需要修改或添加文档内容，请在master分支提交一个PR，文档团队会审核您的提交。",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/contribute/guidelines.md",
+  "sourceDirName": "contribute",
+  "slug": "/contribute/guidelines",
+  "permalink": "/zh-Hans/docs/contribute/guidelines",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/contribute/guidelines.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "contribute"
+}

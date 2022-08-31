@@ -1,0 +1,26 @@
+{
+  "unversionedId": "basics/blockchain-basics/basics-gas",
+  "id": "basics/blockchain-basics/basics-gas",
+  "title": "What is Gas？",
+  "description": "Gas refers to the amount of computational work required to perform a specific operation on the Ethereum network. Since each Ethereum transaction requires computational resources to execute, each transaction requires a fee. For example, to compute a Keccak256 cryptographic hash, it takes 30 Gas each time the hash is computed.",
+  "source": "@site/docs/basics/blockchain-basics/basics-gas.md",
+  "sourceDirName": "basics/blockchain-basics",
+  "slug": "/basics/blockchain-basics/basics-gas",
+  "permalink": "/docs/basics/blockchain-basics/basics-gas",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/basics/blockchain-basics/basics-gas.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {},
+  "sidebar": "basics",
+  "previous": {
+    "title": "What is an account？",
+    "permalink": "/docs/basics/blockchain-basics/basics-accounts"
+  },
+  "next": {
+    "title": "What is BitTorrent-Chain?",
+    "permalink": "/docs/basics/bttc-basics/what-is-bttc"
+  }
+}

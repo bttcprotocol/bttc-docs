@@ -1,0 +1,26 @@
+{
+  "unversionedId": "smartcontract/deploy-contracts",
+  "id": "smartcontract/deploy-contracts",
+  "title": "使用Remix在BTTC上部署合约",
+  "description": "本文介绍如何使用Remix在BTTC测试网上部署一个简单的HelloWorld智能合约。",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/smartcontract/deploy-contracts.md",
+  "sourceDirName": "smartcontract",
+  "slug": "/smartcontract/deploy-contracts",
+  "permalink": "/zh-Hans/docs/smartcontract/deploy-contracts",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/smartcontract/deploy-contracts.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "网络详情",
+    "permalink": "/zh-Hans/docs/networks/network"
+  },
+  "next": {
+    "title": "创世合约",
+    "permalink": "/zh-Hans/docs/smartcontract/genesis-contracts"
+  }
+}

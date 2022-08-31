@@ -1,0 +1,17 @@
+{
+  "unversionedId": "validator/change-signer-address",
+  "id": "validator/change-signer-address",
+  "title": "Change Your Signer Address",
+  "description": "For information on what a signer address is, see",
+  "source": "@site/i18n/zh-Hant/docusaurus-plugin-content-docs/current/validator/change-signer-address.md",
+  "sourceDirName": "validator",
+  "slug": "/validator/change-signer-address",
+  "permalink": "/zh-Hant/docs/validator/change-signer-address",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/change-signer-address.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {}
+}

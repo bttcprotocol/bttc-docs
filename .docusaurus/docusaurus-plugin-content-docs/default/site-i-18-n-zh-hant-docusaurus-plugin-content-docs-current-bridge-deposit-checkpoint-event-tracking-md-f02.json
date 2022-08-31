@@ -1,0 +1,26 @@
+{
+  "unversionedId": "bridge/deposit-checkpoint-event-tracking",
+  "id": "bridge/deposit-checkpoint-event-tracking",
+  "title": "存款與檢查點事件跟蹤",
+  "description": "存款事件",
+  "source": "@site/i18n/zh-Hant/docusaurus-plugin-content-docs/current/bridge/deposit-checkpoint-event-tracking.md",
+  "sourceDirName": "bridge",
+  "slug": "/bridge/deposit-checkpoint-event-tracking",
+  "permalink": "/zh-Hant/docs/bridge/deposit-checkpoint-event-tracking",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/bridge/deposit-checkpoint-event-tracking.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "代幣充提",
+    "permalink": "/zh-Hant/docs/bridge/deposit-and-withdraw"
+  },
+  "next": {
+    "title": "狀態轉移",
+    "permalink": "/zh-Hant/docs/bridge/state-transfer"
+  }
+}

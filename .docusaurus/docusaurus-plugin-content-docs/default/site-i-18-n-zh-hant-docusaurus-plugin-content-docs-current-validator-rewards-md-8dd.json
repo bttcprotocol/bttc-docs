@@ -1,0 +1,26 @@
+{
+  "unversionedId": "validator/rewards",
+  "id": "validator/rewards",
+  "title": "獎勵",
+  "description": "驗證人通過質押一定數量的BTT代幣來確保BTTC網絡的安全運行，作為激勵，驗證人也能獲得一定的獎勵。同時為了BTTC網絡的生態發展，任何委托人都可以投票給驗證人並獲取委托獎勵。",
+  "source": "@site/i18n/zh-Hant/docusaurus-plugin-content-docs/current/validator/rewards.md",
+  "sourceDirName": "validator",
+  "slug": "/validator/rewards",
+  "permalink": "/zh-Hant/docs/validator/rewards",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/rewards.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "validatorSidebar",
+  "previous": {
+    "title": "質押",
+    "permalink": "/zh-Hant/docs/validator/staking"
+  },
+  "next": {
+    "title": "Delivery層",
+    "permalink": "/zh-Hant/docs/validator/core-components/delivery-layer"
+  }
+}

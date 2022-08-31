@@ -1,0 +1,26 @@
+{
+  "unversionedId": "delegator/contract",
+  "id": "delegator/contract",
+  "title": "合约",
+  "description": "委托人质押投票相关的操作也可以调用ValidatorShare和StakeManagerProxy合约进行，大多数操作都是调用ValidatorShare合约，只有转移投票是调用StakeManagerProxy合约。",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/delegator/contract.md",
+  "sourceDirName": "delegator",
+  "slug": "/delegator/contract",
+  "permalink": "/zh-Hans/docs/delegator/contract",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/delegator/contract.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "delegator",
+  "previous": {
+    "title": "如何委托投票",
+    "permalink": "/zh-Hans/docs/delegator/how-to-delegate"
+  },
+  "next": {
+    "title": "委托人常见问题",
+    "permalink": "/zh-Hans/docs/delegator/delegate-faq"
+  }
+}

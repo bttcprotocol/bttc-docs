@@ -1,0 +1,26 @@
+{
+  "unversionedId": "basics/bttc-basics/what-is-bttc",
+  "id": "basics/bttc-basics/what-is-bttc",
+  "title": "What is BitTorrent-Chain?",
+  "description": "Bittorrent-Chain (BTTC) is a layer 2 scaling solution, BTTC strives to solve scalability and usability issues without compromising decentralization, and can make full use of the existing Ethereum developer community and ecosystem. BTTC is fully compatible with Ethereum, and existing applications on Ethereum can be easily migrated to this BTTC. In addition to the same experience as Ethereum, users can also enjoy ultra-high throughput and extremely low fees.",
+  "source": "@site/docs/basics/bttc-basics/what-is-bttc.md",
+  "sourceDirName": "basics/bttc-basics",
+  "slug": "/basics/bttc-basics/what-is-bttc",
+  "permalink": "/docs/basics/bttc-basics/what-is-bttc",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/basics/bttc-basics/what-is-bttc.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {},
+  "sidebar": "basics",
+  "previous": {
+    "title": "What is Gas？",
+    "permalink": "/docs/basics/blockchain-basics/basics-gas"
+  },
+  "next": {
+    "title": "What is Proof of Stake?",
+    "permalink": "/docs/basics/bttc-basics/what-is-proof-of-stake"
+  }
+}

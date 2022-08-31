@@ -1,0 +1,26 @@
+{
+  "unversionedId": "basics/bttc-basics/what-is-proof-of-stake",
+  "id": "basics/bttc-basics/what-is-proof-of-stake",
+  "title": "什麽是Proof of Stake?",
+  "description": "權益證明（PoS）是公共區塊鏈的一種共識算法，取決於驗證者在網絡中的持有的代幣股權。",
+  "source": "@site/i18n/zh-Hant/docusaurus-plugin-content-docs/current/basics/bttc-basics/what-is-proof-of-stake.md",
+  "sourceDirName": "basics/bttc-basics",
+  "slug": "/basics/bttc-basics/what-is-proof-of-stake",
+  "permalink": "/zh-Hant/docs/basics/bttc-basics/what-is-proof-of-stake",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/basics/bttc-basics/what-is-proof-of-stake.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "basics",
+  "previous": {
+    "title": "什麽是Bittorrent-Chain?",
+    "permalink": "/zh-Hant/docs/basics/bttc-basics/what-is-bttc"
+  },
+  "next": {
+    "title": "什麽是委托人？",
+    "permalink": "/zh-Hant/docs/basics/bttc-basics/who-is-a-delegator"
+  }
+}

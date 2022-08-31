@@ -1,0 +1,17 @@
+{
+  "unversionedId": "greeting",
+  "id": "greeting",
+  "title": "greeting",
+  "description": "----",
+  "source": "@site/docs/greeting.md",
+  "sourceDirName": ".",
+  "slug": "/greeting",
+  "permalink": "/docs/greeting",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/greeting.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {}
+}

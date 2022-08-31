@@ -1,0 +1,26 @@
+{
+  "unversionedId": "validator/core-components/proposer-producer-selection",
+  "id": "validator/core-components/proposer-producer-selection",
+  "title": "提議者和區塊生產者競選",
+  "description": "Bttc層中區塊生產者是根據他們的質押占比從驗證者集合中每隔一段時間選舉",
+  "source": "@site/i18n/zh-Hant/docusaurus-plugin-content-docs/current/validator/core-components/proposer-producer-selection.md",
+  "sourceDirName": "validator/core-components",
+  "slug": "/validator/core-components/proposer-producer-selection",
+  "permalink": "/zh-Hant/docs/validator/core-components/proposer-producer-selection",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/core-components/proposer-producer-selection.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "validatorSidebar",
+  "previous": {
+    "title": "私鑰管理",
+    "permalink": "/zh-Hant/docs/validator/core-components/key-management"
+  },
+  "next": {
+    "title": "提議者獎勵",
+    "permalink": "/zh-Hant/docs/validator/core-components/proposer-bonus"
+  }
+}

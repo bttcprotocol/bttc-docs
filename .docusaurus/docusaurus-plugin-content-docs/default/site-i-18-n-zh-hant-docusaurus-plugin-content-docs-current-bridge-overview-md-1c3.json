@@ -1,0 +1,26 @@
+{
+  "unversionedId": "bridge/overview",
+  "id": "bridge/overview",
+  "title": "概述",
+  "description": "BTTC引入了一條可靠的，能夠連通TRON與BTTC網絡的跨鏈橋。通過跨鏈橋，用戶可以隨意通過BTTC來轉移自己的代幣到TRON上，並且無需考慮第三方機構帶來的風險以及流動性限制。 BTTC提供了一種極其高效、低成本並且靈活的擴展方案。",
+  "source": "@site/i18n/zh-Hant/docusaurus-plugin-content-docs/current/bridge/overview.md",
+  "sourceDirName": "bridge",
+  "slug": "/bridge/overview",
+  "permalink": "/zh-Hant/docs/bridge/overview",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/bridge/overview.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Delivery和Bttc快照",
+    "permalink": "/zh-Hant/docs/node/snapshot"
+  },
+  "next": {
+    "title": "資產映射",
+    "permalink": "/zh-Hant/docs/bridge/asset-map"
+  }
+}

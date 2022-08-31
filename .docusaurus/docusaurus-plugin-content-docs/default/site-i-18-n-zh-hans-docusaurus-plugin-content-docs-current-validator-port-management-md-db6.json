@@ -1,0 +1,26 @@
+{
+  "unversionedId": "validator/port_management",
+  "id": "validator/port_management",
+  "title": "端口管理",
+  "description": "以下是 Bttc和Delivery节点使用的默认端口列表：",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/validator/port_management.md",
+  "sourceDirName": "validator",
+  "slug": "/validator/port_management",
+  "permalink": "/zh-Hans/docs/validator/port_management",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/port_management.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "validatorSidebar",
+  "previous": {
+    "title": "Delivery和Bttc快照",
+    "permalink": "/zh-Hans/docs/node/snapshot"
+  },
+  "next": {
+    "title": "佣金比例",
+    "permalink": "/zh-Hans/docs/validator/validator-commission-operations"
+  }
+}

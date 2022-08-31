@@ -1,0 +1,26 @@
+{
+  "unversionedId": "validator/core-components/proposer-producer-selection",
+  "id": "validator/core-components/proposer-producer-selection",
+  "title": "Proposers & Producers Selection",
+  "description": "Block Producers for the Bttc layer, are a committee selected from the Validators pool on the basis of their stake which happens at regular intervals. These intervals are decided by the Validator's governance with regards to dynasty and network.",
+  "source": "@site/docs/validator/core-components/proposer-producer-selection.md",
+  "sourceDirName": "validator/core-components",
+  "slug": "/validator/core-components/proposer-producer-selection",
+  "permalink": "/docs/validator/core-components/proposer-producer-selection",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/core-components/proposer-producer-selection.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {},
+  "sidebar": "validatorSidebar",
+  "previous": {
+    "title": "Key Management",
+    "permalink": "/docs/validator/core-components/key-management"
+  },
+  "next": {
+    "title": "Proposer Bonus",
+    "permalink": "/docs/validator/core-components/proposer-bonus"
+  }
+}

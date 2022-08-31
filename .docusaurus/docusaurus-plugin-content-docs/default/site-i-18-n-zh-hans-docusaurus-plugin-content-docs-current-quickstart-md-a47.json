@@ -1,0 +1,22 @@
+{
+  "unversionedId": "quickstart",
+  "id": "quickstart",
+  "title": "快速入门",
+  "description": "BitTorrent Chain（以下简称BTTC）是波场首个异构链跨链互操作扩容协议，采用POS（Proof of Stake）机制，部署多节点验证 ，通过侧链进行智能合约的扩展，兼容Ethereum链架构的智能合约及其他功能，开发者可以在链上轻松完成DAPP迁移或开发。",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/quickstart.md",
+  "sourceDirName": ".",
+  "slug": "/quickstart",
+  "permalink": "/zh-Hans/docs/quickstart",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/quickstart.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "开发一个WEB3应用",
+    "permalink": "/zh-Hans/docs/build-web3-app"
+  }
+}

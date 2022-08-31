@@ -1,0 +1,17 @@
+{
+  "unversionedId": "validator/core-components/staking",
+  "id": "validator/core-components/staking",
+  "title": "Staking",
+  "description": "For BTTC Network, any participant can be qualified to become a BTTC's validator by running a full node to earn rewards and collect transaction fees. To ensure the good participation by validators, they lock up some of their MATIC tokens as a stake in the ecosystem.",
+  "source": "@site/i18n/zh-Hant/docusaurus-plugin-content-docs/current/validator/core-components/staking.md",
+  "sourceDirName": "validator/core-components",
+  "slug": "/validator/core-components/staking",
+  "permalink": "/zh-Hant/docs/validator/core-components/staking",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/core-components/staking.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {}
+}

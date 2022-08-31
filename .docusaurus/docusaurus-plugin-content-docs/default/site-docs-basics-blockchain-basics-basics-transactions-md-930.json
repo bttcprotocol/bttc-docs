@@ -1,0 +1,17 @@
+{
+  "unversionedId": "basics/blockchain-basics/basics-transactions",
+  "id": "basics/blockchain-basics/basics-transactions",
+  "title": "What is a transaction?",
+  "description": "A \"transaction\" refers to a signed packet that contains a message sent from one account to another account on the blockchain. Messages can be divided into two main categories:",
+  "source": "@site/docs/basics/blockchain-basics/basics-transactions.md",
+  "sourceDirName": "basics/blockchain-basics",
+  "slug": "/basics/blockchain-basics/basics-transactions",
+  "permalink": "/docs/basics/blockchain-basics/basics-transactions",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/basics/blockchain-basics/basics-transactions.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {}
+}

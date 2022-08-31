@@ -1,0 +1,26 @@
+{
+  "unversionedId": "validator/responsibilities",
+  "id": "validator/responsibilities",
+  "title": "驗證人職責",
+  "description": "區塊鏈驗證人是負責驗證區塊鏈內交易的人，BTTC網絡中，任何參與者都有資格成為驗證人，驗證人需要運行一個完整的節點，同時也能獲取獎勵和交易費用。",
+  "source": "@site/i18n/zh-Hant/docusaurus-plugin-content-docs/current/validator/responsibilities.md",
+  "sourceDirName": "validator",
+  "slug": "/validator/responsibilities",
+  "permalink": "/zh-Hant/docs/validator/responsibilities",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/responsibilities.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "validatorSidebar",
+  "previous": {
+    "title": "驗證人",
+    "permalink": "/zh-Hant/docs/validator/getting-started"
+  },
+  "next": {
+    "title": "質押",
+    "permalink": "/zh-Hant/docs/validator/staking"
+  }
+}

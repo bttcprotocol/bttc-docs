@@ -1,0 +1,26 @@
+{
+  "unversionedId": "node/snapshot",
+  "id": "node/snapshot",
+  "title": "Delivery和Bttc快照",
+  "description": "當設置一個新的哨兵、驗證器或全節點服務器時，建議你使用快照，以加快同步速度，而不必通過網絡同步。使用快照將為你的Delivery和BTTC節省幾天時間。",
+  "source": "@site/i18n/zh-Hant/docusaurus-plugin-content-docs/current/node/snapshot.md",
+  "sourceDirName": "node",
+  "slug": "/node/snapshot",
+  "permalink": "/zh-Hant/docs/node/snapshot",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/node/snapshot.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "validatorSidebar",
+  "previous": {
+    "title": "驗證人節點部署",
+    "permalink": "/zh-Hant/docs/validator/build-validator-node"
+  },
+  "next": {
+    "title": "端口管理",
+    "permalink": "/zh-Hant/docs/validator/port_management"
+  }
+}

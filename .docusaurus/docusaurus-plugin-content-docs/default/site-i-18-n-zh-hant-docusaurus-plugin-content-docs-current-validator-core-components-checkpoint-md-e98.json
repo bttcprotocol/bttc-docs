@@ -1,0 +1,26 @@
+{
+  "unversionedId": "validator/core-components/checkpoint",
+  "id": "validator/core-components/checkpoint",
+  "title": "檢查點",
+  "description": "BTTC 依賴 TRON主網作為其Layer 1層，所有質押機制都需要與 TRON 主網上的合約同步。",
+  "source": "@site/i18n/zh-Hant/docusaurus-plugin-content-docs/current/validator/core-components/checkpoint.md",
+  "sourceDirName": "validator/core-components",
+  "slug": "/validator/core-components/checkpoint",
+  "permalink": "/zh-Hant/docs/validator/core-components/checkpoint",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/core-components/checkpoint.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "validatorSidebar",
+  "previous": {
+    "title": "Bttc層",
+    "permalink": "/zh-Hant/docs/validator/core-components/bttc-layer"
+  },
+  "next": {
+    "title": "私鑰管理",
+    "permalink": "/zh-Hant/docs/validator/core-components/key-management"
+  }
+}

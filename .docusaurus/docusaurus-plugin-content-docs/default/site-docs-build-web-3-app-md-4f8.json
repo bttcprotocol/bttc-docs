@@ -1,0 +1,26 @@
+{
+  "unversionedId": "build-web3-app",
+  "id": "build-web3-app",
+  "title": "Build a Web3 App On BTTC",
+  "description": "This article is a zero-to-one DApp development tutorial, beginning with the deployment of the simplest Hello World contract, progressing through writing the contract and UI interaction to the complete deployment and online process, and culminating with learning to build a decentralized library to learn how to deploy their own DApp on the BTTC blockchain.",
+  "source": "@site/docs/build-web3-app.md",
+  "sourceDirName": ".",
+  "slug": "/build-web3-app",
+  "permalink": "/docs/build-web3-app",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/build-web3-app.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to BTTC",
+    "permalink": "/docs/quickstart"
+  },
+  "next": {
+    "title": "Wallet",
+    "permalink": "/docs/wallet"
+  }
+}

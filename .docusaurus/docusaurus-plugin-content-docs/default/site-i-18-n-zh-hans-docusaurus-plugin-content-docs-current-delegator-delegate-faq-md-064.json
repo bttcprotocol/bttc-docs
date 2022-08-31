@@ -1,0 +1,22 @@
+{
+  "unversionedId": "delegator/delegate-faq",
+  "id": "delegator/delegate-faq",
+  "title": "委托人常见问题",
+  "description": "委托仪表板的网址是什么？",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/delegator/delegate-faq.md",
+  "sourceDirName": "delegator",
+  "slug": "/delegator/delegate-faq",
+  "permalink": "/zh-Hans/docs/delegator/delegate-faq",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/delegator/delegate-faq.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "delegator",
+  "previous": {
+    "title": "合约",
+    "permalink": "/zh-Hans/docs/delegator/contract"
+  }
+}

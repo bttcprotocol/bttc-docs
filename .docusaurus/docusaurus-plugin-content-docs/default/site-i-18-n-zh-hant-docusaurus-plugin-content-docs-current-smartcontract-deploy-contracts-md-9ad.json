@@ -1,0 +1,26 @@
+{
+  "unversionedId": "smartcontract/deploy-contracts",
+  "id": "smartcontract/deploy-contracts",
+  "title": "使用Remix在BTTC上部署合約",
+  "description": "本文介紹如何使用Remix在BTTC測試網上部署一個簡單的HelloWorld智能合約。",
+  "source": "@site/i18n/zh-Hant/docusaurus-plugin-content-docs/current/smartcontract/deploy-contracts.md",
+  "sourceDirName": "smartcontract",
+  "slug": "/smartcontract/deploy-contracts",
+  "permalink": "/zh-Hant/docs/smartcontract/deploy-contracts",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/smartcontract/deploy-contracts.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "網絡詳情",
+    "permalink": "/zh-Hant/docs/networks/network"
+  },
+  "next": {
+    "title": "創世合約",
+    "permalink": "/zh-Hant/docs/smartcontract/genesis-contracts"
+  }
+}

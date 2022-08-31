@@ -1,0 +1,22 @@
+{
+  "unversionedId": "validator/glossary",
+  "id": "validator/glossary",
+  "title": "詞匯表",
+  "description": "區塊生產者",
+  "source": "@site/i18n/zh-Hant/docusaurus-plugin-content-docs/current/validator/glossary.md",
+  "sourceDirName": "validator",
+  "slug": "/validator/glossary",
+  "permalink": "/zh-Hant/docs/validator/glossary",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/glossary.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "validatorSidebar",
+  "previous": {
+    "title": "傭金比例",
+    "permalink": "/zh-Hant/docs/validator/validator-commission-operations"
+  }
+}

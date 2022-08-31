@@ -1,0 +1,26 @@
+{
+  "unversionedId": "validator/staking",
+  "id": "validator/staking",
+  "title": "Staking",
+  "description": "For BTTC Network, any participant can be qualified to become a BTTC's validator by running a full node to earn rewards and collect transaction fees. To ensure the good participation by validators, they lock up some of their BTTC tokens as a stake in the ecosystem.",
+  "source": "@site/docs/validator/staking.md",
+  "sourceDirName": "validator",
+  "slug": "/validator/staking",
+  "permalink": "/docs/validator/staking",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/staking.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {},
+  "sidebar": "validatorSidebar",
+  "previous": {
+    "title": "Validator Responsibilities",
+    "permalink": "/docs/validator/responsibilities"
+  },
+  "next": {
+    "title": "Reward",
+    "permalink": "/docs/validator/rewards"
+  }
+}

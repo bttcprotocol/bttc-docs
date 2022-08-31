@@ -1,0 +1,26 @@
+{
+  "unversionedId": "bridge/state-transfer",
+  "id": "bridge/state-transfer",
+  "title": "State Transition",
+  "description": "BTTC validators are continuing to monitor the public blockchain's StateSender contract. When a contract registered on the public blockchain makes a call to StateSender, an event is generated. Validators on the BTTC network use this event to relay data to another contract on the BTTC network. This mechanism is known as state synchronization, and it is used to transfer data from the public blockchain to the BTTC blockchain.",
+  "source": "@site/docs/bridge/state-transfer.md",
+  "sourceDirName": "bridge",
+  "slug": "/bridge/state-transfer",
+  "permalink": "/docs/bridge/state-transfer",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/bridge/state-transfer.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deposit and Checkpoint Time Tracking",
+    "permalink": "/docs/bridge/deposit-checkpoint-event-tracking"
+  },
+  "next": {
+    "title": "FAQ",
+    "permalink": "/docs/faq"
+  }
+}

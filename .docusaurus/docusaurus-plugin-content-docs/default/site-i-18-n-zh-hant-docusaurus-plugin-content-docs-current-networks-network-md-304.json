@@ -1,0 +1,26 @@
+{
+  "unversionedId": "networks/network",
+  "id": "networks/network",
+  "title": "網絡詳情",
+  "description": "<Tabs",
+  "source": "@site/i18n/zh-Hant/docusaurus-plugin-content-docs/current/networks/network.md",
+  "sourceDirName": "networks",
+  "slug": "/networks/network",
+  "permalink": "/zh-Hant/docs/networks/network",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/networks/network.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "錢包",
+    "permalink": "/zh-Hant/docs/wallet"
+  },
+  "next": {
+    "title": "使用Remix在BTTC上部署合約",
+    "permalink": "/zh-Hant/docs/smartcontract/deploy-contracts"
+  }
+}

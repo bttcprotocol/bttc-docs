@@ -1,0 +1,26 @@
+{
+  "unversionedId": "wallet",
+  "id": "wallet",
+  "title": "钱包",
+  "description": "钱包用于客户端对您在BTTC上的dApp集成管理，在BTTC生态中，主要会用到两种钱包：",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/wallet.md",
+  "sourceDirName": ".",
+  "slug": "/wallet",
+  "permalink": "/zh-Hans/docs/wallet",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/wallet.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "开发一个WEB3应用",
+    "permalink": "/zh-Hans/docs/build-web3-app"
+  },
+  "next": {
+    "title": "网络详情",
+    "permalink": "/zh-Hans/docs/networks/network"
+  }
+}

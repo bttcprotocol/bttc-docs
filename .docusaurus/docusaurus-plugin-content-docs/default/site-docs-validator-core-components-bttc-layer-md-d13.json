@@ -1,0 +1,26 @@
+{
+  "unversionedId": "validator/core-components/bttc-layer",
+  "id": "validator/core-components/bttc-layer",
+  "title": "Bttc Layer",
+  "description": "The Bttc node or the block producer implementation is the sidechain operator.",
+  "source": "@site/docs/validator/core-components/bttc-layer.md",
+  "sourceDirName": "validator/core-components",
+  "slug": "/validator/core-components/bttc-layer",
+  "permalink": "/docs/validator/core-components/bttc-layer",
+  "draft": false,
+  "editUrl": "https://github.com/bttcprotocol/bttc-docs/tree/master/docs/validator/core-components/bttc-layer.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {},
+  "sidebar": "validatorSidebar",
+  "previous": {
+    "title": "Delivery Layer",
+    "permalink": "/docs/validator/core-components/delivery-layer"
+  },
+  "next": {
+    "title": "Checkpoint Mechanism",
+    "permalink": "/docs/validator/core-components/checkpoint"
+  }
+}
