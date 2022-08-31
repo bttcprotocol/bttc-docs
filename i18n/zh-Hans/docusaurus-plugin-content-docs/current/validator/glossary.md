@@ -36,7 +36,7 @@ Sentry节点对网络上所有其他Sentry节点开放。
 
 ## Delivery
 
-Delivery是TRON/BSC/Ethereum网络的平行链，Delivery链的节点监控部署在TRON/BSC/以太坊主网上的合约集合，也会将BTTC网络的[checkpoints](#checkpoint-transaction)提交给TRON/BSC/Ethereum网络。
+Delivery是TRON/BSC/Ethereum网络的平行链，Delivery链的节点监控部署在TRON/BSC/Ethereum主网上的合约集合，也会将BTTC网络的[checkpoints](#checkpoint-transaction)提交给TRON/BSC/Ethereum网络。
 
 Delivery是基于[Tendermint](https://tendermint.com/)开发。
 

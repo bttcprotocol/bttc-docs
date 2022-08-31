@@ -51,7 +51,7 @@
 您必须确保验证人的Signer地址在TRON/BSC/Ethereum网络上有足够的TRX/BNB/ETH余额。
 
 Signer地址上的TRX/BNB/ETH有如下用途：
-* 向TRON/BSC/Ethereum网提交检查点交易。
+* 向TRON/BSC/Ethereum网络提交检查点交易。
 
 Signer地址TRX/BNB/ETH余额不足，将导致如下结果：
 * 检查点提交延迟。
@@ -60,7 +60,7 @@ Signer地址TRX/BNB/ETH余额不足，将导致如下结果：
 
 ## 委托
 ### 对所有委托人开放
-所有验证者都必须对社区的开放委托。
+所有验证者都必须对社区开放委托。
 
 每个验证者都可以选择设置自己的佣金率，佣金率没有限制。
 

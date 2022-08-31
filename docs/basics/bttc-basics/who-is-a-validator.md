@@ -40,8 +40,8 @@ One can opt out of the system at any time and can withdraw tokens once the unbon
 
 ## Economics
 
-See Rewards.
+See [Rewards](/docs/validator/rewards).
 
 ## Setting up a validator node
 
-See Validate.
+See [Validator Node Deployment](/docs/validator/build-validator-node).

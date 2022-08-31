@@ -2,7 +2,7 @@
 
 Delegators are token holders who cannot, or do not want to run a validator node themselves. Instead, they secure the network by delegating their stake to validator nodes and play a critical role in the system, as they are responsible for choosing validators. They run their delegation transaction on the staking contract on the Ethereum mainnet.
 
-The BTT tokens are bonded with the next checkpoint committed on the TRON/BSC/Ethereum mainnet. Delegators also have an option to opt out of the system whenever they want. Similar to validators, delegators have to wait for the unbonding period, which consists of approximately 9 days, to end before withdrawing their stake.
+The BTT tokens are bonded with the next checkpoint committed on the TRON/BSC/Ethereum mainnet. Delegators also have an option to opt out of the system whenever they want. Similar to validators, delegators have to wait for the unbonding period, which consists of approximately 40 hours, to end before withdrawing their stake.
 
 ## Fees and Rewards
 
