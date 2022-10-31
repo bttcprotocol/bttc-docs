@@ -186,9 +186,9 @@ const config = {
         ],
       },
       algolia: {
-        indexName: "matic_developer",
-        appId: '16JCDEHCCN',
-        apiKey: "757c19b23127e9c6959da7f13b71cfab",
+        indexName: "bttc_developer",
+        appId: '1QBPKMZ7KH',
+        apiKey: "257d6b7627b4435cd2f99fd23e6ab5d6",
         contextualSearch: false,
         algoliaOptions: {},
 
