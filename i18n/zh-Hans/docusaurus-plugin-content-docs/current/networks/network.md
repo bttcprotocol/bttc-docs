@@ -19,15 +19,20 @@ BTTC是TRON/BSC/Ethereum网络一个二层网络， 下面是主网的网络结�
 ![](../../static/img/network-1.png)
 
 
-## BTTC网络
+## BTTC 网络
 
 * 网络名称：BitTorrent Chain Mainnet
 * RPC URL 1：https://rpc.bt.io
 * RPC URL 2: https://bttc.trongrid.io
 * 链ID：`199` 
 * 货币符号：BTT
-* 区块览器1：https://scan.bt.io
-* 区块览器2：https://bttcscan.com
+* 区块览器1：https://bttcscan.com
+* 区块览器2：https://scan.bt.io
+
+### BTTC 主网基础设施提供商
+你还可以使用其他基础设施提供商的RPC服务：
+- [GetBlock](https://getblock.io/nodes/bttc/)
+- [Ankr](https://www.ankr.com/rpc/bttc)
 
 ## ETH 网络
 
