@@ -63,6 +63,11 @@
     "message": "资产映射",
     "description": "The label for the doc item Asset Map in sidebar tutorialSidebar, linking to the doc bridge/asset-map"
   },
+  "sidebar.tutorialSidebar.doc.Relayer": {
+    "message": "Relayer服务",
+    "description": "The label for the doc item Asset Map in sidebar tutorialSidebar, linking to the doc bridge/asset-map"
+  },
+
   "sidebar.tutorialSidebar.doc.Deposit and Withdraw": {
     "message": "存款和提取",
     "description": "The label for the doc item Deposit and Withdraw in sidebar tutorialSidebar, linking to the doc bridge/deposit-and-withdraw"

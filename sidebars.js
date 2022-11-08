@@ -114,6 +114,12 @@ const sidebars = {
       	  id: 'bridge/deposit-and-withdraw',
           label: 'Deposit and Withdraw',
         },
+	{
+          type: 'doc',
+      	  id: 'bridge/relayer',
+          label: 'Relayer',
+        },
+
         {
           type: 'doc',
       	  id: 'bridge/deposit-checkpoint-event-tracking',
