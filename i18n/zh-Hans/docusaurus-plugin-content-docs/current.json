@@ -76,10 +76,6 @@
     "message": "存款与检查点事件跟踪",
     "description": "The label for the doc item Deposit Checkpoint Event Tracking in sidebar tutorialSidebar, linking to the doc bridge/deposit-checkpoint-event-tracking"
   },
-  "sidebar.tutorialSidebar.doc.State Transfer": {
-    "message": "状态转移",
-    "description": "The label for the doc item State Transfer in sidebar tutorialSidebar, linking to the doc bridge/state-transfer"
-  },
   "sidebar.tutorialSidebar.doc.FAQ": {
     "message": "常见问题",
     "description": "The label for the doc item FAQ in sidebar tutorialSidebar, linking to the doc faq"

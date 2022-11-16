@@ -126,6 +126,12 @@ const config = {
 			    target: '_blank',
 			    rel: null,
 			  },
+                          {
+                            href: 'https://forum.bt.io',
+                            label: 'Forum',
+                            target: '_blank',
+                            rel: null,
+                          },
 			  {
 			    href: 'https://twitter.com/BitTorrent',
 			    label: 'Twitter',
@@ -133,7 +139,7 @@ const config = {
 			    rel: null,
 			  },
 			  {
-			    href: 'https://t.me/BitTorrentChain',
+			    href: 'https://t.me/bttccoredev',
 			    label: 'Telegram',
 			    target: '_blank',
 			    rel: null,
@@ -256,12 +262,16 @@ const config = {
 		href: 'https://discord.com/invite/qrxfbgQYGa',
               },
               {
+                label: 'Forum',
+                href: 'https://forum.bt.io',
+              },
+              {
                 label: 'Twitter',
 		href: 'https://twitter.com/BitTorrent',
               },
               {
                 label: 'Telegram',
-		href: 'https://t.me/BitTorrentChain',
+		href: 'https://t.me/bttccoredev',
               },
               {
                 label: 'Meidum',

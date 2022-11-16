@@ -51,6 +51,10 @@
     "message": "Discord",
     "description": "Navbar item with label Discord"
   },
+  "item.label.Forum": {
+    "message": "Forum",
+    "description": "Navbar item with label Forum"
+  },
   "item.label.Twitter": {
     "message": "Twitter",
     "description": "Navbar item with label Twitter"
