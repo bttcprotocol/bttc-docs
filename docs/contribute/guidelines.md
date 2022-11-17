@@ -59,9 +59,9 @@ Please follow the steps shown below to contribute source code and document to BT
 
 1. Fork a new repository from `bttcprotocol/delivery` of BTTC to your own remote code repository.
 2. Update your own remote code repository to the latest by synchronizing with the upstream repository.
-3. Pull a new branch of the `master` branch in your own remote code repository for local development, please refer to [Branch Naming](###Branch-Naming).
+3. Pull a new branch of the `master` branch in your own remote code repository for local development, please refer to [Branch Naming](#branch-naming).
 4. Program on the new local branch with your code.
-5. Commit your new local branch to your own remote code repository when you complete the code work, please refer to [Commits](###Commits).
+5. Commit your new local branch to your own remote code repository when you complete the code work, please refer to [Commit Message Convention](#commit-message-convention).
 6. Submit a pull request (PR) from your own remote repository to the `bttcprotocol/delivery` of BTTC.
 
 ## Review Specification
