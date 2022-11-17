@@ -174,7 +174,7 @@ const config = {
 	  },
           {
              to: "docs/contribute/guidelines",
-             label: "Contribute to the Docs",
+             label: "How to Contribute",
              position: "right",
              //activeBasePath: "docs/contribute",
           },

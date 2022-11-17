@@ -15,9 +15,9 @@
     "message": "安全审计",
     "description": "Navbar item with label Security Audit"
   },
-  "item.label.Contribute to the Docs": {
-    "message": "文档贡献",
-    "description": "Navbar item with label Contribute to the Docs"
+  "item.label.How to Contribute": {
+    "message": "如何贡献",
+    "description": "Navbar item with label How to Contribute"
   },
   "item.label.Wallet": {
     "message": "钱包",
