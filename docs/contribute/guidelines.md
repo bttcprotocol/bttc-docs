@@ -28,11 +28,11 @@ In case you find a problem or bug with BTTC, you can report an issue by followin
 
 * Then please use the template shown below to submit an issue report.
 
-```
-       1. What did you do?
-       2. What did you expect to see?
-       3. What did you see instead?
-```
+  ```
+   1. What did you do?
+   2. What did you expect to see?
+   3. What did you see instead?
+  ```
 
 ## BTTC Contribution
 
