@@ -58,6 +58,26 @@ const sidebars = {
       ],
     },
     {
+      type: "category",
+      label: "Assets",
+      link: {
+        type: "generated-index",
+      },
+      items: [
+        {
+          type: "category",
+          label: "Tokens",
+          link: {
+            type: "generated-index",
+          },
+          items: [
+            "assets/tokens/gastoken-btt",
+            "assets/tokens/mappedtokens",
+          ],
+        },
+      ],
+    },
+    {
       type: 'category',
       label: 'Smart Contract',
       collapsible: true,
@@ -127,6 +147,25 @@ const sidebars = {
         },
       ],
     },
+    {
+      type: 'category',
+      label: 'Storage',
+      collapsible: true,
+      collapsed: true,
+      items: [
+        {
+          type: 'doc',
+          id: 'storage/btfs',
+          label: 'BTFS',
+        },
+        {
+          type: 'doc',
+          id: 'storage/ipfs',
+          label: 'IPFS',
+        },
+      ],
+    },
+
     {
       type: 'doc',
       id: 'faq',
