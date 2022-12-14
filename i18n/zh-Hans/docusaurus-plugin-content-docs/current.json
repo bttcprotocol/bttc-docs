@@ -7,6 +7,14 @@
     "message": "网络",
     "description": "The label for category Network in sidebar tutorialSidebar"
   },
+  "sidebar.tutorialSidebar.category.Assets": {
+    "message": "资产",
+    "description": "The label for category Assets in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tokens": {
+    "message": "代币",
+    "description": "The label for category Tokens in sidebar tutorialSidebar"
+  },
   "sidebar.tutorialSidebar.category.Smart Contract": {
     "message": "智能合约",
     "description": "The label for category Smart Contract in sidebar tutorialSidebar"
@@ -18,6 +26,10 @@
   "sidebar.tutorialSidebar.category.Bridge": {
     "message": "桥",
     "description": "The label for category Bridge in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Storage": {
+    "message": "存储",
+    "description": "The label for category Storage in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.doc.Quick Start": {
     "message": "入门",

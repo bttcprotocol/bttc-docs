@@ -25,5 +25,7 @@ Now the Relayer service charges 120% of the original cross-chain transfer gas fe
 
 Relayer service will charge the current cross-chain tokens, that is, what kind of cross-chain token is transferred and what kind of token is charged, when calculating the service fee, the gas fee and cross-chain service fee will be converted into the same price unit for calculation.
 
+When the users select Fast mode, they can choose to convert a small amount of transferred assets into the corresponding target chain gas fee, so as to meet the scenario where the user needs to pay the gas fee to make a transfer after receiving the cross-chain assets on the target chain. Relayer will bear the additional costs caused by exchange rate fluctuations.
+
 In the future, [bt.io](https://bt.io) will open the Relayer provider application channel, anyone can apply to become a Relayer provider, the Relayer provider will set the service reasonable fees according to its own operating costs and the consumed gas fee between different block chains. Users will choose a Relayer provider based on factors such as the service fee, service stability and user evaluation etc.
 
