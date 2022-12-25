@@ -1,0 +1,4 @@
+# Bttc層 
+
+Bttc層中的區塊生產層負責側鏈的區塊生產，並且Bttc層的虛擬機與EVM完全兼容。Delivery層節點會周期性的驗證Bttc層產生的區塊，包含若幹個區塊的Merkle根的檢查點也會被周期性的提交至TRON/BSC/Ethereu網絡。
+
