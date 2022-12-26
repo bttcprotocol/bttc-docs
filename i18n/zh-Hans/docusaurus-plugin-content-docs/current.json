@@ -35,9 +35,17 @@
     "message": "入门",
     "description": "The label for the doc item Quick Start in sidebar tutorialSidebar, linking to the doc quickstart"
   },
+  "sidebar.tutorialSidebar.category.Tutorial": {
+    "message": "教程",
+    "description": "The label for category Tutorial in sidebar tutorialSidebar"
+  },
   "sidebar.tutorialSidebar.doc.Build a Web3 App On BTTC": {
     "message": "在BTTC上部署一个Web3应用",
     "description": "The label for the doc item Build a Web3 App On BTTC in sidebar tutorialSidebar, linking to the doc build-web3-app"
+  },
+  "sidebar.tutorialSidebar.doc.Quick Migration Guide for Ethereum DApp": {
+    "message": "以太坊DApp快速迁移教程",
+    "description": "The label for the doc item Quick Migration Guide for Ethereum DApp in sidebar tutorialSidebar, linking to the doc quick-migration-guide-for-ethereum-dApp"
   },
   "sidebar.tutorialSidebar.doc.Wallet": {
     "message": "钱包",
