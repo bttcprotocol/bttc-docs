@@ -187,14 +187,14 @@ Fill in the information as per the chart：
 * Symbol: BTT
 * Block Explorer URL: https://testscan.bt.io/
 
-![](img/build_web3_app_rpc_2.png)
+![](../img/build_web3_app_rpc_2.png)
 
 First, in the DEPLOY & RUN TRANSACTIONS section of Remix, select Injected Web3 from the Environment drop-down menu.
 
-![](img/build_web3_app_rpc_3.png)
+![](../img/build_web3_app_rpc_3.png)
 
 Select a compiler version 0.8.0 and higher
-![](img/build_web3_app_rpc_4.png)
+![](../img/build_web3_app_rpc_4.png)
 
 After clicking Deploy, MetaMask will bring up the transaction confirmation window
 <img src={useBaseUrl("img/build_web3_app_rpc_5.png")} width="50%"/>
@@ -308,16 +308,16 @@ Ascertain that Metamask is logged in before running the following command to sta
 npm run dev
 ```
 To view the front-end page, type localhost:3000 into the browser's address bar.
-![](img/build_web3_app_6.png)
+![](../img/build_web3_app_6.png)
 
 To post book rental information, click the "Rent Your Books" button in the upper right corner. The title of the book, a brief description of the book, and the cost of the book for one day are all included in the material.
-![](img/build_web3_app_7.png)
+![](../img/build_web3_app_7.png)
 After you've completed the form, click the "Submit" button. The information will be passed to the library contract's addBook function, which will generate a transaction that triggers the contract. Then, as illustrated below, a Metamask pop-up box will open, requesting confirmation and signature:
-![](img/build_web3_app_8.png)
+![](../img/build_web3_app_8.png)
 
 After successfully connecting the transaction to the chain, the following leasing information will be displayed on the page:
-![](img/build_web3_app_9.png)
+![](../img/build_web3_app_9.png)
 
 Click "View" to view the book's comprehensive details and to select the rental period. To initiate a lease request, click "Lent Now", then the library contract's borrowBook function will be called. Additionally, the leasing transaction must be signed and broadcasted to finish it.
-![](img/build_web3_app_10.png)
+![](../img/build_web3_app_10.png)
 

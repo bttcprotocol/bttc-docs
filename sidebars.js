@@ -24,9 +24,22 @@ const sidebars = {
       label: 'Quick Start',
     },
     {
-      type: 'doc',
-      id: 'build-web3-app',
-      label: 'Build a Web3 App On BTTC',
+        type: 'category',
+        label: 'Tutorial',
+        collapsible: true,
+        collapsed: true,
+        items: [
+          {
+            type: 'doc',
+              id: 'tutorial/build-web3-app',
+            label: 'Build a Web3 App On BTTC',
+          },
+          {
+            type: 'doc',
+              id: 'tutorial/quick-migration-guide-for-ethereum-dApp',
+            label: 'Quick Migration Guide for Ethereum DApp',
+          },
+        ],
     },
     {
       type: 'doc',
