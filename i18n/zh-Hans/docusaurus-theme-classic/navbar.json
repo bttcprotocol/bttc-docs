@@ -19,6 +19,30 @@
     "message": "如何贡献",
     "description": "Navbar item with label How to Contribute"
   },
+  "item.label.FAQ": {
+    "message": "常见问题",
+    "description": "Navbar item with label FAQ"
+  },
+  "item.label.General FAQ": {
+    "message": "一般常见问题",
+    "description": "Navbar item with label General FAQ"
+  },
+  "item.label.Technical FAQ": {
+    "message": "技术常见问题",
+    "description": "Navbar item with label Technical FAQ"
+  },
+  "item.label.Delegator FAQ": {
+    "message": "委托常见问题",
+    "description": "Navbar item with label Delegator FAQ"
+  },
+  "item.label.Validator FAQ": {
+    "message": "验证人常见问题",
+    "description": "Navbar item with label Validator FAQ"
+  },
+  "item.label.Staking FAQ": {
+    "message": "质押常见问题",
+    "description": "Navbar item with label Staking FAQ"
+  },
   "item.label.Wallet": {
     "message": "钱包",
     "description": "Navbar item with label Wallet"
