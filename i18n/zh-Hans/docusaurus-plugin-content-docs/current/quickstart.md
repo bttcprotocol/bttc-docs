@@ -29,7 +29,7 @@ const web3 = new Web3('https://rpc.bt.io')
 
 ### 在BTTC上开发一个新的dApp
 如果开发者没有构建去中心化应用程序（dApps）的经验，下面是一些资源链接，可以让开发者对构建、调试和部署去中心化应用程序（dApps）到BTTC网络所需的工具有大概了解。
-* [Demo: Build a dApp on BTTC](/docs/build-web3-app)
+* [Demo: Build a dApp on BTTC](/docs/tutorial/build-web3-app)
 * [Web3.js](https://web3js.readthedocs.io/en/v1.7.4/)
 * [Ethers.js](https://docs.ethers.io/v5/)
 * [Remix](https://remix.ethereum.org/)

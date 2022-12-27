@@ -30,7 +30,7 @@ const web3 = new Web3('https://rpc.bt.io')
 
 ### Building a new dApp on BTTC?
 If developers are not experienced in building decentralised applications (dApps), here are some links to resources that will give developers a general idea of the tools needed to build, debug and deploy decentralised applications (dApps) to the BTTC network.
-* [Demo: Build a dApp on BTTC](/docs/build-web3-app)
+* [Demo: Build a dApp on BTTC](/docs/tutorial/build-web3-app)
 * [Web3.js](https://web3js.readthedocs.io/en/v1.7.4/)
 * [Ethers.js](https://docs.ethers.io/v5/)
 * [Remix](https://remix.ethereum.org/)
