@@ -124,7 +124,28 @@
     "message": "质押常见问题",
     "description": "The label for the doc item Staking FAQ in sidebar tutorialSidebar, linking to the doc staking-faq"
   },
-  "sidebar.validatorSidebar.doc.Overview": {
+  "sidebar.faqSidebar.doc.General FAQ": {
+    "message": "一般常见问题",
+    "description": "The label for the doc item General FAQ in sidebar faqSidebar, linking to the doc general-faq"
+  },
+  "sidebar.faqSidebar.doc.Technical FAQ": {
+    "message": "技术常见问题",
+    "description": "The label for the doc item Technical FAQ in sidebar faqSidebar, linking to the doc technical-faq"
+  },
+  "sidebar.faqSidebar.doc.Delegator FAQ": {
+    "message": "委托人常见问题",
+    "description": "The label for the doc item Delegator FAQ in sidebar faqSidebar, linking to the doc delegate-faq"
+  },
+  "sidebar.faqSidebar.doc.Validator FAQ": {
+    "message": "验证人常见问题",
+    "description": "The label for the doc item Validator FAQ in sidebar faqSidebar, linking to the doc validator-faq"
+  },
+  "sidebar.faqSidebar.doc.Staking FAQ": { 
+    "message": "质押常见问题",
+    "description": "The label for the doc item Staking FAQ in sidebar faqSidebar, linking to the doc staking-faq"
+  },
+
+  "sidebar.validatorSidebar.doc.Validate": {
     "message": "概述",
     "description": "The label for the doc item Overview in sidebar validatorSidebar, linking to the doc validator/overview"
   },

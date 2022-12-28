@@ -10,7 +10,7 @@ You can navigate to "My Stake", choose more actions on the right side of a stake
 
 ### 3. Why am I not able to stake?
 
-Check if you have funds on the Main Tron network to delegate your tokens. All staking happens on the Tron network only.
+Check if you have funds on the Main TRON network to delegate your tokens. All staking happens on the TRON network only.
 
 ### 4. How do I know which validator to select for better rewards?
 
