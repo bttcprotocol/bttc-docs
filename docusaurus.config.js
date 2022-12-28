@@ -172,12 +172,51 @@ const config = {
 
 		  ],
 	  },
-          {
+
+	  {
+                  label: "FAQ",
+                  position: "right",
+                  items: [
+                          {
+                            to: 'docs/faq/general-faq',
+                            label: 'General FAQ',
+                            target: '_blank',
+                            rel: null,
+                          },
+                          {
+                            to: 'docs/faq/technical-faq',
+                            label: 'Technical FAQ',
+                            target: '_blank',
+                            rel: null,
+                          },
+			  {
+                            to: 'docs/faq/delegate-faq',
+                            label: 'Delegator FAQ',
+                            target: '_blank',
+                            rel: null,
+                          },
+			  {
+                            to: 'docs/faq/validator-faq',
+                            label: 'Validator FAQ',
+                            target: '_blank',
+                            rel: null,
+                          },
+			  {
+                            to: 'docs/faq/staking-faq',
+                            label: 'Staking FAQ',
+                            target: '_blank',
+                            rel: null,
+                          },
+
+                  ],
+          },
+	  {
              to: "docs/contribute/guidelines",
              label: "How to Contribute",
              position: "right",
              //activeBasePath: "docs/contribute",
           },
+	  
 	  {
 	     href: "https://github.com/bttcprotocol",
 	     position: "right",

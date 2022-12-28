@@ -15,6 +15,10 @@
     "message": "代币",
     "description": "The label for category Tokens in sidebar tutorialSidebar"
   },
+  "sidebar.tutorialSidebar.category.NFTs": {
+    "message": "非同质化代币",
+    "description": "The label for category NFTs in sidebar tutorialSidebar"
+  },
   "sidebar.tutorialSidebar.category.Smart Contract": {
     "message": "智能合约",
     "description": "The label for category Smart Contract in sidebar tutorialSidebar"
@@ -96,11 +100,52 @@
     "message": "存款与检查点事件跟踪",
     "description": "The label for the doc item Deposit Checkpoint Event Tracking in sidebar tutorialSidebar, linking to the doc bridge/deposit-checkpoint-event-tracking"
   },
-  "sidebar.tutorialSidebar.doc.FAQ": {
+  "sidebar.tutorialSidebar.category.FAQ": {
     "message": "常见问题",
-    "description": "The label for the doc item FAQ in sidebar tutorialSidebar, linking to the doc faq"
+    "description": "The label for category FAQ in sidebar tutorialSidebar"
   },
-  "sidebar.validatorSidebar.doc.Overview": {
+  "sidebar.tutorialSidebar.doc.General FAQ": {
+    "message": "一般常见问题",
+    "description": "The label for the doc item General FAQ in sidebar tutorialSidebar, linking to the doc general-faq"
+  },
+  "sidebar.tutorialSidebar.doc.Technical FAQ": {
+    "message": "技术常见问题",
+    "description": "The label for the doc item Technical FAQ in sidebar tutorialSidebar, linking to the doc technical-faq"
+  },
+  "sidebar.tutorialSidebar.doc.Delegator FAQ": {
+    "message": "委托人常见问题",
+    "description": "The label for the doc item Delegator FAQ in sidebar tutorialSidebar, linking to the doc delegate-faq"
+  },
+  "sidebar.tutorialSidebar.doc.Validator FAQ": {
+    "message": "验证人常见问题",
+    "description": "The label for the doc item Validator FAQ in sidebar tutorialSidebar, linking to the doc validator-faq"
+  },
+  "sidebar.tutorialSidebar.doc.Staking FAQ": {
+    "message": "质押常见问题",
+    "description": "The label for the doc item Staking FAQ in sidebar tutorialSidebar, linking to the doc staking-faq"
+  },
+  "sidebar.faqSidebar.doc.General FAQ": {
+    "message": "一般常见问题",
+    "description": "The label for the doc item General FAQ in sidebar faqSidebar, linking to the doc general-faq"
+  },
+  "sidebar.faqSidebar.doc.Technical FAQ": {
+    "message": "技术常见问题",
+    "description": "The label for the doc item Technical FAQ in sidebar faqSidebar, linking to the doc technical-faq"
+  },
+  "sidebar.faqSidebar.doc.Delegator FAQ": {
+    "message": "委托人常见问题",
+    "description": "The label for the doc item Delegator FAQ in sidebar faqSidebar, linking to the doc delegate-faq"
+  },
+  "sidebar.faqSidebar.doc.Validator FAQ": {
+    "message": "验证人常见问题",
+    "description": "The label for the doc item Validator FAQ in sidebar faqSidebar, linking to the doc validator-faq"
+  },
+  "sidebar.faqSidebar.doc.Staking FAQ": { 
+    "message": "质押常见问题",
+    "description": "The label for the doc item Staking FAQ in sidebar faqSidebar, linking to the doc staking-faq"
+  },
+
+  "sidebar.validatorSidebar.doc.Validate": {
     "message": "概述",
     "description": "The label for the doc item Overview in sidebar validatorSidebar, linking to the doc validator/overview"
   },
