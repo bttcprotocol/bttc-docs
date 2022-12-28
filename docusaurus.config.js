@@ -172,12 +172,7 @@ const config = {
 
 		  ],
 	  },
-          {
-             to: "docs/contribute/guidelines",
-             label: "How to Contribute",
-             position: "right",
-             //activeBasePath: "docs/contribute",
-          },
+
 	  {
                   label: "FAQ",
                   position: "right",
@@ -195,7 +190,7 @@ const config = {
                             rel: null,
                           },
 			  {
-                            to: 'docs/faq/delegator-faq',
+                            to: 'docs/faq/delegate-faq',
                             label: 'Delegator FAQ',
                             target: '_blank',
                             rel: null,
@@ -215,7 +210,13 @@ const config = {
 
                   ],
           },
-
+	  {
+             to: "docs/contribute/guidelines",
+             label: "How to Contribute",
+             position: "right",
+             //activeBasePath: "docs/contribute",
+          },
+	  
 	  {
 	     href: "https://github.com/bttcprotocol",
 	     position: "right",

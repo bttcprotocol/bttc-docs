@@ -113,8 +113,8 @@
     "description": "The label for the doc item Technical FAQ in sidebar tutorialSidebar, linking to the doc technical-faq"
   },
   "sidebar.tutorialSidebar.doc.Delegator FAQ": {
-    "message": "委托常见问题",
-    "description": "The label for the doc item Delegator FAQ in sidebar tutorialSidebar, linking to the doc delegator-faq"
+    "message": "委托人常见问题",
+    "description": "The label for the doc item Delegator FAQ in sidebar tutorialSidebar, linking to the doc delegate-faq"
   },
   "sidebar.tutorialSidebar.doc.Validator FAQ": {
     "message": "验证人常见问题",

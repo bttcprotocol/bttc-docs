@@ -204,21 +204,6 @@ const sidebars = {
           id: 'FAQ/technical-faq',
           label: 'Technical FAQ',
         },
-	{
-          type: 'doc',
-          id: 'FAQ/delegator-faq',
-          label: 'Delegator FAQ',
-        },
-	{
-          type: 'doc',
-          id: 'FAQ/validator-faq',
-          label: 'Validator FAQ',
-        },
-	{
-          type: 'doc',
-          id: 'FAQ/staking-faq',
-          label: 'Staking FAQ',
-        },
       ],
     },    
 
@@ -335,7 +320,26 @@ const sidebars = {
       type: 'doc',
       id: 'validator/glossary',
       label: 'Glossary',
-    }
+    },
+    {
+      type: 'category',
+      label: 'FAQ',
+      collapsible: true,
+      collapsed: true,
+      items: [
+        { 
+          type: 'doc',
+          id: 'FAQ/validator-faq',
+          label: 'Validator FAQ',
+        },
+        { 
+          type: 'doc',
+          id: 'FAQ/staking-faq',
+          label: 'Staking FAQ',
+        },
+      ],
+    },    
+
  ],
   delegator: [
     {
@@ -350,11 +354,41 @@ const sidebars = {
     },
     {
       type: 'doc',
-      id: 'delegator/delegate-faq',
+      id: 'FAQ/delegate-faq',
       label: 'Delegator FAQ',
     },
 
  ],
+
+  faqSidebar: [
+        {
+          type: 'doc',
+          id: 'FAQ/general-faq',
+          label: 'General FAQ',
+        },
+        {
+          type: 'doc',
+          id: 'FAQ/technical-faq',
+          label: 'Technical FAQ',
+        },
+        {
+          type: 'doc',
+          id: 'FAQ/delegate-faq',
+          label: 'Delegator FAQ',
+        },
+        {
+          type: 'doc',
+          id: 'FAQ/validator-faq',
+          label: 'Validator FAQ',
+        },
+        {
+          type: 'doc',
+          id: 'FAQ/staking-faq',
+          label: 'Staking FAQ',
+        },
+ ],
+
+
  governanceSidebar: [
     {
       type: 'doc',
