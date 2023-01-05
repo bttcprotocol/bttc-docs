@@ -31,6 +31,10 @@
     "message": "桥",
     "description": "The label for category Bridge in sidebar tutorialSidebar"
   },
+  "sidebar.tutorialSidebar.category.Oracles": {
+    "message": "预言机",
+    "description": "The label for category Oracles in sidebar tutorialSidebar"
+  },
   "sidebar.tutorialSidebar.category.Storage": {
     "message": "存储",
     "description": "The label for category Storage in sidebar tutorialSidebar"
@@ -83,9 +87,9 @@
     "message": "概述",
     "description": "The label for the doc item Overview in sidebar tutorialSidebar, linking to the doc bridge/overview"
   },
-  "sidebar.tutorialSidebar.doc.Asset Map": {
+  "sidebar.tutorialSidebar.doc.Assets Mapping": {
     "message": "资产映射",
-    "description": "The label for the doc item Asset Map in sidebar tutorialSidebar, linking to the doc bridge/asset-map"
+    "description": "The label for the doc item Assets Mapping in sidebar tutorialSidebar, linking to the doc bridge/asset-map"
   },
   "sidebar.tutorialSidebar.doc.Relayer": {
     "message": "Relayer服务",
@@ -99,6 +103,10 @@
   "sidebar.tutorialSidebar.doc.Deposit Checkpoint Event Tracking": {
     "message": "存款与检查点事件跟踪",
     "description": "The label for the doc item Deposit Checkpoint Event Tracking in sidebar tutorialSidebar, linking to the doc bridge/deposit-checkpoint-event-tracking"
+  },
+    "sidebar.tutorialSidebar.doc.Getting Started": {
+    "message": "开始入门",
+    "description": "The label for the doc item Getting Started  in sidebar tutorialSidebar, linking to the doc oracles/getting-started"
   },
   "sidebar.tutorialSidebar.category.FAQ": {
     "message": "常见问题",
