@@ -149,8 +149,8 @@ const sidebars = {
         },
         {
           type: 'doc',
-      	  id: 'bridge/asset-map',
-          label: 'Asset Map',
+      	  id: 'bridge/assets-mapping',
+          label: 'Assets Mapping',
         },
         {
           type: 'doc',
@@ -167,6 +167,19 @@ const sidebars = {
           type: 'doc',
       	  id: 'bridge/deposit-checkpoint-event-tracking',
           label: 'Deposit Checkpoint Event Tracking',
+        },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Oracles',
+      collapsible: true,
+      collapsed: true,
+      items: [
+        {
+          type: 'doc',
+          id: 'oracles/getting-started',
+          label: 'Getting Started',
         },
       ],
     },
