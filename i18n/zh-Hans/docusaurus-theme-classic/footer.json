@@ -13,7 +13,7 @@
   },
   "link.item.label.Wallet": {
     "message": "钱包",
-    "description": "The label of footer link with label=Wallet linking to https://bt.io/wallet/?language=EN"
+    "description": "The label of footer link with label=Wallet linking to https://bt.io/wallet?language=EN"
   },
   "link.item.label.Bridge": {
     "message": "桥",
@@ -37,7 +37,7 @@
   },
   "link.item.label.BTT Redenomination": {
     "message": "拆分计划",
-    "description": "The label of footer link with label=BTT Redenomination linking to https://bt.io/swap/?language=EN"
+    "description": "The label of footer link with label=BTT Redenomination linking to https://bt.io/swap?language=EN"
   },
   "link.item.label.Github": {
     "message": "Github",

@@ -72,7 +72,7 @@ const config = {
             position: "right",
             items: [
                   {
-                    href: 'https://bt.io/wallet/?language=EN',
+                    href: 'https://bt.io/wallet?language=EN',
                     label: 'Wallet',
                     target: '_blank',
                     rel: null,
@@ -108,7 +108,7 @@ const config = {
                     rel: null,
                   },
 		  {
-                    href: 'https://bt.io/swap/?language=EN',
+                    href: 'https://bt.io/swap?language=EN',
                     label: 'BTT Redenomination',
                     target: '_blank',
                     rel: null,
@@ -246,7 +246,7 @@ const config = {
             items: [
               {
                 label: 'Wallet',
-                to: 'https://bt.io/wallet/?language=EN',
+                to: 'https://bt.io/wallet?language=EN',
               },
 	      {
                 label: 'Bridge',
@@ -270,7 +270,7 @@ const config = {
               },
                {
                 label: 'BTT Redenomination',
-     		to: 'https://bt.io/swap/?language=EN',
+     		to: 'https://bt.io/swap?language=EN',
               },
 
 
