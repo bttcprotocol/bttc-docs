@@ -209,12 +209,12 @@ const sidebars = {
       items: [
         {
           type: 'doc',
-          id: 'FAQ/general-faq',
+          id: 'faq/general-faq',
           label: 'General FAQ',
         },
         {
           type: 'doc',
-          id: 'FAQ/technical-faq',
+          id: 'faq/technical-faq',
           label: 'Technical FAQ',
         },
       ],
@@ -342,12 +342,12 @@ const sidebars = {
       items: [
         { 
           type: 'doc',
-          id: 'FAQ/validator-faq',
+          id: 'faq/validator-faq',
           label: 'Validator FAQ',
         },
         { 
           type: 'doc',
-          id: 'FAQ/staking-faq',
+          id: 'faq/staking-faq',
           label: 'Staking FAQ',
         },
       ],
@@ -367,7 +367,7 @@ const sidebars = {
     },
     {
       type: 'doc',
-      id: 'FAQ/delegate-faq',
+      id: 'faq/delegate-faq',
       label: 'Delegator FAQ',
     },
 
@@ -376,27 +376,27 @@ const sidebars = {
   faqSidebar: [
         {
           type: 'doc',
-          id: 'FAQ/general-faq',
+          id: 'faq/general-faq',
           label: 'General FAQ',
         },
         {
           type: 'doc',
-          id: 'FAQ/technical-faq',
+          id: 'faq/technical-faq',
           label: 'Technical FAQ',
         },
         {
           type: 'doc',
-          id: 'FAQ/delegate-faq',
+          id: 'faq/delegate-faq',
           label: 'Delegator FAQ',
         },
         {
           type: 'doc',
-          id: 'FAQ/validator-faq',
+          id: 'faq/validator-faq',
           label: 'Validator FAQ',
         },
         {
           type: 'doc',
-          id: 'FAQ/staking-faq',
+          id: 'faq/staking-faq',
           label: 'Staking FAQ',
         },
  ],
