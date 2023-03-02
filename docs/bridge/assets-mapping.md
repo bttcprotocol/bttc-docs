@@ -129,4 +129,4 @@ This role can be granted by calling `grantRole` method in the contract on public
 
 #### 3. Submit Mapping Request
 
-In the end, please verify the child token contract on Bttcscan, and token contract on Tronscan/Ethscan/Bscscan respectivily, and submit mapping request [here](https://docs.google.com/forms/d/e/1FAIpQLScsdmIx3Ux_5P8T1ffmoPWipn7XD46GZEz-xbjwGdBrCGoCZg/viewform).
+In the end, please verify the child token contract on Bttcscan, and token contract on Tronscan/Ethscan/Bscscan respectivily, and submit mapping request [here](https://docs.google.com/forms/d/e/1FAIpQLScP1R7iB6s16CNKAZGjFH8mwDBi74wH_swzZvz3FGmjgUG33w/viewform).
