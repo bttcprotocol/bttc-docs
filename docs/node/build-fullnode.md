@@ -175,10 +175,10 @@ Change to the `node` directory:
 cd ~/node/delivery
 ```
 
-Run the setup script:
+Run the init command:
 
 ```sh
-bash setup.sh
+deliveryd init --chain=mainnet 
 ```
 
 ##### Set up Bttc
@@ -300,13 +300,13 @@ cd ~/node/delivery
 Start the Delivery service:
 
 ```sh
-bash delivery-start.sh
+deliveryd start --chain=mainnet
 ```
 
 Start the Delivery rest-server:
 
 ```sh
-bash delivery-server-start.sh 
+deliveryd --chain=mainnet rest-server
 ```
 
 > Note：

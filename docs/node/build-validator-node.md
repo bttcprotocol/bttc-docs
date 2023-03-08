@@ -168,11 +168,11 @@ Run this section on the Sentinel node and the Verifier node respectively.
 
 **1.Set up Delivery**
 
-Switch to the `delivery` directory and run the setup script::
+Switch to the `delivery` directory and run the init command:
 
 ```
 cd ~/node/delivery
-bash setup.sh
+deliveryd init --chain=mainnet 
 ```
 
 **2.Set up Bttc**
@@ -286,13 +286,13 @@ Change to the `~/node/delivery` directory:
 
 ```
 cd ~/node/delivery
-bash delivery-start.sh
+deliveryd start --chain=mainnet
 ```
 
 Start the Delivery rest-server:
 
 ```
-bash delivery-server-start.sh 
+deliveryd --chain=mainnet rest-server
 ```
 
 > Note：
@@ -499,7 +499,7 @@ bash delivery-server-start.sh
 Start the Delivery bridge:
 
 ```sh
-bash delivery-bridge-start.sh 
+deliveryd --chain=mainnet bridge start
 ```
 
 Check the sync status of Delivery:
