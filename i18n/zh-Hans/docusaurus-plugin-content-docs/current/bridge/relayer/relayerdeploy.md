@@ -16,7 +16,7 @@
             * [3.3.1 获取 relayer 节点程序](#331-获取-relayer-节点程序)
             * [3.3.2 节点配置](#332-节点配置)
             * [3.3.3 启动relayer服务](#333-启动relayer服务)
-    * [4 服务可正常接单参考标准](#4-服务可正常接单参考标准)
+            * [3.3.4 服务可正常接单参考标准](#334-服务可正常接单参考标准)
 
 ## 1 Relayer 介绍
 
@@ -63,6 +63,11 @@ relayer 节点部署依赖以下环境：
   ![](../../../static/img/relayerdeploy-cn-3.png)
 
 ## 3 部署流程
+
+relayer 节点代码位于github上，已开源，位于 `https://github.com/bttcprotocol/bttc-relayer` ，可通过如下命令下载：
+```sh
+git clone git@github.com:bttcprotocol/bttc-relayer.git
+```
 
 ### 3.1 数据库准备
 
@@ -186,7 +191,7 @@ xxl-job 服务部署流程可参照官网文档：
 
 3.以 updateBlockNumber 任务为例，设置如下：
 
-![](../../../static/img/relayerdeploy-cn-7.png)
+![](../../../static/img/relayerdeploy-cn-7-2.png)
 
 #### 3.2.4 启动 Job
 
@@ -365,7 +370,7 @@ tail -f logs/warn.log
 tail -f logs/error.log
 ```
 
-## 4 服务可正常接单参考标准
+#### 3.3.4 服务可正常接单参考标准
 
 上述服务搭建完成，并正常启动后，如果满足以下两个条件，则说明服务已经可以正常接单。
 
@@ -395,6 +400,6 @@ tail -f logs/error.log
 | BttcWithdrawAdd  |  侧链取款补充同步任务已同步块号 | 与BlockNumber值相差800块以内  |
 
 注：
-`max_unconfirm_block`列为任务解析的固化块号。
+`max_confirm_block`列为任务解析的固化块号。
 `max_unconfirm_block`列为任务解析的非固化块号，只有`BlockNumber`和`MainChainCheckpoint`两个定时任务会解析非固化块，
 因此对于`max_unconfirm_block`列，只有`contract_address`为`BlockNumber`和`MainChainCheckpoint`的数据值不为0。
