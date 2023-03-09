@@ -158,11 +158,20 @@ const sidebars = {
           label: 'Deposit and Withdraw',
         },
 	{
-          type: 'doc',
-      	  id: 'bridge/relayer',
-          label: 'Relayer',
+          type: 'category',
+          label: "Relayer",
+          link: {
+            type: "generated-index",
+          },
+          items: [
+            "bridge/relayer/relayer",
+            "bridge/relayer/relayerdeploy",
+            "bridge/relayer/relayerdeposit",
+            "bridge/relayer/relayerreservegasfee",
+            "bridge/relayer/relayermodifyinfo",
+            "bridge/relayer/relayerwithdraw",
+          ],
         },
-
         {
           type: 'doc',
       	  id: 'bridge/deposit-checkpoint-event-tracking',
