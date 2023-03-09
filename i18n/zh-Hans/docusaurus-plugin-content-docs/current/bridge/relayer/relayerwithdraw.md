@@ -29,7 +29,7 @@ function timeInterval() view returns (uint)
 ```
 RETURN: 解锁需要等待的最长时长，超过此时长后，即可提取保证金
 
-### 解质押
+### 解除质押
 ```solidity
 function unstake() external
 ```

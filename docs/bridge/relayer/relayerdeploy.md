@@ -16,7 +16,7 @@
       * [3.3.1 download relayer node code](#331-download-relayer-node-code)
       * [3.3.2 node configuration](#332-node-configuration)
       * [3.3.3 start relayer node](#333-start-relayer-node)
-  * [4 The reference criteria for judging whether the service can accept orders normally](#4-the-reference-criteria-for-judging-whether-the-service-can-accept-orders-normally)
+      * [3.3.4 The reference criteria for judging whether the service can accept orders normally](#334-the-reference-criteria-for-judging-whether-the-service-can-accept-orders-normally)
 
 ## 1 Relayer introduction
 
@@ -60,6 +60,12 @@ relayer node deployment relies on the following environment:
       ![](../../../static/img/relayerdeploy-en-3.png)
 
 ## 3 deploy
+
+The code of relayer node is located on https://github.com/bttcprotocol/bttc-relayer
+Developers can download from github as follows:
+```sh
+git clone git@github.com:bttcprotocol/bttc-relayer.git
+```
 
 ### 3.1 database
 
@@ -175,7 +181,7 @@ Refer to chapter `2.5 Start first job “Hello World”` of the xxl-job official
 - `调度类型`: CRON
 - Other key configurations are different for each task. See the following table for details:
 
-|任务描述 | Cron | JobHandler | 
+|Task Description | Cron | JobHandler | 
 | :------:| :------: | :------: |
 | updateBlockNumber  | 0/3 * * * * ? | updateBlockNumber |
 | bttcWithdraw synchronization| 0/6 * * * * ? | bttcWithdraw |
@@ -194,7 +200,7 @@ Refer to chapter `2.5 Start first job “Hello World”` of the xxl-job official
 
 Take `updateBlockNumber` job as example:
 
-![](../../../static/img/relayerdeploy-en-7.png)
+![](../../../static/img/relayerdeploy-en-7-2.png)
 
 #### 3.2.4 start job
 
@@ -226,7 +232,7 @@ and add the relayer node server `ip: callback port` as shown below:
 
 #### 3.3.1 download relayer node code
 
-the node code is lacated on https://github.com/bttcprotocol/bttc-relayer
+The code of relayer node is located on https://github.com/bttcprotocol/bttc-relayer
 Developers can download from github as follows:
 ```sh
 git clone git@github.com:bttcprotocol/bttc-relayer.git
@@ -394,7 +400,7 @@ view error log:
 ```sh
 tail -f logs/error.log
 ```
-## 4 The reference criteria for judging whether the service can accept orders normally
+#### 3.3.4 The reference criteria for judging whether the service can accept orders normally
 
 After all the above service is built and started normally.
 if the following two conditions are met, it means that the service can accept orders normally.
@@ -424,20 +430,17 @@ If the following standards are not met, you need to wait for the relayer node se
 | contract_address |             Task meaning |        the reference standard of Task synchronization normal        |
 |:-----------------:|:-----------------:|:----------------------:|
 | BlockNumber      | The latest solidified/non-solidified block number of the main chain | he time difference between this block number and the latest block number on the chain is within 2 minutes |
-| BttcWithdraw     |    Synchronized block number of BttcWithdraw parsing task | 与BlockNumber值相差500块以内  |
-| BttcWithdrawAdd  |  Synchronized block number of BttcWithdraw parsing task | 与BlockNumber值相差800块以内  |
+| BttcWithdraw     |    Synchronized block number of BttcWithdraw parsing task | > BlockNumber - 500  |
+| BttcWithdrawAdd  |  Synchronized block number of BttcWithdraw parsing task | > BlockNumber - 800  |
 
 note:
-`max_unconfirm_block`column: the confirmed block number resolved for the task;
+`max_confirm_block`column: the confirmed block number resolved for the task;
 `max_unconfirm_block` column: the unconfirmed block number resolved for the task,
 only `BlockNumber` and `MainChainCheckpoint` two scheduled tasks will parse unconfirmed blocks,
 Therefore, for the `max_unconfirm_block` column, only the data  of `contract_address` is `BlockNumber` and `MainChainCheckpoint` is not 0.
 
-only `BlockNumber` and `MainChainCheckpoint` two scheduled tasks will parse non-fixed blocks,
-Therefore, for the `max_unconfirm_block` column, only the  value of `BlockNumber` and `MainChainCheckpoint` is not 0.
 
        
         
    
-
 
