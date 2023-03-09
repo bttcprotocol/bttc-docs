@@ -91,9 +91,9 @@
     "message": "资产映射",
     "description": "The label for the doc item Assets Mapping in sidebar tutorialSidebar, linking to the doc bridge/asset-map"
   },
-  "sidebar.tutorialSidebar.doc.Relayer": {
+  "sidebar.tutorialSidebar.category.Relayer": {
     "message": "Relayer服务",
-    "description": "The label for the doc item Asset Map in sidebar tutorialSidebar, linking to the doc bridge/asset-map"
+    "description": "The label for the category item Relayer in sidebar tutorialSidebar, linking to the category bridge/relayer"
   },
 
   "sidebar.tutorialSidebar.doc.Deposit and Withdraw": {
