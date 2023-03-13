@@ -35,7 +35,7 @@ If a Relayer no longer participates in the BTTC network, application to quit can
 
 The service fee paid by users for the Relayer service will all be sent to the Relayer account as a reward in real time by smart contract. 
 
-Now the Relayer service charges 120% of the original cross-chain transfer gas fee, the Relayer service deducts part of users' cross-chain assets as service fee, the actual deduction amount is calculated as follows:
+The Relayer can customize the service fee, the recommended service fee is 120% of the transaction gas fee, the calculation is as follows: 
 
 ```
  (cross-chain gas fee / cross-chain token unit price) * 120% 
