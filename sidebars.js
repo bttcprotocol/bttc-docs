@@ -166,6 +166,7 @@ const sidebars = {
           items: [
             "bridge/relayer/relayer",
             "bridge/relayer/relayerdeploy",
+            "bridge/relayer/relayerguide",
             "bridge/relayer/relayerdeposit",
             "bridge/relayer/relayerreservegasfee",
             "bridge/relayer/relayermodifyinfo",
