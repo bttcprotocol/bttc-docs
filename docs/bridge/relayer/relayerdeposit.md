@@ -1,4 +1,4 @@
-# Relayer Pledge by BTT
+# Use BTT as Relayer Pledge
 Relayers are of great importance on BTTC, especially for cross-chain transfers and asset liquidity. Therefore, pledge plays an indispensable role in ensuring that Relayers perform their duties in accordance with the terms.
 
 
