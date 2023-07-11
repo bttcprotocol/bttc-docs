@@ -24,6 +24,7 @@ BTTC is a layer-2 network of TRON/BSC/Ethereum network. The following is the net
 * Symbol: BTT
 * Block Explorer 1: https://bttcscan.com
 * Block Explorer 2: https://scan.bt.io
+* Data Snapshots Download: https://snapshots.bt.io
 
 ### BTTC Infrastructure Providers
 You can also use other infrastructure providers' RPC services:
@@ -39,7 +40,7 @@ You can also use other infrastructure providers' RPC services:
 
 ## BSC Network
 * Network Name: Binance Smart Chain
-* RPC URL: https://bsc-dataseed.binance.org/
+* RPC URL: https://bsc-dataseed.binance.org
 * ChainID: `56`
 * Symbol: BNB
 * Block Explorer: https://bscscan.com
@@ -65,13 +66,13 @@ BTTC is a layer-2 network of TRON/BSC/Ethereum network. The following is the net
 ## BTTC Donau Testnet
 Access to the BTTC Donau test network requires the use of the Metamask wallet, to which a custom RPC network is added with the following parameters:
 * Network Name: BitTorrent Chain Donau
-* RPC URL: https://pre-rpc.bt.io/
+* RPC URL: https://pre-rpc.bt.io
 * ChainID: `1029`
 * Symbol: BTT
-* Block Explorer 1: https://testscan.bt.io/
-* Block Explorer 2: https://testnet.bttcscan.com/
+* Block Explorer 1: https://testscan.bt.io
+* Block Explorer 2: https://testnet.bttcscan.com
 * WebSocket: wss://pre-rpc.bt.io:8546
-
+* Data Snapshots Download: https://test-snapshots.bt.io
 
 
 ## ETH Goerli Testnet
