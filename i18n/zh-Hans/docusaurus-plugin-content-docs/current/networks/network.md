@@ -28,6 +28,7 @@ BTTC是TRON/BSC/Ethereum网络一个二层网络， 下面是主网的网络结�
 * 货币符号：BTT
 * 区块览器1：https://bttcscan.com
 * 区块览器2：https://scan.bt.io
+* 数据快照下载：https://snapshots.bt.io
 
 ### BTTC 主网基础设施提供商
 你还可以使用其他基础设施提供商的RPC服务：
@@ -45,7 +46,7 @@ BTTC是TRON/BSC/Ethereum网络一个二层网络， 下面是主网的网络结�
 ## BSC 网络
 
 * 网络名称: Binance Smart Chain
-* RPC URL: https://bsc-dataseed.binance.org/
+* RPC URL: https://bsc-dataseed.binance.org
 * 链ID: `56`
 * 货币符号: BNB
 * 区块浏览器: https://bscscan.com
@@ -66,13 +67,13 @@ BTTC是TRON/BSC/Ethereum网络一个二层网络， 下面是测试网的网络�
 ## BTTC Donau测试网
 BTTC Donau测试网的接入需要使用Metamask钱包，在Metamask钱包中添加自定义RPC网络，参数如下：
 * 网络名称：BitTorrent Chain Donau
-* RPC URL：https://pre-rpc.bt.io/ 
+* RPC URL：https://pre-rpc.bt.io
 * ChainID：`1029`
 * Symbol：BTT
 * 区块浏览器 1: https://testscan.bt.io
 * 区块浏览器 2: https://testnet.bttcscan.com
 * WebSocket：wss://pre-rpc.bt.io:8546
-
+* 数据快照下载：https://test-snapshots.bt.io
 
 
 ## ETH Goerli测试网
