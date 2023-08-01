@@ -14,13 +14,13 @@
 | RootChainProxy               | TMvs6n9qy1R13CPd1AfxhW41GBG21NSXNj |
 | GovernanceProxy              | TQ1cN2SPyuoGP52XeaZ77gDv3SE4r6g4eu |
 | StateSender                  | TJVjaUrn6PNpCDYLvdRTXmwBULND2a9AkS |
-| MintableERC20Predicate       | TFPG3Jw9xywpyTApKBoJSnAE8RtUNTP3sY |
-| MintableERC721Predicate      | TGruPDjZARYo6FYm7gLTExuJZgdjDzJAmc |
+| MintableERC20Predicate       | ~~TFPG3Jw9xywpyTApKBoJSnAE8RtUNTP3sY~~ TCM4ua3kdM2sRp7VQShB7Us7juSB83ZqiZ |
+| MintableERC721Predicate      | ~~TGruPDjZARYo6FYm7gLTExuJZgdjDzJAmc~~ TDhdfx5Efe7rPunTHfeLDzBTWKpy17xjMy |
 | StakeManagerProxy            | TEpjT8xbAe3FPCPFziqFfEjLVXaw9NbGXj |
-| ERC721Predicate              | TVbnfYUp8uEt42qhRdcLsaPJHd1NFHfyUJ |
+| ERC721Predicate              | ~~TVbnfYUp8uEt42qhRdcLsaPJHd1NFHfyUJ~~ TMv5LYBGkNQu65ikdzDEHMXStCLXF6TVMo |
 | EventsHub                    | TLFnvxqowWEwin8myL65rPeuBnsixzcyPM |
 | EventsHubProxy               | TKvGr1u1nihZu2xhzxTJeX2UFYA6kAK3pg |
-| ERC20Predicate               | TWis8P9dhB7UGfsZtW2qjR3XiYFMSejT1Y |
+| ERC20Predicate               | ~~TWis8P9dhB7UGfsZtW2qjR3XiYFMSejT1Y~~ TUqn2MSJkwTsReSGZszCzBP3KnKpMpRVtu |
 | ValidatorShare               | TUyomXRswgWAX867h9GWeBezKW3SJd5mVP |
 | TronRootChainManager         | TN5iTE6yjoiDsWPi1NzULbrdaQmMChVFaT |
 | EtherPredicate               | TDpYFyUVzVt3qk9BW1obyABtCn4vAMwoQ7 |
@@ -33,7 +33,7 @@
 | EtherPredicateProxy          | TRyQMRRoYhVfEbi4CLAMDWA76ae3djHoKj |
 | MintableERC721PredicateProxy | TEHTjbuQfiJsTb2UdKHjMgmFGwLDqVDNh5 |
 | DummyERC20                   | TSWWLv8iysnmpwVeMxmimqfB2Ni2rueieD |
-| StakeManager                 | TJZQLJLnk6o1e8N9ipsaY8fFvhEHQhmKSR |
+| StakeManager                 | ~~TJZQLJLnk6o1e8N9ipsaY8fFvhEHQhmKSR~~ TUQoj5GCHXvv4LLJUXMuEKEj7rAHHKWEdF |
 | MintableERC20PredicateProxy  | TH6JAd7DNka8Q6oKqkQMWJ6TYdLG6fQ6Kv |
 | ERC721PredicateProxy         | TFyrjevd44V81Fgn57sDPaF1fp3WaiRudc |
 | ValidatorShareFactory        | THHbapLdbXv6dpzYouTTAwN8bxt8ffYAHK |
@@ -51,13 +51,13 @@
 | GovernanceProxy              | 0x9a15f3a682d086c515be4037bda3b0676203a8ef |
 | StateSender                  | 0xedf53026aea60f8f75fca25f8830b7e2d6200662 |
 | TestToken                    | 0xcbb9edf6775e39748ea6483a7fa6a385cd7e9a4e |
-| MintableERC20Predicate       | 0x78dca9f9236d2aadb61a8784ab2e257ddd215ca9 |
-| MintableERC721Predicate      | 0x17501034df227d8565a8c11f41df2418f5d403b6 |
+| MintableERC20Predicate       | ~~0x78dca9f9236d2aadb61a8784ab2e257ddd215ca9~~ 0xFf7684686ee5dDa21346970B48C5BB4685890e1c |
+| MintableERC721Predicate      | ~~0x17501034df227d8565a8c11f41df2418f5d403b6~~ 0x8f5AB128FA9fb570B5dF9c909f4d51DaDB18dA73 |
 | StakeManagerProxy            | 0xe887512ab8bc60bcc9224e1c3b5be68e26048b8b |
-| ERC721Predicate              | 0x54cd017f0d7cdef1d0dc265926aa9b3ac7774a0c |
+| ERC721Predicate              | ~~0x54cd017f0d7cdef1d0dc265926aa9b3ac7774a0c~~ 0xb555A04c9F364f97c647F0969ccDDe6704574050 |
 | EventsHub                    | 0x4028a3c7ae9a0555293225135e54a6fa2879c215 |
 | EventsHubProxy               | 0x2255686dff7bcc3aee7277ee751647261e75afb4 |
-| ERC20Predicate               | 0xcc2fc4debae5863f4b59d8298924d04f08d06684 |
+| ERC20Predicate               | ~~0xcc2fc4debae5863f4b59d8298924d04f08d06684~~ 0xCEdE21A4D3e8Afe51bb353D7C2e67543232fE0aD |
 | ValidatorShare               | 0x0d9aa3f32a538da6fbf3c3c9b8f8edf01e6b5aba |
 | EtherPredicate               | 0xe7424ab0e1828d83ad402da5644142e55598c782 |
 | Registry                     | 0x4c99846fcafd7bede2827788f05796ed4bc11da4 |
@@ -87,13 +87,13 @@
 | GovernanceProxy              | 0x98dfb360cbc65045a8415fa2514f549cd3000f02 |
 | StateSender                  | 0x74e4e5eb5aae2fbef42ec07298cab532425cb466 |
 | TestToken                    | 0xe887512ab8bc60bcc9224e1c3b5be68e26048b8b |
-| MintableERC20Predicate       | 0xb932da3a1b3cba3f744edbc55cc1107575c37b6c |
-| MintableERC721Predicate      | 0xdd85d7bdd2b35a38f527f73bad1acb09b7a1e35c |
+| MintableERC20Predicate       | ~~0xb932da3a1b3cba3f744edbc55cc1107575c37b6c~~ 0xb10510c50c9001D3845030fc9B96aF9C44ebC702 |
+| MintableERC721Predicate      | ~~0xdd85d7bdd2b35a38f527f73bad1acb09b7a1e35c~~ 0xE39097d93FD0a0bE3D80fB807dd148608c1F9D78 |
 | StakeManagerProxy            | 0x386138b94c57c6ae303b3c1f9bc95850f02d3b33 |
-| ERC721Predicate              | 0xf4f9a847c3fd1067aed9a809936b53c823ae7a71 |
+| ERC721Predicate              | ~~0xf4f9a847c3fd1067aed9a809936b53c823ae7a71~~ 0x8ad50d2a7B80cF21ddf0EE6E3eC54E5f6a7e59A9 |
 | EventsHub                    | 0xd06029b23e9d4cd24bad01d436837fa02b8f0dd9 |
 | EventsHubProxy               | 0xd36ca9a2efff2ec05ed016d7cd28e38659d7d09b |
-| ERC20Predicate               | 0x99cdd3dad1efcffa57a5e622939c9d5411cc8eb1 |
+| ERC20Predicate               | ~~0x99cdd3dad1efcffa57a5e622939c9d5411cc8eb1~~ 0xdE304381ffa41cf5961F322B9295F1F39a69d85f |
 | ValidatorShare               | 0xdb28719f7f938507dbfe4f0eae55668903d34a15 |
 | EtherPredicate               | 0xae17940943ba9440540940db0f1877f101d39e8b |
 | Registry                     | 0x2255686dff7bcc3aee7277ee751647261e75afb4 |
