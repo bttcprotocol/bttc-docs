@@ -67,9 +67,9 @@
     "message": "Telegram",
     "description": "The label of footer link with label=Telegram linking to https://t.me/bttccoredev"
   },
-  "link.item.label.Meidum": {
-    "message": "Meidum",
-    "description": "The label of footer link with label=Meidum linking to https://github.com/facebook/docusaurus"
+  "link.item.label.Medium": {
+    "message": "Medium",
+    "description": "The label of footer link with label=Medium linking to https://medium.com/@BitTorrent"
   },
   "copyright": {
     "message": "Copyright © 2022 Bittorrent-Chain | All rights reserved",
