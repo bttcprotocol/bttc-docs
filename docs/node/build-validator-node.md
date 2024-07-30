@@ -221,6 +221,7 @@ Save the changes in `config.toml`.
 * `tron_grid_url`: TRON Network event service query url.
 * `bsc_rpc_url`: RPC address of BSC network node.[official-rpc-node](https://docs.binance.org/smart-chain/developer/rpc.html) 
 * `checkpoint_poll_interval`: checkpoint poll interval.please set this param to `30m0s`.
+  
 
 **Example(mainnet):**
 
