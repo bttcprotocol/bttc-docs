@@ -240,7 +240,7 @@ vim ~/.deliveryd/config/delivery-config.toml
 eth_rpc_url = "https://mainnet.infura.io/v3/<YOUR_INFURA_KEY>" 
 bsc_rpc_url = "https://bsc-dataseed.binance.org/" 
 tron_rpc_url = "grpc.trongrid.io:50051" 
-tron_grid_url = "https://tronevent.bt.io/"
+tron_grid_url = "https://api.trongrid.io"
 ```
 
 **Example(testnet-1029):**
@@ -250,8 +250,8 @@ vim ~/.deliveryd/config/delivery-config.toml
   
 eth_rpc_url = "https://goerli.infura.io/v3/<YOUR_INFURA_KEY>" 
 bsc_rpc_url = "https://data-seed-prebsc-1-s1.binance.org:8545/"
-tron_rpc_url = "47.252.19.181:50051" 
-tron_grid_url = "https://test-tronevent.bt.io"
+tron_rpc_url = "grpc.nile.trongrid.io:50051" 
+tron_grid_url = "https://nile.trongrid.io"
 ```
 
 #### Configure the Bttc Service
