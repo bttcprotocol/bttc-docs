@@ -219,6 +219,7 @@ Save the changes in `config.toml`.
 * `eth_rpc_url`: Ethereum network rpc address. You need to generate INFURA_KEY yourself in order to communicate with Ethereum. [API_KEY Application Tutorial](https://ethereumico.io/knowledge-base/infura-api-key-guide)
 * `tron_rpc_url`: RPC address of TRON network node. choose from [official-public-node](https://developers.tron.network/docs/official-public-node)
 * `tron_grid_url`: TRON Network event service query url.
+* `tron_grid_api_key`: Tron Grid Api Key . You need to generate tron_grid_api_key yourself in order to communicate with Trongrid. [Tron_grid_api_key Tutorial](https://developers.tron.network/reference/select-network). Specially, in testnet-1029  you needn't tron_grid_api_key.
 * `bsc_rpc_url`: RPC address of BSC network node.[official-rpc-node](https://docs.binance.org/smart-chain/developer/rpc.html) 
 * `checkpoint_poll_interval`: checkpoint poll interval.please set this param to `30m0s`.
 
@@ -230,7 +231,8 @@ vim ~/.deliveryd/config/delivery-config.toml
 eth_rpc_url = "https://mainnet.infura.io/v3/<YOUR_INFURA_KEY>" 
 bsc_rpc_url = "https://bsc-dataseed.binance.org/" 
 tron_rpc_url = "grpc.trongrid.io:50051" 
-tron_grid_url = "https://tronevent.bt.io/"
+tron_grid_url = "https://api.trongrid.io"
+tron_grid_api_key = "<YOUR_TRON_GRID_API_KEY>"
 ```
 
 **Example(testnet-1029):**
@@ -240,8 +242,9 @@ vim ~/.deliveryd/config/delivery-config.toml
   
 eth_rpc_url = "https://goerli.infura.io/v3/<YOUR_INFURA_KEY>" 
 bsc_rpc_url = "https://data-seed-prebsc-1-s1.binance.org:8545/"
-tron_rpc_url = "47.252.19.181:50051" 
-tron_grid_url = "https://test-tronevent.bt.io"
+tron_rpc_url = "grpc.nile.trongrid.io:50051" 
+tron_grid_url = "https://nile.trongrid.io"
+tron_grid_api_key = "xxxxxxxx"
 ```
 
 
@@ -360,6 +363,7 @@ In `delivery-config.toml`, change the following:
 * `eth_rpc_url`: Ethereum network rpc address. You need to generate INFURA_KEY yourself in order to communicate with Ethereum. [API_KEY Application Tutorial](https://ethereumico.io/knowledge-base/infura-api-key-guide)
 * `tron_rpc_url`: RPC address of TRON network node. choose from [official-public-node](https://developers.tron.network/docs/official-public-node)
 * `tron_grid_url`: TRON Network event service query url.
+* `tron_grid_api_key`: Tron Grid Api Key . You need to generate tron_grid_api_key yourself in order to communicate with Trongrid. [Tron_grid_api_key Tutorial](https://developers.tron.network/reference/select-network). Specially, in testnet-1029  you needn't tron_grid_api_key.
 * `bsc_rpc_url`: RPC address of BSC network node.[official-rpc-node](https://docs.binance.org/smart-chain/developer/rpc.html)
 
 **Example(mainnet):**
@@ -370,7 +374,8 @@ vim ~/.deliveryd/config/delivery-config.toml
 eth_rpc_url = "https://mainnet.infura.io/v3/<YOUR_INFURA_KEY>" 
 bsc_rpc_url = "https://bsc-dataseed.binance.org/" 
 tron_rpc_url = "grpc.trongrid.io:50051" 
-tron_grid_url = "https://tronevent.bt.io/"
+tron_grid_url = "https://api.trongrid.io"
+tron_grid_api_key = "<YOUR_TRON_GRID_API_KEY>"
 ```
 
 **Example(testnet-1029):**
@@ -380,8 +385,9 @@ vim ~/.deliveryd/config/delivery-config.toml
   
 eth_rpc_url = "https://goerli.infura.io/v3/<YOUR_INFURA_KEY>" 
 bsc_rpc_url = "https://data-seed-prebsc-1-s1.binance.org:8545/"
-tron_rpc_url = "47.252.19.181:50051" 
-tron_grid_url = "https://test-tronevent.bt.io"
+tron_rpc_url = "grpc.nile.trongrid.io:50051" 
+tron_grid_url = "https://nile.trongrid.io"
+tron_grid_api_key = "xxxxxxxx"
 ```
 
 ### Configure the Bttc service
