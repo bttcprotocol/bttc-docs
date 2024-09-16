@@ -30,6 +30,7 @@ BTTC is a layer-2 network of TRON/BSC/Ethereum network. The following is the net
 You can also use other infrastructure providers' RPC services:
 - [GetBlock](https://getblock.io/nodes/bttc/)
 - [Ankr](https://www.ankr.com/rpc/bttc)
+- [dRPC](https://drpc.org/chainlist/bittorrent)
 
 ## ETH Network
 * Network Name: Ethereum Mainnet
