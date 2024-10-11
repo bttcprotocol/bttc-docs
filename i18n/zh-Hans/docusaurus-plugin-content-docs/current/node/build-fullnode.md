@@ -29,7 +29,7 @@
   ```sh
   sudo apt-get install build-essential
   ```
-* 在fullnode节点上安装Go 1.17.
+* 在fullnode节点上安装Go 1.21.9.
   安装示例:
   ```sh
   wget https://gist.githubusercontent.com/ssandeep/a6c7197811c83c71e5fead841bab396c/raw/go-install.sh

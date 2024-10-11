@@ -29,7 +29,7 @@ During the process of following the instructions in this section, you will need 
   ```sh
   sudo apt-get install build-essential
   ```
-* Go 1.17 installed on fullnode machine.
+* Go 1.21.9 installed on fullnode machine.
   To install:
   ```sh
   wget https://gist.githubusercontent.com/ssandeep/a6c7197811c83c71e5fead841bab396c/raw/go-install.sh
