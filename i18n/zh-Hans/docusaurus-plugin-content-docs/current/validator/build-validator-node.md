@@ -29,7 +29,7 @@
     ```
     sudo apt-get install build-essential
     ```
-*   在哨兵节点和验证人节点设备上均安装Go 1.17:
+*   在哨兵节点和验证人节点设备上均安装Go 1.21.9:
 
     ```
     wget https://gist.githubusercontent.com/ssandeep/a6c7197811c83c71e5fead841bab396c/raw/go-install.sh
