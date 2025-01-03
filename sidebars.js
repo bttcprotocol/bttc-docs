@@ -178,6 +178,11 @@ const sidebars = {
       	  id: 'bridge/deposit-checkpoint-event-tracking',
           label: 'Deposit Checkpoint Event Tracking',
         },
+        {
+          type: 'doc',
+      	  id: 'bridge/cross-chain',
+          label: 'Cross-Chain',
+        },
       ],
     },
     {
