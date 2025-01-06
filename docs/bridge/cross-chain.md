@@ -1,17 +1,17 @@
 
 # Cross-Chain
 
-1\. What is a cross-chain transaction?
+## What is a cross-chain transaction?
 
-&nbsp;&nbsp;&nbsp;&nbsp;a. A cross-chain transaction transfers your token asset from one mainnet (e.g., TRON) to another (e.g., Ethereum) through BTTC via a single cross-chain request.
+1. A cross-chain transaction transfers your token asset from one mainnet (e.g., TRON) to another (e.g., Ethereum) through BTTC via a single cross-chain request.
 
-2\. How is this achieved?
+## How is this achieved?
 
-&nbsp;&nbsp;&nbsp;&nbsp;a. The process relies on swapping child tokens on the BTTC chain directly.
+1. The process relies on swapping child tokens on the BTTC chain directly.
 
-&nbsp;&nbsp;&nbsp;&nbsp;b. Define one child token as the origin token and correlate it to the other child token. Then, add the swapIn and swapOut functions.
+2. Define one child token as the origin token and correlate it to the other child token. Then, add the swapIn and swapOut functions.
 
-&nbsp;&nbsp;&nbsp;&nbsp;c. The two functions are then called by the ChildERC20Exit contract [https://bttcscan.com/address/0xbd55ae392f5abbc10eff7d6610b5b2d32293c418\#code](https://bttcscan.com/address/0xbd55ae392f5abbc10eff7d6610b5b2d32293c418#code) to perform the token swap, as illustrated in the script below.
+3. The two functions are then called by the ChildERC20Exit contract [https://bttcscan.com/address/0xbd55ae392f5abbc10eff7d6610b5b2d32293c418\#code](https://bttcscan.com/address/0xbd55ae392f5abbc10eff7d6610b5b2d32293c418#code) to perform the token swap, as illustrated in the script below.
 
 ```javascript
    /**
@@ -48,11 +48,11 @@
 
 ```
 
-3\. Example:
+## Example:
 
-&nbsp;&nbsp;&nbsp;&nbsp;a. In the following section, we'll use the JST token as a reference. Here, JST\_t (https://bttcscan.com/address/0x17501034df227d8565a8c11f41df2418f5d403b6\#code) serves as the origin token, while JST\_e and JST\_b are the other two child tokens.
+1. In the following section, we'll use the JST token as a reference. Here, JST\_t (https://bttcscan.com/address/0x17501034df227d8565a8c11f41df2418f5d403b6\#code) serves as the origin token, while JST\_e and JST\_b are the other two child tokens.
 
-&nbsp;&nbsp;&nbsp;&nbsp;b. The script below illustrates how JST\_t is swapped for JST\_e (JST\_b also undergoes the same process). The key is to use the swap functions and set JST\_t as the origin token.
+2. The script below illustrates how JST\_t is swapped for JST\_e (JST\_b also undergoes the same process). The key is to use the swap functions and set JST\_t as the origin token.
 
 ```javascript
 1. just_e token: https://bttcscan.com/address/0x6c0a243302429d3ab54207414aeabb7c6be70aeb#code 
@@ -147,9 +147,9 @@ contract JST_e is
 
 ```
 
-JST\_t token  
-&nbsp;&nbsp;&nbsp;&nbsp; 1\. [https://bttcscan.com/address/0x17501034df227d8565a8c11f41df2418f5d403b6\#code](https://bttcscan.com/address/0x17501034df227d8565a8c11f41df2418f5d403b6#code)
+#### JST\_t token  
+1. [https://bttcscan.com/address/0x17501034df227d8565a8c11f41df2418f5d403b6\#code](https://bttcscan.com/address/0x17501034df227d8565a8c11f41df2418f5d403b6#code)
 
-&nbsp;&nbsp;&nbsp;&nbsp;2\. There's no need to add the swap functions.
+2. There's no need to add the swap functions.
 
  
