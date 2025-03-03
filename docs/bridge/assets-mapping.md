@@ -1,3 +1,5 @@
+import useBaseUrl from '@docusaurus/useBaseUrl'
+
 # Assets Mapping
 
 Mapping is an important step in the cross-chain transfer of assets. Mapping is the use of smart contracts on two networks (e.g. TRON and BTTC) to match assets one to the other, facilitating operations such as locking, destroying and transferring.
@@ -19,6 +21,23 @@ When the assets on public chain has to be moved to BTTC, once a deposit is initi
 ### Requirements to be satisfied
 
 There are a few steps that have to be strictly followed when users need to move assets from contract deployed on public chain to BTTC.
+
+#### Token Naming on BTTC
+
+On BTTC, it’s highly recommended that you use a suffix in your  token's name to highlight its source chain and distinguish it from other tokens with the same name.   
+
+For example, when users add both USDT (TRON) and USDT (BNB Chain) to MetaMask, they can mainly distinguish the tokens through the suffix.  
+
+<img src={useBaseUrl("img/token-naming.png")} alt="Token Naming" width="400" />
+
+Here are some rules you may use when you appoint a suffix for your token. Take USDT on TRON as an example:   
+- <strong>Name: </strong> Add the name of the source chain as a suffix, e.g., <span style={{color: '#008000'}}>Tether USD_TRON</span>
+- <strong>Symbol: </strong> Append the first letter of the source chain in lowercase, e.g., <span style={{color: '#008000'}}>USDT_t</span>  
+
+This approach also applies to USDT on BNB Chain or Ethereum:   
+- <strong>Name: </strong><span style={{color: '#008000'}}>Tether USD_BSC</span> and <span style={{color: '#008000'}}>Tether USD_Ethereum</span>
+- <strong>Symbol: </strong><span style={{color: '#008000'}}>USDT_b</span> and <span style={{color: '#008000'}}>USDT_e</span>
+
 
 #### 1. Confirm the deployment of root token contract on public chains
 
