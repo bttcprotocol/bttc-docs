@@ -19,7 +19,7 @@ The funds belonging to all stakers are locked in a contract deployed on the TRON
 No validator holds custody over delegator tokens.
 
 ## Reward Calculation
-The total annual reward of the BTTC network is 7,041,208,483,000 BTT, of which 10% is used to reward the validators who submit checkpoints, and 90% is used to reward all the stakers. The staking rewards are distributed according to the ratio of the staking amount to the total staking amount of the entire network. 
+10% of network rewards on BTTC are allocated to validators who submit checkpoints, while the remaining 90% is distributed among all delegators and validators according to their share of total staked assets. 
 
 The following formula shows how to calculate the delegator's annual income:
 ```
