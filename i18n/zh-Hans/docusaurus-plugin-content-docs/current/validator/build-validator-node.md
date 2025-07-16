@@ -196,7 +196,7 @@ bash setup.sh
     1029测试网配置
 
     ```toml
-    seeds="3f562eed0fcfabc848db5ebed81633e340352c0c@52.53.72.234:26656,65f774fece098327b595c971b507db24356000fd@54.176.105.93:26656,8a8944fcaddb46ff18ec59a3197af1c5763eb824@50.18.50.100:26656,7ece43f437d4dc419bdf9c09604ebed084699779@54.215.2.221:26656"
+    seeds="3f562eed0fcfabc848db5ebed81633e340352c0c@52.53.72.234:26656,65f774fece098327b595c971b507db24356000fd@54.176.105.93:26656"
     ```
 * `pex` — 将值设置为 true，开启 PEX。 示例: `pex = true`.
 * `private_peer_ids` — 在验证人节点设置的 Delivery 节点 ID. 在验证人节点上获取 Delivery 节点 ID:
